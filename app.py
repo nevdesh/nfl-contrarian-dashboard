@@ -46,6 +46,37 @@ st.markdown(
     """
 )
 
+@st.cache_data(ttl=300, show_spinner=False)
+def load_automated_vsin():
+    """Load and validate published VSiN contrarian results."""
+    response = requests.get(AUTO_CSV_URL, timeout=20)
+    response.raise_for_status()
+
+    from io import StringIO
+    df = pd.read_csv(StringIO(response.text))
+
+    required = {
+        "game_date",
+        "game_number",
+        "team",
+        "spread",
+        "spread_handle_pct",
+        "moneyline",
+        "moneyline_handle_pct",
+    }
+
+    missing = required - set(df.columns)
+    if missing:
+        raise ValueError(
+            "Missing automated CSV columns: "
+            + ", ".join(sorted(missing))
+        )
+
+    for column in ["spread_handle_pct", "moneyline_handle_pct"]:
+        df[column] = pd.to_numeric(df[column], errors="coerce")
+
+    return df
+
 st.info(
     "This dashboard refreshes automatically. Live page "
     "availability does not guarantee that the source tables "
