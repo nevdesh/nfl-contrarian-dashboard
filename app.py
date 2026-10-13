@@ -1,6 +1,6 @@
 import re
 from datetime import datetime, timezone
-
+from io import StringIO
 import pandas as pd
 import requests
 import streamlit as st
@@ -68,8 +68,8 @@ def check_source(url):
     tables = []
 
     try:
-        tables = pd.read_html(response.text)
-    except (ValueError, ImportError):
+        tables = pd.read_html(StringIO(response.text))
+    except (ValueError, ImportError, OSError):
         pass
 
     return {
