@@ -33,7 +33,7 @@ jobs:
           DATA_URL: https://data.vsin.com/betting-splits/?source=DK&sport=NFL
           LOGIN_URL_MARKERS: login,signin,sign-in
         run: python vsin_capture.py
-              - name: Generate NFL contrarian qualifiers
+       - name: Generate NFL contrarian qualifiers
         shell: bash
         run: |
           TABLE_FILE=$(find captures -type f -name '*-tables.json' | sort | tail -n 1)
