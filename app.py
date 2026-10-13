@@ -202,6 +202,92 @@ with st.sidebar:
 if check_now:
     check_source.clear()
 
+# Automated VSiN contrarian dashboard
+st.subheader("Automated NFL contrarian results")
+st.caption(
+    "DraftKings betting handle data captured by VSiN. "
+    "The source is refreshed by GitHub Actions."
+)
+
+try:
+    automated = load_automated_vsin()
+
+    confirmed = automated[
+        automated["Data Status"] == "Meets thresholds"
+    ].copy()
+
+    verification = automated[
+        automated["Data Status"] == "Needs verification"
+    ].copy()
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.metric("Qualifying teams", len(confirmed))
+
+    with col2:
+        st.metric("Needs verification", len(verification))
+
+    display_columns = {
+        "game_date": "Game Date",
+        "team": "Team",
+        "spread": "Spread",
+        "spread_handle_pct": "Spread Handle %",
+        "moneyline": "Moneyline",
+        "moneyline_handle_pct": "Moneyline Handle %",
+        "Spread Movement": "Favorable Spread Movement",
+        "Moneyline Movement": "Favorable ML Movement",
+        "Data Status": "Data Status",
+    }
+
+    st.markdown("### Qualifying contrarian teams")
+
+    if confirmed.empty:
+        st.info("No qualifying teams in the latest CSV.")
+    else:
+        st.dataframe(
+            confirmed[list(display_columns)].rename(
+                columns=display_columns
+            ),
+            use_container_width=True,
+            hide_index=True,
+        )
+
+    st.markdown("### Teams requiring verification")
+
+    if verification.empty:
+        st.success("No flagged rows in the latest CSV.")
+    else:
+        st.warning(
+            "These rows contain 0% handles or incomplete "
+            "market information. Verify against VSiN "
+            "before treating them as actionable."
+        )
+
+        st.dataframe(
+            verification[list(display_columns)].rename(
+                columns=display_columns
+            ),
+            use_container_width=True,
+            hide_index=True,
+        )
+
+    st.download_button(
+        "Download automated contrarian results",
+        automated.to_csv(index=False),
+        "automated_nfl_contrarians.csv",
+        "text/csv",
+        key="automated_download",
+    )
+
+except Exception as exc:
+    st.error(
+        "Could not load automated VSiN results: "
+        + str(exc)
+    )
+
+st.divider()
+
 st.subheader("1. Source status")
 
 for name, url in [
