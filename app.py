@@ -13,6 +13,13 @@ VSIN_URL = (
 )
 EV_URL = "https://evanalytics.com/nfl/odds"
 
+AUTO_CSV_URL = (
+    "https://raw.githubusercontent.com/"
+    "nevdesh/nfl-contrarian-dashboard/"
+    "main/data/contrarian_qualifiers.csv"
+)
+
+
 st.set_page_config(
     page_title="NFL Contrarian Dashboard",
     page_icon="🏈",
