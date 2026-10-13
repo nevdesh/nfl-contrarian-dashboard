@@ -7,9 +7,9 @@ import streamlit as st
 from bs4 import BeautifulSoup
 from streamlit_autorefresh import st_autorefresh
 
-VSIN_URL = (
-    "https://data.vsin.com/betting-splits/"
-    "?source=DK&sport=NFL"
+DRAFTKINGS_SPLITS_URL = (
+    "https://dknetwork.draftkings.com/draftkings-sportsbook-betting-splits/"
+    "?tb_eg=88808&tb_edate=n7days&tb_emt=0&itm_content=NFL"
 )
 EV_URL = "https://evanalytics.com/nfl/odds"
 
@@ -21,7 +21,7 @@ st.set_page_config(
 
 st.title("🏈 NFL Contrarian Dashboard")
 st.caption(
-    "VSiN DraftKings splits + Evan Analytics NFL odds"
+    "DraftKings Network betting splits + EV Analytics NFL odds"
 )
 
 # Refresh the dashboard every five minutes.
@@ -34,8 +34,8 @@ st.markdown(
     f"""
     **Sources**
 
-    - [VSiN DraftKings NFL betting splits]({VSIN_URL})
-    - [Evan Analytics NFL odds]({EV_URL})
+    - [DraftKings Network NFL betting splits]({DRAFTKINGS_SPLITS_URL})
+    - [EV Analytics NFL odds]({EV_URL})
     """
 )
 
@@ -105,8 +105,8 @@ if check_now:
 st.subheader("1. Source status")
 
 for name, url in [
-    ("VSiN betting splits", VSIN_URL),
-    ("Evan Analytics odds", EV_URL),
+    ("DraftKings Network betting splits", DRAFTKINGS_SPLITS_URL),
+    ("EV Analytics odds", EV_URL),
 ]:
     with st.expander(name, expanded=True):
         try:
@@ -181,7 +181,7 @@ with left:
         "text/csv",
     )
     splits_file = st.file_uploader(
-        "Upload VSiN splits CSV",
+        "Upload DraftKings splits CSV",
         type="csv",
         key="splits_upload",
     )
@@ -259,11 +259,31 @@ if splits_file is not None and odds_file is not None:
             odds["timestamp"], utc=True, errors="coerce"
         )
 
-        splits = splits[
+        # First identify teams that qualify in BOTH markets.
+        # A team must have a valid handle percentage below the threshold
+        # for both moneyline and spread to enter the contrarian shortlist.
+        valid_splits = splits[
             splits["market"].isin(["spread", "moneyline"])
             & splits["handle_pct"].between(0, 100)
-            & (splits["handle_pct"] < threshold)
         ].copy()
+
+        market_counts = (
+            valid_splits[valid_splits["handle_pct"] < threshold]
+            .groupby(["game_key", "team_key"])["market"]
+            .nunique()
+        )
+        qualifying_teams = market_counts[market_counts == 2].index
+
+        if len(qualifying_teams) == 0:
+            splits = valid_splits.iloc[0:0].copy()
+        else:
+            qualified_index = pd.MultiIndex.from_frame(
+                valid_splits[["game_key", "team_key"]]
+            )
+            splits = valid_splits[
+                qualified_index.isin(qualifying_teams)
+                & (valid_splits["handle_pct"] < threshold)
+            ].copy()
 
         odds = odds.dropna(
             subset=["line", "timestamp", "game_key", "team_key"]
@@ -316,7 +336,9 @@ if splits_file is not None and odds_file is not None:
                 return "Insufficient odds history"
 
             if row["market"] == "spread":
-                delta = old - new
+                # Spreads are entered from the candidate team's perspective.
+                # Example: +3.0 to +3.5 or -3.0 to -2.5 both favor that team.
+                delta = new - old
                 if delta >= min_spread_move:
                     return "Favorable movement"
                 if delta <= -min_spread_move:
@@ -398,8 +420,9 @@ if splits_file is not None and odds_file is not None:
 else:
     st.info(
         "Upload both CSV files to calculate contrarian signals. "
-        "The live source checks above do not yet populate the "
-        "analysis automatically."
+        "The live website checks above do not yet import betting data "
+        "automatically. Teams must be below the handle threshold in BOTH "
+        "moneyline and spread to qualify."
     )
 
 st.divider()
