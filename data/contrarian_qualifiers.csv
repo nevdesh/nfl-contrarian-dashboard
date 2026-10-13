@@ -1,11 +1,10 @@
 game_date,game_number,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-"NFL - THURSDAY, OCT 15",1,Denver Broncos,+2.5,13.0,+124,12.0
+"NFL - THURSDAY, OCT 15",1,Denver Broncos,+2.5,13.0,+124,13.0
 "NFL - SUNDAY, OCT 18",3,Cleveland Browns,+4.5,18.0,+195,7.0
-"NFL - SUNDAY, OCT 18",4,Tennessee Titans,+7,38.0,+260,20.0
-"NFL - SUNDAY, OCT 18",5,New Orleans Saints,-1.5,20.0,-118,25.0
-"NFL - SUNDAY, OCT 18",7,Atlanta Falcons,+3,33.0,+145,18.0
-"NFL - SUNDAY, OCT 18",9,Arizona Cardinals,+12.5,35.0,+600,2.0
-"NFL - SUNDAY, OCT 18",10,Los Angeles Chargers,+8.5,34.0,+380,7.0
+"NFL - SUNDAY, OCT 18",4,Tennessee Titans,+7,36.0,+260,20.0
+"NFL - SUNDAY, OCT 18",5,New Orleans Saints,-1.5,23.0,-115,25.0
+"NFL - SUNDAY, OCT 18",9,Arizona Cardinals,+12.5,35.0,+575,2.0
+"NFL - SUNDAY, OCT 18",10,Los Angeles Chargers,+8.5,34.0,+380,9.0
 "NFL - THURSDAY, OCT 22",1,Chicago Bears,-1.5,0.0,-122,0.0
 "NFL - SUNDAY, OCT 25",3,Baltimore Ravens,-,0.0,-192,1.0
 "NFL - SUNDAY, OCT 25",5,Tennessee Titans,+1.5,0.0,+105,0.0
