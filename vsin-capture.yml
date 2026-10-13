@@ -1,0 +1,43 @@
+name: VSiN authenticated NFL capture
+
+on:
+  schedule:
+    - cron: "0,30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: vsin-authenticated-capture
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies and Chromium
+        run: |
+          python -m pip install -r requirements-scraper.txt
+          python -m playwright install --with-deps chromium
+      - name: Capture VSiN NFL page
+        env:
+          PLAYWRIGHT_STORAGE_STATE_B64: ${{ secrets.PLAYWRIGHT_STORAGE_STATE_B64 }}
+          DATA_URL: https://data.vsin.com/betting-splits/?source=DK&sport=NFL
+          LOGIN_URL_MARKERS: login,signin,sign-in
+        run: python vsin_capture.py
+      - name: Upload capture diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: vsin-capture-${{ github.run_number }}
+          path: captures/
+          if-no-files-found: ignore
+          retention-days: 7
