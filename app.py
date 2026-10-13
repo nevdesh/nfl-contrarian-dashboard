@@ -86,6 +86,68 @@ st.info(
 
 
 @st.cache_data(ttl=300, show_spinner=False)
+def load_automated_vsin():
+    """Load and validate automated VSiN qualifiers."""
+    from io import StringIO
+
+    response = requests.get(AUTO_CSV_URL, timeout=20)
+    response.raise_for_status()
+
+    df = pd.read_csv(StringIO(response.text))
+
+    required = {
+        "game_date",
+        "game_number",
+        "team",
+        "spread",
+        "spread_handle_pct",
+        "moneyline",
+        "moneyline_handle_pct",
+    }
+
+    missing = required - set(df.columns)
+    if missing:
+        raise ValueError(
+            "Missing CSV columns: " + ", ".join(sorted(missing))
+        )
+
+    # Convert handle percentages to numeric values.
+    for col in ["spread_handle_pct", "moneyline_handle_pct"]:
+        df[col] = pd.to_numeric(df[col], errors="coerce")
+
+    # Require both markets to meet the original threshold.
+    qualifies = (
+        df["spread_handle_pct"].ge(0)
+        & df["spread_handle_pct"].lt(40)
+        & df["moneyline_handle_pct"].ge(0)
+        & df["moneyline_handle_pct"].lt(40)
+    )
+
+    # Missing or zero values need additional verification.
+    spread_missing = (
+        df["spread"].isna()
+        | df["spread"].astype(str).str.strip().isin(["", "nan"])
+    )
+
+    questionable = (
+        df["spread_handle_pct"].isna()
+        | df["moneyline_handle_pct"].isna()
+        | df["spread_handle_pct"].eq(0)
+        | df["moneyline_handle_pct"].eq(0)
+        | spread_missing
+    )
+
+    df["Data Status"] = "Check thresholds"
+    df.loc[qualifies, "Data Status"] = "Meets thresholds"
+    df.loc[questionable, "Data Status"] = "Needs verification"
+
+    # Movement requires historical odds observations.
+    df["Spread Movement"] = "Unknown"
+    df["Moneyline Movement"] = "Unknown"
+
+    return df
+
+@st.cache_data(ttl=300, show_spinner=False)
 def check_source(url):
     """Check whether a public source page is reachable."""
     headers = {
