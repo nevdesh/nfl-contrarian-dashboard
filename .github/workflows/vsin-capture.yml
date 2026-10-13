@@ -33,6 +33,15 @@ jobs:
           DATA_URL: https://data.vsin.com/betting-splits/?source=DK&sport=NFL
           LOGIN_URL_MARKERS: login,signin,sign-in
         run: python vsin_capture.py
+              - name: Generate NFL contrarian qualifiers
+        shell: bash
+        run: |
+          TABLE_FILE=$(find captures -type f -name '*-tables.json' | sort | tail -n 1)
+          if [ -z "$TABLE_FILE" ]; then
+            echo "ERROR: No VSiN tables JSON found."
+            exit 1
+          fi
+          python vsin_parser.py "$TABLE_FILE" --output captures/contrarian_qualifiers.csv
       - name: Upload capture diagnostics
         if: always()
         uses: actions/upload-artifact@v4
