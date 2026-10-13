@@ -8,9 +8,6 @@ on:
     - cron: "0,30 * * * *"
   workflow_dispatch:
 
-permissions:
-  contents: read
-
 concurrency:
   group: vsin-authenticated-capture
   cancel-in-progress: false
