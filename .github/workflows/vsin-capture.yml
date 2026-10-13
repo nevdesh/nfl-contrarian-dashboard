@@ -1,5 +1,8 @@
 name: VSiN authenticated NFL capture
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0,30 * * * *"
@@ -50,3 +53,26 @@ jobs:
           path: captures/
           if-no-files-found: ignore
           retention-days: 7
+          
+      - name: Publish contrarian CSV to repository
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          test -f captures/contrarian_qualifiers.csv
+
+          mkdir -p data
+          cp captures/contrarian_qualifiers.csv data/contrarian_qualifiers.csv
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/contrarian_qualifiers.csv
+
+          if git diff --cached --quiet; then
+            echo "No changes to publish."
+          else
+            git commit -m "Update automated NFL contrarian results"
+            git push origin HEAD:main
+          fi
+
