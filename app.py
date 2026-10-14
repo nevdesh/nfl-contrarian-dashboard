@@ -186,7 +186,7 @@ def check_source(url):
     tables = []
 
     try:
-        tables = pd.read_html(response.text)
+        tables = pd.read_html(__import__("io").StringIO(response.text))
     except (ValueError, ImportError):
         pass
 
@@ -616,3 +616,4 @@ st.caption(
     "movement do not establish who caused the move or predict "
     "a winning outcome. Verify market, team, and timestamps."
 )
+
