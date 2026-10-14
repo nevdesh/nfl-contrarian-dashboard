@@ -1,11 +1,11 @@
-name: VSiN authenticated NFL capture
+﻿name: VSiN authenticated NFL capture
 
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: "0,30 * * * *"
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 concurrency:
