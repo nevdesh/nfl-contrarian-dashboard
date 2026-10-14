@@ -1,0 +1,43 @@
+﻿/* NFL Contrarian Tracker — Dark Dashboard */
+
+.block-container {
+    max-width: 1500px;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+
+h1, h2, h3 {
+    color: #F1F5F9;
+    letter-spacing: -0.5px;
+}
+
+[data-testid="stMetric"] {
+    background: #142238;
+    border: 1px solid #253754;
+    border-radius: 14px;
+    padding: 20px;
+}
+
+[data-testid="stMetricLabel"] {
+    color: #94A3B8;
+}
+
+[data-testid="stMetricValue"] {
+    color: #F1F5F9;
+    font-weight: 700;
+}
+
+[data-testid="stDataFrame"] {
+    border: 1px solid #253754;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+div.stButton > button {
+    border-radius: 9px;
+    font-weight: 600;
+}
+
+[data-testid="stSidebar"] {
+    border-right: 1px solid #253754;
+}

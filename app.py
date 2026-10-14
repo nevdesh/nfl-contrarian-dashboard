@@ -1,3 +1,4 @@
+from dashboard_style import apply_dashboard_style
 import re
 from datetime import datetime, timezone
 
@@ -26,6 +27,8 @@ st.set_page_config(
     page_icon="🏈",
     layout="wide",
 )
+
+apply_dashboard_style()
 
 st.title("🏈 NFL Contrarian Dashboard")
 st.caption(
@@ -248,13 +251,19 @@ try:
         automated["Data Status"] == "Needs verification"
     ].copy()
 
-    col1, col2 = st.columns(2)
+    col1, col2, col3, col4 = st.columns(4)
 
     with col1:
         st.metric("Qualifying teams", len(confirmed))
 
     with col2:
         st.metric("Needs verification", len(verification))
+
+    with col3:
+        st.metric("Teams analyzed", len(automated))
+
+    with col4:
+        st.metric("Handle threshold", "<40%")
 
     display_columns = {
         "game_date": "Game Date",
@@ -277,12 +286,41 @@ try:
     if confirmed.empty:
         st.info("No qualifying teams in the latest CSV.")
     else:
+        movement_display = confirmed[list(display_columns)].rename(
+            columns=display_columns
+        ).copy()
+
+        for column in (
+            "Favorable Spread Movement",
+            "Favorable ML Movement",
+        ):
+            movement_display[column] = movement_display[column].map({
+                "Favorable": "\U0001F7E2 Favorable",
+                "Unfavorable": "\U0001F534 Unfavorable",
+                "Unchanged": "\u26AA Unchanged",
+                "Insufficient Data": "\u26AA Insufficient Data",
+            }).fillna(movement_display[column])
+
         st.dataframe(
-            confirmed[list(display_columns)].rename(
-                columns=display_columns
-            ),
+            movement_display,
             use_container_width=True,
             hide_index=True,
+            height=420,
+            column_config={
+                "Team": st.column_config.TextColumn(
+                    "Team",
+                    help="NFL team meeting both handle thresholds",
+                    pinned=True,
+                ),
+                "Spread Handle %": st.column_config.NumberColumn(
+                    "Spread Handle %",
+                    format="%.1f%%",
+                ),
+                "Moneyline Handle %": st.column_config.NumberColumn(
+                    "Moneyline Handle %",
+                    format="%.1f%%",
+                ),
+            },
         )
 
     st.markdown("### Teams requiring verification")
