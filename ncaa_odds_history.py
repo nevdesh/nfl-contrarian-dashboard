@@ -147,7 +147,7 @@ def append_history(capture, output):
 
     existing = []
     if output.exists():
-        with output.open(newline="", encoding="utf-8") as file:
+        with output.open(newline="", encoding="utf-8-sig") as file:
             reader = csv.DictReader(file)
             if reader.fieldnames != FIELDS:
                 raise ValueError("Existing history has unexpected columns")
@@ -198,4 +198,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     append_history(args.capture, args.output)
+
 
