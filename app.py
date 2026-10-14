@@ -6,6 +6,7 @@ import requests
 import streamlit as st
 from bs4 import BeautifulSoup
 from streamlit_autorefresh import st_autorefresh
+from movement_helper import load_movements
 
 VSIN_URL = (
     "https://data.vsin.com/betting-splits/"
@@ -141,11 +142,28 @@ def load_automated_vsin():
     df.loc[qualifies, "Data Status"] = "Meets thresholds"
     df.loc[questionable, "Data Status"] = "Needs verification"
 
-    # Movement requires historical odds observations.
-    df["Spread Movement"] = "Unknown"
-    df["Moneyline Movement"] = "Unknown"
+  
+    # Attach historical movement by game date and team.
+    movements = load_movements("data/odds_history.csv")
+
+    df["Spread Movement"] = "Insufficient Data"
+    df["Moneyline Movement"] = "Insufficient Data"
+
+    for index, row in df.iterrows():
+        date_text = row["game_date"].replace("NFL - ", "")
+        game_date = datetime.strptime(
+            date_text + " 2026",
+            "%A, %b %d %Y",
+        ).strftime("%Y-%m-%d")
+
+        movement = movements.get((game_date, row["team"]))
+
+        if movement:
+            df.at[index, "Spread Movement"] = movement["Spread Movement"]
+            df.at[index, "Moneyline Movement"] = movement["Moneyline Movement"]
 
     return df
+
 
 @st.cache_data(ttl=300, show_spinner=False)
 def check_source(url):

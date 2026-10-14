@@ -1,0 +1,70 @@
+
+import csv
+from collections import defaultdict
+from pathlib import Path
+
+from line_movement import (
+    classify_movement,
+    implied_probability,
+    spread_number,
+)
+
+
+def load_movements(history_path="data/odds_history.csv"):
+    history = defaultdict(list)
+
+    with open(history_path, newline="", encoding="utf-8-sig") as file:
+        for row in csv.DictReader(file):
+            matchup_id = row.get("matchup_id", "").strip()
+            team = row.get("team", "").strip()
+
+            if not matchup_id or not team:
+                continue
+
+            history[(matchup_id, team)].append(row)
+
+    results = {}
+
+    for (matchup_id, team), rows in history.items():
+        rows.sort(key=lambda row: row["captured_at"])
+
+        valid_spreads = [
+            row for row in rows
+            if spread_number(row.get("spread", "")) is not None
+        ]
+
+        valid_moneylines = [
+            row for row in rows
+            if implied_probability(row.get("moneyline", "")) is not None
+        ]
+
+        def movement(rows, field, parser, direction):
+            if len(rows) < 2:
+                return "Insufficient Data"
+
+            return classify_movement(
+                rows[0].get(field, ""),
+                rows[-1].get(field, ""),
+                parser,
+                direction,
+            )
+
+        game_date = matchup_id.split(" | ", 1)[0]
+
+        results[(game_date, team)] = {
+            "Spread Movement": movement(
+                valid_spreads, "spread", spread_number, -1
+            ),
+            "Moneyline Movement": movement(
+                valid_moneylines, "moneyline", implied_probability, 1
+            ),
+        }
+
+    return results
+
+
+if __name__ == "__main__":
+    results = load_movements()
+    print(f"PASS: Loaded movement for {len(results)} team-matchups")
+    for key, value in sorted(results.items()):
+        print(key, value)
