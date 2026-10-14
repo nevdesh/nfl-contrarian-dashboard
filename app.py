@@ -148,6 +148,11 @@ def load_automated_vsin():
 
     df["Spread Movement"] = "Insufficient Data"
     df["Moneyline Movement"] = "Insufficient Data"
+    for column in (
+        "Earliest Spread", "Latest Spread",
+        "Earliest Moneyline", "Latest Moneyline",
+    ):
+        df[column] = "N/A"
 
     for index, row in df.iterrows():
         date_text = row["game_date"].replace("NFL - ", "")
@@ -161,6 +166,11 @@ def load_automated_vsin():
         if movement:
             df.at[index, "Spread Movement"] = movement["Spread Movement"]
             df.at[index, "Moneyline Movement"] = movement["Moneyline Movement"]
+            for column in (
+                "Earliest Spread", "Latest Spread",
+                "Earliest Moneyline", "Latest Moneyline",
+            ):
+                df.at[index, column] = movement.get(column, "N/A")
 
     return df
 
@@ -253,6 +263,10 @@ try:
         "spread_handle_pct": "Spread Handle %",
         "moneyline": "Moneyline",
         "moneyline_handle_pct": "Moneyline Handle %",
+        "Earliest Spread": "Earliest Recorded Spread",
+        "Latest Spread": "Latest Recorded Spread",
+        "Earliest Moneyline": "Earliest Recorded Moneyline",
+        "Latest Moneyline": "Latest Recorded Moneyline",
         "Spread Movement": "Favorable Spread Movement",
         "Moneyline Movement": "Favorable ML Movement",
         "Data Status": "Data Status",

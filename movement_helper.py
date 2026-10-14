@@ -85,6 +85,10 @@ def load_movements(history_path="data/odds_history.csv"):
         game_date = matchup_id.split(" | ", 1)[0]
 
         results[(game_date, team)] = {
+            "Earliest Spread": valid_spreads[0]["spread"] if valid_spreads else "N/A",
+            "Latest Spread": valid_spreads[-1]["spread"] if valid_spreads else "N/A",
+            "Earliest Moneyline": valid_moneylines[0]["moneyline"] if valid_moneylines else "N/A",
+            "Latest Moneyline": valid_moneylines[-1]["moneyline"] if valid_moneylines else "N/A",
             "Spread Movement": movement(
                 valid_spreads, "spread", spread_number, -1
             ),
