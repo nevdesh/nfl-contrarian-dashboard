@@ -7,11 +7,12 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from vsin_parser import parse_percent
-
+from game_dates import parse_game_date
 FIELDS = [
     "captured_at",
     "game_date",
     "game_number",
+    "matchup_id",
     "team",
     "spread",
     "moneyline",
@@ -34,6 +35,7 @@ def capture_timestamp(path):
     ).replace(tzinfo=timezone.utc).isoformat()
 
 
+
 def extract_observations(path):
     tables = json.loads(
         Path(path).read_text(encoding="utf-8")
@@ -47,15 +49,73 @@ def extract_observations(path):
 
     for table in tables:
         current_date = None
-        team_count = 0
+        team_rows = []
+
+        def save_matchup(rows, game_number):
+            if len(rows) != 2:
+                raise ValueError(
+                    f"Incomplete matchup on {current_date}: "
+                    f"expected 2 teams, got {len(rows)}"
+                )
+
+            teams = [str(r[1]).strip() for r in rows]
+            if not all(teams) or teams[0] == teams[1]:
+                raise ValueError(
+                    f"Invalid matchup teams: {teams}"
+                )
+
+            
+
+            # Convert the VSiN date header to a full calendar date.
+            game_date_iso = parse_game_date(current_date, timestamp)
+
+            if game_date_iso is None:
+                raise ValueError(
+                    f"Could not determine game date: {current_date}"
+                )
+
+            # Sort team names so display order cannot change the ID.
+            matchup_id = " | ".join([
+                game_date_iso,
+                *sorted(teams, key=str.casefold),
+            ])
+
+
+
+            for row in rows:
+                team = str(row[1]).strip()
+                key = (matchup_id, team)
+
+                if key in seen:
+                    continue
+                seen.add(key)
+
+                observations.append({
+                    "captured_at": timestamp,
+                    "game_date": current_date,
+                    "game_number": game_number,
+                    "matchup_id": matchup_id,
+                    "team": team,
+                    "spread": str(row[2]).strip(),
+                    "moneyline": str(row[8]).strip(),
+                    "spread_handle_pct": parse_percent(row[3]),
+                    "moneyline_handle_pct": parse_percent(row[9]),
+                    "source_capture": Path(path).name,
+                })
+
+        game_number = 0
 
         for row in table.get("rows", []):
             if not isinstance(row, list):
                 continue
 
             if row and str(row[0]).strip().startswith("NFL -"):
+                if team_rows:
+                    raise ValueError(
+                        "Incomplete matchup before date header"
+                    )
                 current_date = str(row[0]).strip()
-                team_count = 0
+                game_number = 0
                 continue
 
             if len(row) < 11 or not current_date:
@@ -65,27 +125,20 @@ def extract_observations(path):
             if not team:
                 continue
 
-            game_number = team_count // 2 + 1
-            team_count += 1
+            team_rows.append(row)
 
-            key = (current_date, game_number, team)
-            if key in seen:
-                continue
-            seen.add(key)
+            if len(team_rows) == 2:
+                game_number += 1
+                save_matchup(team_rows, game_number)
+                team_rows = []
 
-            observations.append({
-                "captured_at": timestamp,
-                "game_date": current_date,
-                "game_number": game_number,
-                "team": team,
-                "spread": str(row[2]).strip(),
-                "moneyline": str(row[8]).strip(),
-                "spread_handle_pct": parse_percent(row[3]),
-                "moneyline_handle_pct": parse_percent(row[9]),
-                "source_capture": Path(path).name,
-            })
+        if team_rows:
+            raise ValueError(
+                f"Incomplete matchup at end of table: {current_date}"
+            )
 
     return observations
+
 
 
 def append_history(capture, output):
