@@ -1,9 +1,15 @@
-﻿name: VSiN NCAA Capture
+name: VSiN NCAA Capture
 
 permissions:
   contents: read
 
 on:
+  push:
+    branches:
+      - ncaa-football
+    paths:
+      - ncaa_vsin_capture.py
+      - .github/workflows/vsin-ncaa-capture.yml
   workflow_dispatch:
 
 concurrency:
