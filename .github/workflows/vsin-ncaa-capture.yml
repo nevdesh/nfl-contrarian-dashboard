@@ -1,4 +1,4 @@
-﻿name: VSiN NCAA Capture
+name: VSiN NCAA Capture
 
 permissions:
   contents: write
@@ -11,9 +11,11 @@ on:
       - ncaa_vsin_capture.py
       - .github/workflows/vsin-ncaa-capture.yml
   workflow_dispatch:
+  schedule:
+    - cron: '12,42 * * * *'
 
 concurrency:
-  group: vsin-authenticated-capture
+  group: vsin-ncaa-authenticated-capture
   cancel-in-progress: false
 
 jobs:
