@@ -1,7 +1,7 @@
-name: VSiN NCAA Capture
+﻿name: VSiN NCAA Capture
 
 permissions:
-  contents: read
+  contents: write
 
 on:
   push:
@@ -42,6 +42,47 @@ jobs:
           LOGIN_URL_MARKERS: login,signin,sign-in
         run: python ncaa_vsin_capture.py
 
+      - name: Generate NCAA betting splits
+        shell: bash
+        run: |
+          set -euo pipefail
+          TABLE_FILE=$(find ncaa_captures -type f -name '*-tables.json' | sort | tail -n 1)
+          if [ -z "$TABLE_FILE" ]; then
+            echo "ERROR: No NCAA tables JSON found."
+            exit 1
+          fi
+          mkdir -p data
+          python ncaa_vsin_parser.py "$TABLE_FILE" --output data/ncaa_betting_splits.csv
+      - name: Record NCAA odds history
+        shell: bash
+        run: |
+          set -euo pipefail
+          TABLE_FILE=$(find ncaa_captures -type f -name '*-tables.json' | sort | tail -n 1)
+          if [ -z "$TABLE_FILE" ]; then
+            echo "ERROR: No NCAA tables JSON found."
+            exit 1
+          fi
+          mkdir -p data
+          python ncaa_odds_history.py "$TABLE_FILE" --output data/ncaa_odds_history.csv
+      - name: Publish NCAA CSV files
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          test -f data/ncaa_betting_splits.csv
+          test -f data/ncaa_odds_history.csv
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/ncaa_betting_splits.csv data/ncaa_odds_history.csv
+
+          if git diff --cached --quiet; then
+            echo "No NCAA data changes to publish."
+          else
+            git commit -m "Update automated NCAA football data"
+            git push origin HEAD:ncaa-football
+          fi
       - name: Upload NCAA capture diagnostics
         if: always()
         uses: actions/upload-artifact@v4
@@ -50,3 +91,7 @@ jobs:
           path: ncaa_captures/
           if-no-files-found: ignore
           retention-days: 7
+
+
+
+
