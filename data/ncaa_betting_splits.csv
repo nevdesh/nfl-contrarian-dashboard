@@ -1,10 +1,10 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
 2026-10-14,1,2026-10-14 | Kennesaw ST | Missouri ST,Missouri ST,+2.5,21.0,+114,27.0
-2026-10-15,1,2026-10-15 | East Carolina Pirates | UAB Blazers,East Carolina Pirates,-5.5,31.0,-205,36.0
+2026-10-15,1,2026-10-15 | East Carolina Pirates | UAB Blazers,East Carolina Pirates,-5.5,30.0,-205,35.0
 2026-10-15,3,2026-10-15 | Colorado ST Rams | Texas ST Bobcats,Colorado ST Rams,+14.5,33.0,+440,11.0
-2026-10-16,1,2026-10-16 | Memphis Tigers | Tulane Green Wave,Tulane Green Wave,+7,33.0,+215,35.0
+2026-10-16,1,2026-10-16 | Memphis Tigers | Tulane Green Wave,Tulane Green Wave,+7,33.0,+215,34.0
 2026-10-17,4,2026-10-17 | (4) Ohio ST Buckeyes | (5) Indiana Hoosiers,(5) Indiana Hoosiers,+3.5,12.0,+150,9.0
-2026-10-17,7,2026-10-17 | (25) Northwestern Wildcats | Michigan ST Spartans,Michigan ST Spartans,+7.5,20.0,+250,20.0
+2026-10-17,7,2026-10-17 | (25) Northwestern Wildcats | Michigan ST Spartans,Michigan ST Spartans,+7.5,20.0,+250,18.0
 2026-10-17,18,2026-10-17 | E Michigan Eagles | Toledo Rockets,E Michigan Eagles,+6.5,18.0,+200,7.0
 2026-10-17,20,2026-10-17 | Akron Zips | Miami OH RedHawks,Akron Zips,+10,38.0,+285,33.0
 2026-10-17,22,2026-10-17 | (13) Missouri Tigers | (9) Ole Miss Rebels,(13) Missouri Tigers,+5.5,30.0,+185,29.0
@@ -16,7 +16,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-17,41,2026-10-17 | LA Monroe Warhawks | Louisiana Tech Bulldogs,LA Monroe Warhawks,+15.5,0.0,+525,0.0
 2026-10-17,42,2026-10-17 | Navy Midshipmen | Texas-San Antonio Roadrunners,Navy Midshipmen,+6.5,3.0,+210,6.0
 2026-10-17,44,2026-10-17 | Ohio Bobcats | Sacramento ST,Sacramento ST,+15.5,0.0,+490,5.0
-2026-10-17,45,2026-10-17 | (11) Utah Utes | Colorado Buffaloes,Colorado Buffaloes,+15.5,16.0,+525,19.0
+2026-10-17,45,2026-10-17 | (11) Utah Utes | Colorado Buffaloes,Colorado Buffaloes,+15.5,15.0,+525,19.0
 2026-10-17,46,2026-10-17 | (21) Wake Forest Demon Deacons | California Golden Bears,California Golden Bears,+9.5,30.0,+275,1.0
 2026-10-17,47,2026-10-17 | Hawaii Rainbow Warriors | New Mexico Lobos,Hawaii Rainbow Warriors,+14.5,26.0,+490,0.0
 2026-10-17,48,2026-10-17 | Fresno ST Bulldogs | San Diego ST Aztecs,San Diego ST Aztecs,+7.5,15.0,+250,6.0
