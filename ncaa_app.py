@@ -1,4 +1,4 @@
-﻿from dashboard_style import apply_dashboard_style
+from dashboard_style import apply_dashboard_style
 import re
 from datetime import datetime, timezone
 
@@ -19,13 +19,13 @@ EV_URL = "https://evanalytics.com/"
 
 st.set_page_config(
     page_title="NCAA College Football Contrarian Dashboard",
-    page_icon="ðŸˆ",
+    page_icon="Ã°Å¸ÂË†",
     layout="wide",
 )
 
 apply_dashboard_style()
 
-st.title("ðŸˆ NCAA College Football Contrarian Dashboard")
+st.title("Ã°Å¸ÂË† NCAA College Football Contrarian Dashboard")
 st.caption(
     "NCAA college football betting splits and odds movement"
 )
@@ -207,6 +207,15 @@ try:
         automated["Data Status"] == "Meets thresholds"
     ].copy()
 
+    # Require favorable movement in at least one market.
+    favorable = (
+        confirmed["Spread Movement"].eq("Favorable")
+        | confirmed["Moneyline Movement"].eq("Favorable")
+    )
+
+    watchlist = confirmed.loc[~favorable].copy()
+    confirmed = confirmed.loc[favorable].copy()
+
     verification = automated[
         automated["Data Status"] == "Needs verification"
     ].copy()
@@ -214,7 +223,7 @@ try:
     col1, col2, col3, col4 = st.columns(4)
 
     with col1:
-        st.metric("Qualifying teams", len(confirmed))
+        st.metric("Confirmed candidates", len(confirmed))
 
     with col2:
         st.metric("Needs verification", len(verification))
@@ -223,7 +232,7 @@ try:
         st.metric("Teams analyzed", len(automated))
 
     with col4:
-        st.metric("Handle threshold", "<40%")
+        st.metric("Watchlist teams", len(watchlist))
 
     display_columns = {
         "game_date": "Game Date",
@@ -281,6 +290,23 @@ try:
                     format="%.1f%%",
                 ),
             },
+        )
+
+    st.markdown("### NCAA contrarian watchlist")
+    st.caption(
+        "Teams below 40% handle in both markets, "
+        "but without confirmed favorable movement."
+    )
+
+    if watchlist.empty:
+        st.success("No teams currently on the watchlist.")
+    else:
+        st.dataframe(
+            watchlist[list(display_columns)].rename(
+                columns=display_columns
+            ),
+            use_container_width=True,
+            hide_index=True,
         )
 
     st.markdown("### Teams requiring verification")
@@ -628,6 +654,7 @@ st.caption(
     "movement do not establish who caused the move or predict "
     "a winning outcome. Verify market, team, and timestamps."
 )
+
 
 
 
