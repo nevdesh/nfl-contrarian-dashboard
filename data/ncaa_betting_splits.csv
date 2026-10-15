@@ -1,11 +1,11 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
 2026-10-14,1,2026-10-14 | Kennesaw ST | Missouri ST,Missouri ST,+2.5,21.0,+114,27.0
-2026-10-16,1,2026-10-16 | Memphis Tigers | Tulane Green Wave,Tulane Green Wave,+7,35.0,+215,32.0
+2026-10-16,1,2026-10-16 | Memphis Tigers | Tulane Green Wave,Tulane Green Wave,+7,36.0,+215,33.0
 2026-10-17,4,2026-10-17 | (4) Ohio ST Buckeyes | (5) Indiana Hoosiers,(5) Indiana Hoosiers,+3.5,13.0,+150,9.0
 2026-10-17,7,2026-10-17 | (25) Northwestern Wildcats | Michigan ST Spartans,Michigan ST Spartans,+7.5,26.0,+250,18.0
 2026-10-17,18,2026-10-17 | E Michigan Eagles | Toledo Rockets,E Michigan Eagles,+6.5,14.0,+200,7.0
 2026-10-17,20,2026-10-17 | Akron Zips | Miami OH RedHawks,Akron Zips,+10,38.0,+285,34.0
-2026-10-17,22,2026-10-17 | (13) Missouri Tigers | (9) Ole Miss Rebels,(13) Missouri Tigers,+5.5,31.0,+185,29.0
+2026-10-17,22,2026-10-17 | (13) Missouri Tigers | (9) Ole Miss Rebels,(13) Missouri Tigers,+5.5,30.0,+185,29.0
 2026-10-17,25,2026-10-17 | Georgia Tech Yellow Jackets | Virginia Tech Hokies,Georgia Tech Yellow Jackets,+10,32.0,+295,13.0
 2026-10-17,26,2026-10-17 | N Illinois Huskies | Wyoming Cowboys,N Illinois Huskies,+7.5,1.0,+245,6.0
 2026-10-17,29,2026-10-17 | Oregon ST Beavers | Washington ST Cougars,Washington ST Cougars,+18.5,9.0,+675,1.0
@@ -23,7 +23,6 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-24,2,2026-10-24 | (11) Utah Utes | (20) Houston Cougars,(20) Houston Cougars,+7,0.0,-,0.0
 2026-10-24,3,2026-10-24 | (22) LSU Tigers | Auburn Tigers,Auburn Tigers,+6.5,0.0,+185,0.0
 2026-10-24,4,2026-10-24 | (5) Indiana Hoosiers | Michigan Wolverines,(5) Indiana Hoosiers,-9.5,0.0,-395,0.0
-2026-10-24,5,2026-10-24 | (6) Alabama Crimson Tide | Texas A&M Aggies,(6) Alabama Crimson Tide,-15.5,0.0,-,0.0
 2026-10-24,6,2026-10-24 | (14) Tennessee Volunteers | South Carolina Gamecocks,South Carolina Gamecocks,+2.5,0.0,-,0.0
 2026-10-24,7,2026-10-24 | (15) Kentucky Wildcats | Vanderbilt Commodores,Vanderbilt Commodores,-,0.0,-,0.0
 2026-10-24,7,2026-10-24 | (15) Kentucky Wildcats | Vanderbilt Commodores,(15) Kentucky Wildcats,-,0.0,-,0.0
