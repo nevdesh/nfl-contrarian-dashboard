@@ -25,7 +25,7 @@ st.set_page_config(
 
 apply_dashboard_style()
 
-st.title("Ã°Å¸ÂË† NCAA College Football Contrarian Dashboard")
+st.title("NCAA College Football Contrarian Dashboard")
 st.caption(
     "NCAA college football betting splits and odds movement"
 )
