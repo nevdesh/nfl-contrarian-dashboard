@@ -207,10 +207,21 @@ try:
         automated["Data Status"] == "Meets thresholds"
     ].copy()
 
-    # Require favorable movement in at least one market.
+    # Require at least 1.0 point of downward spread movement
+    # AND favorable moneyline movement.
+    earliest_spread = pd.to_numeric(
+        confirmed["Earliest Spread"], errors="coerce"
+    )
+    latest_spread = pd.to_numeric(
+        confirmed["Latest Spread"], errors="coerce"
+    )
+
+    spread_change = earliest_spread - latest_spread
+
     favorable = (
-        confirmed["Spread Movement"].eq("Favorable")
-        | confirmed["Moneyline Movement"].eq("Favorable")
+        spread_change.ge(1.0)
+        & confirmed["Spread Movement"].eq("Favorable")
+        & confirmed["Moneyline Movement"].eq("Favorable")
     )
 
     watchlist = confirmed.loc[~favorable].copy()
