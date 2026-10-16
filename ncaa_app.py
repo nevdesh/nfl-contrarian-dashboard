@@ -203,6 +203,18 @@ st.caption(
 try:
     automated = load_automated_vsin()
 
+    # Hide games after their scheduled date ends in Eastern Time.
+    from zoneinfo import ZoneInfo
+    today_eastern = datetime.now(
+        ZoneInfo("America/New_York")
+    ).date()
+    game_dates = pd.to_datetime(
+        automated["game_date"], errors="coerce"
+    ).dt.date
+    automated = automated.loc[
+        game_dates.notna() & game_dates.ge(today_eastern)
+    ].copy()
+
     confirmed = automated[
         automated["Data Status"] == "Meets thresholds"
     ].copy()

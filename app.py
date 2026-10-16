@@ -243,6 +243,30 @@ st.caption(
 try:
     automated = load_automated_vsin()
 
+    # Hide NFL games after their scheduled date ends in Eastern Time.
+    from zoneinfo import ZoneInfo
+
+    today_eastern = datetime.now(
+        ZoneInfo("America/New_York")
+    ).date()
+
+    date_text = (
+        automated["game_date"]
+        .astype(str)
+        .str.replace(r"^NFL\s*-\s*", "", regex=True)
+        .str.strip()
+    )
+
+    game_dates = pd.to_datetime(
+        date_text + " 2026",
+        format="%A, %b %d %Y",
+        errors="coerce",
+    ).dt.date
+
+    automated = automated.loc[
+        game_dates.notna() & game_dates.ge(today_eastern)
+    ].copy()
+
     confirmed = automated[
         automated["Data Status"] == "Meets thresholds"
     ].copy()
