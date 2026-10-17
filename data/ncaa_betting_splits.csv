@@ -5,20 +5,20 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-17,8,2026-10-17 | (24) SMU Mustangs | Virginia Cavaliers,Virginia Cavaliers,+10,31.0,+285,6.0
 2026-10-17,9,2026-10-17 | Cincinnati Bearcats | West Virginia Mountaineers,Cincinnati Bearcats,+1.5,19.0,+102,16.0
 2026-10-17,15,2026-10-17 | Charlotte 49ers | Temple Owls,Charlotte 49ers,+17.5,37.0,+750,18.0
-2026-10-17,21,2026-10-17 | (1) Georgia Bulldogs | Auburn Tigers,Auburn Tigers,+19.5,21.0,+850,7.0
-2026-10-17,26,2026-10-17 | (10) Texas Tech Red Raiders | Arizona ST Sun Devils,Arizona ST Sun Devils,+16.5,38.0,+550,8.0
-2026-10-17,27,2026-10-17 | Georgia Tech Yellow Jackets | Virginia Tech Hokies,Georgia Tech Yellow Jackets,+8.5,25.0,+280,23.0
-2026-10-17,28,2026-10-17 | N Illinois Huskies | Wyoming Cowboys,N Illinois Huskies,+7.5,24.0,+235,1.0
-2026-10-17,31,2026-10-17 | Oregon ST Beavers | Washington ST Cougars,Washington ST Cougars,+18.5,10.0,+650,13.0
+2026-10-17,21,2026-10-17 | (1) Georgia Bulldogs | Auburn Tigers,Auburn Tigers,+19.5,20.0,+850,7.0
+2026-10-17,24,2026-10-17 | (10) Texas Tech Red Raiders | Arizona ST Sun Devils,Arizona ST Sun Devils,+16.5,34.0,+550,8.0
+2026-10-17,25,2026-10-17 | Georgia Tech Yellow Jackets | Virginia Tech Hokies,Georgia Tech Yellow Jackets,+8.5,24.0,+280,24.0
+2026-10-17,26,2026-10-17 | N Illinois Huskies | Wyoming Cowboys,N Illinois Huskies,+7.5,25.0,+235,1.0
+2026-10-17,31,2026-10-17 | Oregon ST Beavers | Washington ST Cougars,Washington ST Cougars,+18.5,10.0,+650,12.0
 2026-10-17,32,2026-10-17 | Baylor Bears | TCU horned Frogs,TCU horned Frogs,+4.5,28.0,+170,19.0
 2026-10-17,33,2026-10-17 | (3) Miami FL Hurricanes | Florida ST Seminoles,Florida ST Seminoles,+19.5,12.0,+900,2.0
 2026-10-17,34,2026-10-17 | Kent ST Golden Flashes | South Florida Bulls,Kent ST Golden Flashes,+21,35.0,+850,6.0
 2026-10-17,41,2026-10-17 | Elon | Stanford Cardinal,Elon,+34.5,37.0,-,0.0
 2026-10-17,45,2026-10-17 | Navy Midshipmen | Texas-San Antonio Roadrunners,Navy Midshipmen,+6.5,11.0,+200,12.0
-2026-10-17,47,2026-10-17 | Ohio Bobcats | Sacramento ST,Sacramento ST,+15.5,16.0,+490,15.0
-2026-10-17,48,2026-10-17 | (11) Utah Utes | Colorado Buffaloes,Colorado Buffaloes,+14.5,20.0,+500,26.0
-2026-10-17,50,2026-10-17 | Hawaii Rainbow Warriors | New Mexico Lobos,Hawaii Rainbow Warriors,+14.5,33.0,+470,8.0
-2026-10-17,52,2026-10-17 | Nebraska Cornhuskers | Oregon Ducks,Oregon Ducks,-7,31.0,-258,28.0
+2026-10-17,47,2026-10-17 | Ohio Bobcats | Sacramento ST,Sacramento ST,+15.5,16.0,+490,14.0
+2026-10-17,48,2026-10-17 | (11) Utah Utes | Colorado Buffaloes,Colorado Buffaloes,+14.5,19.0,+525,26.0
+2026-10-17,50,2026-10-17 | Hawaii Rainbow Warriors | New Mexico Lobos,Hawaii Rainbow Warriors,+14.5,33.0,+470,7.0
+2026-10-17,52,2026-10-17 | Nebraska Cornhuskers | Oregon Ducks,Oregon Ducks,-7,31.0,-258,29.0
 2026-10-17,53,2026-10-17 | Chicago ST | N Carolina A&T,Chicago ST,+18.5,0.0,+710,9.0
 2026-10-17,55,2026-10-17 | New Haven | Robert Morris,New Haven,+9.5,17.0,+281,1.0
 2026-10-17,56,2026-10-17 | Hampton | Sacred Heart,Hampton,+14.5,0.0,+544,3.0
@@ -39,18 +39,18 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-17,86,2026-10-17 | Alcorn ST | Prairie View A&M,Alcorn ST,+6.5,5.0,+230,0.0
 2026-10-17,88,2026-10-17 | Campbell | Towson,Towson,+11.5,2.0,+353,31.0
 2026-10-17,89,2026-10-17 | Nicholls ST | Stephen F Austin,Nicholls ST,+22.5,0.0,"+1,040",0.0
-2026-10-17,91,2026-10-17 | San Diego | Valparaiso,Valparaiso,+6,27.0,+208,18.0
+2026-10-17,91,2026-10-17 | San Diego | Valparaiso,Valparaiso,+6,27.0,+208,17.0
 2026-10-17,92,2026-10-17 | Murray ST | S Dakota,Murray ST,+28.5,0.0,-,0.0
-2026-10-17,94,2026-10-17 | LIU-Post | Wagner,Wagner,+6.5,12.0,+201,0.0
+2026-10-17,94,2026-10-17 | LIU-Post | Wagner,Wagner,+6.5,8.0,+201,0.0
 2026-10-17,95,2026-10-17 | N Iowa | Youngstown ST,N Iowa,+20.5,22.0,+840,0.0
-2026-10-17,97,2026-10-17 | N Arizona | Portland ST,N Arizona,-17.5,6.0,"-1,180",19.0
+2026-10-17,97,2026-10-17 | N Arizona | Portland ST,N Arizona,-17.5,6.0,"-1,180",26.0
 2026-10-17,98,2026-10-17 | Mercer | Samford,Samford,+14,0.0,+413,0.0
 2026-10-17,99,2026-10-17 | E Washington | Montana ST,E Washington,+20.5,0.0,+730,0.0
-2026-10-17,100,2026-10-17 | Incarnate Word | UTRGV,UTRGV,+3.5,0.0,+139,1.0
+2026-10-17,100,2026-10-17 | Incarnate Word | UTRGV,UTRGV,+3.5,1.0,+139,1.0
 2026-10-17,102,2026-10-17 | Abilene Christian | N Alabama,Abilene Christian,-2.5,11.0,-158,3.0
 2026-10-17,103,2026-10-17 | C Arkansas | Tarleton ST,C Arkansas,+19.5,0.0,+610,0.0
-2026-10-17,104,2026-10-17 | Cal Poly | N Colorado,N Colorado,+3.5,0.0,+140,5.0
-2026-10-20,1,2026-10-20 | Florida Intl Golden Panthers | Middle Tenn ST Blue Raiders,Middle Tenn ST Blue Raiders,+10,0.0,+320,8.0
+2026-10-17,104,2026-10-17 | Cal Poly | N Colorado,N Colorado,+3.5,0.0,+140,16.0
+2026-10-20,1,2026-10-20 | Florida Intl Golden Panthers | Middle Tenn ST Blue Raiders,Middle Tenn ST Blue Raiders,+10,0.0,+320,19.0
 2026-10-22,1,2026-10-22 | Kennesaw ST | Liberty Flames,Kennesaw ST,+8.5,0.0,+270,15.0
 2026-10-23,1,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+6.5,0.0,+225,0.0
 2026-10-24,1,2026-10-24 | Arizona Wildcats | Iowa ST Cyclones,Iowa ST Cyclones,+10,23.0,+300,1.0
