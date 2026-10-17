@@ -12129,3 +12129,251 @@ captured_at,game_date,game_number,matchup_id,team,spread,moneyline,spread_handle
 2026-10-17T02:07:44+00:00,"CFB - SATURDAY, OCT 24",13,2026-10-24 | (19) USC Trojans | Wisconsin Badgers,Wisconsin Badgers,+1.5,+100,45.0,97.0,vsin-20261017T020744Z-tables.json
 2026-10-17T02:07:44+00:00,"CFB - SATURDAY, OCT 24",14,2026-10-24 | N Dakota ST | New Mexico Lobos,N Dakota ST,+4.5,+160,3.0,96.0,vsin-20261017T020744Z-tables.json
 2026-10-17T02:07:44+00:00,"CFB - SATURDAY, OCT 24",14,2026-10-24 | N Dakota ST | New Mexico Lobos,New Mexico Lobos,-4.5,-192,97.0,4.0,vsin-20261017T020744Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - FRIDAY, OCT 16",1,2026-10-16 | Memphis Tigers | Tulane Green Wave,Memphis Tigers,-6.5,-258,77.0,65.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - FRIDAY, OCT 16",1,2026-10-16 | Memphis Tigers | Tulane Green Wave,Tulane Green Wave,+6.5,+210,23.0,35.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - FRIDAY, OCT 16",2,2026-10-16 | Purdue Boilermakers | Washington Huskies,Washington Huskies,+3,+130,35.0,44.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - FRIDAY, OCT 16",2,2026-10-16 | Purdue Boilermakers | Washington Huskies,Purdue Boilermakers,-3,-155,65.0,56.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - FRIDAY, OCT 16",3,2026-10-16 | Appalachian ST Mountaineers | Coastal Carolina Chanticleers,Appalachian ST Mountaineers,-1.5,-108,61.0,61.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - FRIDAY, OCT 16",3,2026-10-16 | Appalachian ST Mountaineers | Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,+1.5,-112,39.0,39.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - FRIDAY, OCT 16",4,2026-10-16 | Columbia | Pennsylvania,Columbia,+6.5,+187,52.0,66.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - FRIDAY, OCT 16",4,2026-10-16 | Columbia | Pennsylvania,Pennsylvania,-6.5,-239,48.0,34.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",1,2026-10-17 | Army Black Nights | FL Atlantic Owls,FL Atlantic Owls,+2.5,+105,40.0,41.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",1,2026-10-17 | Army Black Nights | FL Atlantic Owls,Army Black Nights,-2.5,-125,60.0,59.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",2,2026-10-17 | Boston College Eagles | Pittsburgh Panthers,Pittsburgh Panthers,-6.5,-238,82.0,85.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",2,2026-10-17 | Boston College Eagles | Pittsburgh Panthers,Boston College Eagles,+6.5,+195,18.0,15.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",3,2026-10-17 | Ball ST Cardinals | Bowling Green Falcons,Ball ST Cardinals,+6.5,+210,62.0,25.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",3,2026-10-17 | Ball ST Cardinals | Bowling Green Falcons,Bowling Green Falcons,-6.5,-258,38.0,75.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",4,2026-10-17 | Charleston Southern | Clemson Tigers,Charleston Southern,+43.5,-,23.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",4,2026-10-17 | Charleston Southern | Clemson Tigers,Clemson Tigers,-43.5,-,77.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",5,2026-10-17 | (4) Ohio ST Buckeyes | (5) Indiana Hoosiers,(4) Ohio ST Buckeyes,-3,-155,73.0,63.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",5,2026-10-17 | (4) Ohio ST Buckeyes | (5) Indiana Hoosiers,(5) Indiana Hoosiers,+3,+130,27.0,37.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",6,2026-10-17 | Kansas Jayhawks | Kansas ST Wildcats,Kansas Jayhawks,+3.5,+145,62.0,51.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",6,2026-10-17 | Kansas Jayhawks | Kansas ST Wildcats,Kansas ST Wildcats,-3.5,-175,38.0,49.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",7,2026-10-17 | (16) Mississippi ST Bulldogs | (22) LSU Tigers,(16) Mississippi ST Bulldogs,+17.5,+550,39.0,55.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",7,2026-10-17 | (16) Mississippi ST Bulldogs | (22) LSU Tigers,(22) LSU Tigers,-17.5,-800,61.0,45.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",8,2026-10-17 | (25) Northwestern Wildcats | Michigan ST Spartans,(25) Northwestern Wildcats,-7,-298,81.0,73.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",8,2026-10-17 | (25) Northwestern Wildcats | Michigan ST Spartans,Michigan ST Spartans,+7,+240,19.0,27.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",9,2026-10-17 | (24) SMU Mustangs | Virginia Cavaliers,Virginia Cavaliers,+9.5,+270,22.0,3.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",9,2026-10-17 | (24) SMU Mustangs | Virginia Cavaliers,(24) SMU Mustangs,-9.5,-340,78.0,97.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",10,2026-10-17 | (7) Texas Longhorns | Florida Gators,Florida Gators,+11.5,+340,43.0,20.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",10,2026-10-17 | (7) Texas Longhorns | Florida Gators,(7) Texas Longhorns,-11.5,-440,57.0,80.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",11,2026-10-17 | Cincinnati Bearcats | West Virginia Mountaineers,Cincinnati Bearcats,+1.5,+102,27.0,22.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",11,2026-10-17 | Cincinnati Bearcats | West Virginia Mountaineers,West Virginia Mountaineers,-1.5,-122,73.0,78.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",12,2026-10-17 | Georgia ST Panthers | James Madison,Georgia ST Panthers,+9.5,+285,56.0,27.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",12,2026-10-17 | Georgia ST Panthers | James Madison,James Madison,-9.5,-360,44.0,73.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",13,2026-10-17 | Maryland Terrapins | Rutgers Scarlet Knights,Rutgers Scarlet Knights,+5.5,+180,58.0,72.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",13,2026-10-17 | Maryland Terrapins | Rutgers Scarlet Knights,Maryland Terrapins,-5.5,-218,42.0,28.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",14,2026-10-17 | Buffalo Bulls | Massachusetts Minutemen,Massachusetts Minutemen,+7,+230,35.0,41.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",14,2026-10-17 | Buffalo Bulls | Massachusetts Minutemen,Buffalo Bulls,-7,-285,65.0,59.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",15,2026-10-17 | Charlotte 49ers | Temple Owls,Charlotte 49ers,+20.5,"+1,000",52.0,6.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",15,2026-10-17 | Charlotte 49ers | Temple Owls,Temple Owls,-20.5,"-1,800",48.0,94.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",16,2026-10-17 | Citadel | Texas A&M Aggies,Citadel,+45.5,-,46.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",16,2026-10-17 | Citadel | Texas A&M Aggies,Texas A&M Aggies,-45.5,-,54.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",17,2026-10-17 | C Michigan Chippewas | W Michigan Broncos,W Michigan Broncos,-7,-270,12.0,61.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",17,2026-10-17 | C Michigan Chippewas | W Michigan Broncos,C Michigan Chippewas,+7,+220,88.0,39.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",18,2026-10-17 | Air Force Falcons | UNLV Rebels,UNLV Rebels,+1.5,-105,75.0,32.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",18,2026-10-17 | Air Force Falcons | UNLV Rebels,Air Force Falcons,-1.5,-115,25.0,68.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",19,2026-10-17 | Duke Blue Devils | North Carolina Tar Heels,North Carolina Tar Heels,+3,+130,28.0,54.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",19,2026-10-17 | Duke Blue Devils | North Carolina Tar Heels,Duke Blue Devils,-3,-155,72.0,46.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",20,2026-10-17 | E Michigan Eagles | Toledo Rockets,Toledo Rockets,-6.5,-245,90.0,66.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",20,2026-10-17 | E Michigan Eagles | Toledo Rockets,E Michigan Eagles,+6.5,+200,10.0,34.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",21,2026-10-17 | (1) Georgia Bulldogs | Auburn Tigers,Auburn Tigers,+19.5,+800,22.0,6.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",21,2026-10-17 | (1) Georgia Bulldogs | Auburn Tigers,(1) Georgia Bulldogs,-19.5,"-1,350",78.0,94.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",22,2026-10-17 | Akron Zips | Miami OH RedHawks,Akron Zips,+10,+285,42.0,10.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",22,2026-10-17 | Akron Zips | Miami OH RedHawks,Miami OH RedHawks,-10,-360,58.0,90.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",23,2026-10-17 | Michigan Wolverines | Penn ST Nittany Lions,Penn ST Nittany Lions,+6.5,+190,51.0,31.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",23,2026-10-17 | Michigan Wolverines | Penn ST Nittany Lions,Michigan Wolverines,-6.5,-230,49.0,69.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",24,2026-10-17 | (13) Missouri Tigers | (9) Ole Miss Rebels,(13) Missouri Tigers,+5.5,+185,26.0,34.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",24,2026-10-17 | (13) Missouri Tigers | (9) Ole Miss Rebels,(9) Ole Miss Rebels,-5.5,-225,74.0,66.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",25,2026-10-17 | (14) Tennessee Volunteers | (6) Alabama Crimson Tide,(6) Alabama Crimson Tide,-7.5,-340,52.0,77.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",25,2026-10-17 | (14) Tennessee Volunteers | (6) Alabama Crimson Tide,(14) Tennessee Volunteers,+7.5,+270,48.0,23.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",26,2026-10-17 | (10) Texas Tech Red Raiders | Arizona ST Sun Devils,Arizona ST Sun Devils,+15.5,+500,63.0,6.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",26,2026-10-17 | (10) Texas Tech Red Raiders | Arizona ST Sun Devils,(10) Texas Tech Red Raiders,-15.5,-700,37.0,94.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",27,2026-10-17 | Georgia Tech Yellow Jackets | Virginia Tech Hokies,Georgia Tech Yellow Jackets,+8.5,+285,22.0,20.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",27,2026-10-17 | Georgia Tech Yellow Jackets | Virginia Tech Hokies,Virginia Tech Hokies,-8.5,-360,78.0,80.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",28,2026-10-17 | N Illinois Huskies | Wyoming Cowboys,N Illinois Huskies,+7.5,+245,8.0,21.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",28,2026-10-17 | N Illinois Huskies | Wyoming Cowboys,Wyoming Cowboys,-7.5,-305,92.0,79.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",29,2026-10-17 | Rice Owls | Tulsa Golden Hurricane,Tulsa Golden Hurricane,-4.5,-192,24.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",29,2026-10-17 | Rice Owls | Tulsa Golden Hurricane,Rice Owls,+4.5,+160,76.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",30,2026-10-17 | Louisiana Ragin Cajuns | Troy Trojans,Troy Trojans,+3,+130,56.0,85.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",30,2026-10-17 | Louisiana Ragin Cajuns | Troy Trojans,Louisiana Ragin Cajuns,-3,-155,44.0,15.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",31,2026-10-17 | Oregon ST Beavers | Washington ST Cougars,Washington ST Cougars,+18.5,+675,6.0,9.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",31,2026-10-17 | Oregon ST Beavers | Washington ST Cougars,Oregon ST Beavers,-18.5,"-1,050",94.0,91.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",32,2026-10-17 | Baylor Bears | TCU horned Frogs,TCU horned Frogs,+5.5,+180,33.0,22.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",32,2026-10-17 | Baylor Bears | TCU horned Frogs,Baylor Bears,-5.5,-218,67.0,78.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",33,2026-10-17 | (3) Miami FL Hurricanes | Florida ST Seminoles,Florida ST Seminoles,+20.5,+950,15.0,2.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",33,2026-10-17 | (3) Miami FL Hurricanes | Florida ST Seminoles,(3) Miami FL Hurricanes,-20.5,"-1,650",85.0,98.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",34,2026-10-17 | Kent ST Golden Flashes | South Florida Bulls,Kent ST Golden Flashes,+20.5,+850,45.0,5.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",34,2026-10-17 | Kent ST Golden Flashes | South Florida Bulls,South Florida Bulls,-20.5,"-1,450",55.0,95.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",35,2026-10-17 | Arkansas ST Red Wolves | Southern Miss Golden Eagles,Arkansas ST Red Wolves,-6.5,-245,29.0,14.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",35,2026-10-17 | Arkansas ST Red Wolves | Southern Miss Golden Eagles,Southern Miss Golden Eagles,+6.5,+200,71.0,86.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",36,2026-10-17 | Arkansas Razorbacks | Vanderbilt Commodores,Arkansas Razorbacks,+6,+185,61.0,28.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",36,2026-10-17 | Arkansas Razorbacks | Vanderbilt Commodores,Vanderbilt Commodores,-6,-225,39.0,72.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",37,2026-10-17 | N Dakota ST | Nevada Wolf Pack,Nevada Wolf Pack,+14.5,+500,58.0,4.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",37,2026-10-17 | N Dakota ST | Nevada Wolf Pack,N Dakota ST,-14.5,-700,42.0,96.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",38,2026-10-17 | (2) Notre Dame Fighting Irish | (8) BYU Cougars,(2) Notre Dame Fighting Irish,-10.5,-410,62.0,47.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",38,2026-10-17 | (2) Notre Dame Fighting Irish | (8) BYU Cougars,(8) BYU Cougars,+10.5,+320,38.0,53.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",39,2026-10-17 | (18) Oklahoma ST Cowboys | (20) Houston Cougars,(18) Oklahoma ST Cowboys,+4.5,+160,50.0,72.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",39,2026-10-17 | (18) Oklahoma ST Cowboys | (20) Houston Cougars,(20) Houston Cougars,-4.5,-192,50.0,28.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",40,2026-10-17 | (15) Kentucky Wildcats | Oklahoma Sooners,(15) Kentucky Wildcats,+6.5,+205,42.0,69.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",40,2026-10-17 | (15) Kentucky Wildcats | Oklahoma Sooners,Oklahoma Sooners,-6.5,-250,58.0,31.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",41,2026-10-17 | Elon | Stanford Cardinal,Elon,+35.5,-,19.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",41,2026-10-17 | Elon | Stanford Cardinal,Stanford Cardinal,-35.5,-,81.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",42,2026-10-17 | Louisville Cardinals | Syracuse Orange,Louisville Cardinals,-14.5,-650,26.0,93.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",42,2026-10-17 | Louisville Cardinals | Syracuse Orange,Syracuse Orange,+14.5,+470,74.0,7.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",43,2026-10-17 | (12) UCLA Bruins | Wisconsin Badgers,Wisconsin Badgers,+2.5,+120,47.0,67.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",43,2026-10-17 | (12) UCLA Bruins | Wisconsin Badgers,(12) UCLA Bruins,-2.5,-142,53.0,33.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",44,2026-10-17 | LA Monroe Warhawks | Louisiana Tech Bulldogs,Louisiana Tech Bulldogs,-15.5,-675,55.0,95.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",44,2026-10-17 | LA Monroe Warhawks | Louisiana Tech Bulldogs,LA Monroe Warhawks,+15.5,+490,45.0,5.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",45,2026-10-17 | Navy Midshipmen | Texas-San Antonio Roadrunners,Navy Midshipmen,+6.5,+210,14.0,7.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",45,2026-10-17 | Navy Midshipmen | Texas-San Antonio Roadrunners,Texas-San Antonio Roadrunners,-6.5,-258,86.0,93.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",46,2026-10-17 | San Jose ST Spartans | UTEP Miners,San Jose ST Spartans,-7,-270,69.0,69.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",46,2026-10-17 | San Jose ST Spartans | UTEP Miners,UTEP Miners,+7,+220,31.0,31.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",47,2026-10-17 | Ohio Bobcats | Sacramento ST,Ohio Bobcats,-15.5,-675,87.0,66.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",47,2026-10-17 | Ohio Bobcats | Sacramento ST,Sacramento ST,+15.5,+490,13.0,34.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",48,2026-10-17 | (11) Utah Utes | Colorado Buffaloes,(11) Utah Utes,-15.5,-750,68.0,85.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",48,2026-10-17 | (11) Utah Utes | Colorado Buffaloes,Colorado Buffaloes,+15.5,+525,32.0,15.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",49,2026-10-17 | (21) Wake Forest Demon Deacons | California Golden Bears,(21) Wake Forest Demon Deacons,-10,-375,33.0,67.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",49,2026-10-17 | (21) Wake Forest Demon Deacons | California Golden Bears,California Golden Bears,+10,+295,67.0,33.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",50,2026-10-17 | Hawaii Rainbow Warriors | New Mexico Lobos,New Mexico Lobos,-14.5,-675,82.0,94.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",50,2026-10-17 | Hawaii Rainbow Warriors | New Mexico Lobos,Hawaii Rainbow Warriors,+14.5,+490,18.0,6.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",51,2026-10-17 | Fresno ST Bulldogs | San Diego ST Aztecs,Fresno ST Bulldogs,-7.5,-305,95.0,86.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",51,2026-10-17 | Fresno ST Bulldogs | San Diego ST Aztecs,San Diego ST Aztecs,+7.5,+245,5.0,14.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",52,2026-10-17 | Nebraska Cornhuskers | Oregon Ducks,Nebraska Cornhuskers,+7,+210,59.0,69.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",52,2026-10-17 | Nebraska Cornhuskers | Oregon Ducks,Oregon Ducks,-7,-258,41.0,31.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",53,2026-10-17 | Chicago ST | N Carolina A&T,Chicago ST,+16.5,+459,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",53,2026-10-17 | Chicago ST | N Carolina A&T,N Carolina A&T,-16.5,-700,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",54,2026-10-17 | Brown | Princeton,Brown,+6.5,+179,100.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",54,2026-10-17 | Brown | Princeton,Princeton,-6.5,-228,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",55,2026-10-17 | New Haven | Robert Morris,New Haven,+10,+300,89.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",55,2026-10-17 | New Haven | Robert Morris,Robert Morris,-10,-407,11.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",56,2026-10-17 | Hampton | Sacred Heart,Hampton,+13.5,+402,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",56,2026-10-17 | Hampton | Sacred Heart,Sacred Heart,-13.5,-582,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",57,2026-10-17 | Rhode Island | Yale,Rhode Island,+14,+413,2.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",57,2026-10-17 | Rhode Island | Yale,Yale,-14,-610,98.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",58,2026-10-17 | Duquesne | Stonehill College,Duquesne,+4,+149,88.0,8.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",58,2026-10-17 | Duquesne | Stonehill College,Stonehill College,-4,-188,12.0,92.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",59,2026-10-17 | C Conn ST | Mercyhurst,C Conn ST,-7,-300,96.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",59,2026-10-17 | C Conn ST | Mercyhurst,Mercyhurst,+7,+230,4.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",60,2026-10-17 | Bryant | Maine,Bryant,-1.5,-124,100.0,14.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",60,2026-10-17 | Bryant | Maine,Maine,+1.5,+100,0.0,86.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",61,2026-10-17 | Monmouth | New Hampshire,Monmouth,-,-314,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",61,2026-10-17 | Monmouth | New Hampshire,New Hampshire,-,+239,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",62,2026-10-17 | Mcneese ST | Northwestern ST,Mcneese ST,-21,-,100.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",62,2026-10-17 | Mcneese ST | Northwestern ST,Northwestern ST,+21,-,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",63,2026-10-17 | Colgate | Georgetown,Georgetown,+18.5,-,5.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",63,2026-10-17 | Colgate | Georgetown,Colgate,-18.5,-,95.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",64,2026-10-17 | Butler | Dayton,Dayton,+5.5,+174,90.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",64,2026-10-17 | Butler | Dayton,Butler,-5.5,-221,10.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",65,2026-10-17 | Dartmouth | Merrimack,Merrimack,+10,+319,98.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",65,2026-10-17 | Dartmouth | Merrimack,Dartmouth,-10,-438,2.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",66,2026-10-17 | Davidson | Morehead ST,Morehead ST,-,-,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",66,2026-10-17 | Davidson | Morehead ST,Davidson,-,-,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",67,2026-10-17 | Drake | Marist,Marist,+4.5,-,100.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",67,2026-10-17 | Drake | Marist,Drake,-4.5,-,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",68,2026-10-17 | Harvard | Holy Cross,Holy Cross,+15.5,+520,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",68,2026-10-17 | Harvard | Holy Cross,Harvard,-15.5,-820,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",69,2026-10-17 | VMI | Wofford,VMI,+28.5,-,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",69,2026-10-17 | VMI | Wofford,Wofford,-28.5,-,100.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",70,2026-10-17 | N Dakota | S Dakota ST,S Dakota ST,-14,-620,93.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",70,2026-10-17 | N Dakota | S Dakota ST,N Dakota,+14,+418,7.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",71,2026-10-17 | Cornell | Lehigh,Lehigh,-11.5,-546,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",71,2026-10-17 | Cornell | Lehigh,Cornell,+11.5,+382,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",72,2026-10-17 | Presbyterian | Stetson,Presbyterian,-10.5,-473,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",72,2026-10-17 | Presbyterian | Stetson,Stetson,+10.5,+340,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",73,2026-10-17 | Austin Peay | W Georgia,Austin Peay,-21,"-1,740",0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",73,2026-10-17 | Austin Peay | W Georgia,W Georgia,+21,+830,100.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",74,2026-10-17 | E Kentucky | Tennessee Tech,E Kentucky,+14.5,+481,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",74,2026-10-17 | E Kentucky | Tennessee Tech,Tennessee Tech,-14.5,-740,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",75,2026-10-17 | Albany | Stony Brook,Albany,+6,+174,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",75,2026-10-17 | Albany | Stony Brook,Stony Brook,-6,-221,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",76,2026-10-17 | SE Missouri ST | W Illinois,W Illinois,-,+185,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",76,2026-10-17 | SE Missouri ST | W Illinois,SE Missouri ST,-,-236,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",77,2026-10-17 | Idaho ST | Weber ST,Idaho ST,-,-279,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",77,2026-10-17 | Idaho ST | Weber ST,Weber ST,-,+215,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",78,2026-10-17 | Gardner Webb | Tennessee-Martin,Gardner Webb,-,-123,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",78,2026-10-17 | Gardner Webb | Tennessee-Martin,Tennessee-Martin,-,-101,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",79,2026-10-17 | E Illinois | Lindenwood,Lindenwood,-1.5,-122,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",79,2026-10-17 | E Illinois | Lindenwood,E Illinois,+1.5,-101,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",80,2026-10-17 | Alabama ST | Ark-Pine Bluff,Alabama ST,-,-195,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",80,2026-10-17 | Alabama ST | Ark-Pine Bluff,Ark-Pine Bluff,-,+155,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",81,2026-10-17 | Alabama A&M | Grambling ST,Grambling ST,+7,-,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",81,2026-10-17 | Alabama A&M | Grambling ST,Alabama A&M,-7,-,100.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",82,2026-10-17 | Bethune-Cookman | Miss Valley ST,Bethune-Cookman,-,-,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",82,2026-10-17 | Bethune-Cookman | Miss Valley ST,Miss Valley ST,-,-,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",83,2026-10-17 | Idaho | Montana,Idaho,+17.5,+509,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",83,2026-10-17 | Idaho | Montana,Montana,-17.5,-800,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",84,2026-10-17 | Bucknell | Lafayette,Lafayette,-4.5,-202,0.0,89.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",84,2026-10-17 | Bucknell | Lafayette,Bucknell,+4.5,+160,100.0,11.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",85,2026-10-17 | Florida A&M | Jackson ST,Florida A&M,-,+401,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",85,2026-10-17 | Florida A&M | Jackson ST,Jackson ST,-,-582,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",86,2026-10-17 | Fordham | Villanova,Villanova,-7.5,-344,55.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",86,2026-10-17 | Fordham | Villanova,Fordham,+7.5,+259,45.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",87,2026-10-17 | Campbell | Towson,Towson,+12.5,+374,100.0,46.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",87,2026-10-17 | Campbell | Towson,Campbell,-12.5,-533,0.0,54.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",88,2026-10-17 | Nicholls ST | Stephen F Austin,Stephen F Austin,-22.5,"-3,200",100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",88,2026-10-17 | Nicholls ST | Stephen F Austin,Nicholls ST,+22.5,"+1,100",0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",89,2026-10-17 | Illinois ST | S Illinois,Illinois ST,-7,-,2.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",89,2026-10-17 | Illinois ST | S Illinois,S Illinois,+7,-,98.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",90,2026-10-17 | Lamar | SE Louisiana,Lamar,-,-195,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",90,2026-10-17 | Lamar | SE Louisiana,SE Louisiana,-,+155,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",91,2026-10-17 | LIU-Post | Wagner,LIU-Post,-,-236,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",91,2026-10-17 | LIU-Post | Wagner,Wagner,-,+185,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",92,2026-10-17 | N Iowa | Youngstown ST,N Iowa,+18.5,+750,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",92,2026-10-17 | N Iowa | Youngstown ST,Youngstown ST,-18.5,"-1,440",100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",93,2026-10-17 | Morgan ST | Tennessee ST,Morgan ST,-,-228,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",93,2026-10-17 | Morgan ST | Tennessee ST,Tennessee ST,-,+179,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",94,2026-10-17 | N Arizona | Portland ST,Portland ST,-,+700,0.0,96.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",94,2026-10-17 | N Arizona | Portland ST,N Arizona,-,"-1,300",0.0,4.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",95,2026-10-17 | Mercer | Samford,Mercer,-13.5,-610,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",95,2026-10-17 | Mercer | Samford,Samford,+13.5,+413,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",96,2026-10-17 | E Washington | Montana ST,Montana ST,-,"-1,620",0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",96,2026-10-17 | E Washington | Montana ST,E Washington,-,+800,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",97,2026-10-17 | East Texas A&M | Houston Christian,East Texas A&M,+3,+121,50.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",97,2026-10-17 | East Texas A&M | Houston Christian,Houston Christian,-3,-151,50.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",98,2026-10-17 | Abilene Christian | N Alabama,Abilene Christian,-4,-,11.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",98,2026-10-17 | Abilene Christian | N Alabama,N Alabama,+4,-,89.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",99,2026-10-17 | C Arkansas | Tarleton ST,C Arkansas,-,+660,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",99,2026-10-17 | C Arkansas | Tarleton ST,Tarleton ST,-,"-1,200",0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",100,2026-10-17 | Cal Poly | N Colorado,Cal Poly,-2.5,-156,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",100,2026-10-17 | Cal Poly | N Colorado,N Colorado,+2.5,+125,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",101,2026-10-17 | S Utah | UC-Davis,UC-Davis,-5.5,-208,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 17",101,2026-10-17 | S Utah | UC-Davis,S Utah,+5.5,+164,100.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - TUESDAY, OCT 20",1,2026-10-20 | Florida Intl Golden Panthers | Middle Tenn ST Blue Raiders,Middle Tenn ST Blue Raiders,-,+320,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - TUESDAY, OCT 20",1,2026-10-20 | Florida Intl Golden Panthers | Middle Tenn ST Blue Raiders,Florida Intl Golden Panthers,-,-410,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - TUESDAY, OCT 20",2,2026-10-20 | Marshall Thundering Herd | S Alabama Jaguars,S Alabama Jaguars,-,-,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - TUESDAY, OCT 20",2,2026-10-20 | Marshall Thundering Herd | S Alabama Jaguars,Marshall Thundering Herd,-,-,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - WEDNESDAY, OCT 21",1,2026-10-21 | New Mexico ST Aggies | Sam Houston ST Bearkats,New Mexico ST Aggies,-2.5,-,100.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - WEDNESDAY, OCT 21",1,2026-10-21 | New Mexico ST Aggies | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+2.5,-,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - THURSDAY, OCT 22",1,2026-10-22 | Kennesaw ST | Liberty Flames,Liberty Flames,-,-340,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - THURSDAY, OCT 22",1,2026-10-22 | Kennesaw ST | Liberty Flames,Kennesaw ST,-,+270,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - FRIDAY, OCT 23",1,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+6.5,+225,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - FRIDAY, OCT 23",1,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Virginia Cavaliers,-6.5,-278,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",1,2026-10-24 | Arizona Wildcats | Iowa ST Cyclones,Iowa ST Cyclones,+10,+300,23.0,1.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",1,2026-10-24 | Arizona Wildcats | Iowa ST Cyclones,Arizona Wildcats,-10,-380,77.0,99.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",2,2026-10-24 | (8) BYU Cougars | UCF Knights,(8) BYU Cougars,-7.5,-310,0.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",2,2026-10-24 | (8) BYU Cougars | UCF Knights,UCF Knights,+7.5,+250,100.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",3,2026-10-24 | Clemson Tigers | Virginia Tech Hokies,Virginia Tech Hokies,-,-112,0.0,54.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",3,2026-10-24 | Clemson Tigers | Virginia Tech Hokies,Clemson Tigers,-,-108,0.0,46.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",4,2026-10-24 | (17) Iowa Hawkies | Minnesota Golden Gophers,(17) Iowa Hawkies,-4.5,-185,37.0,4.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",4,2026-10-24 | (17) Iowa Hawkies | Minnesota Golden Gophers,Minnesota Golden Gophers,+4.5,+154,63.0,96.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",5,2026-10-24 | (11) Utah Utes | (20) Houston Cougars,(20) Houston Cougars,+6.5,+195,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",5,2026-10-24 | (11) Utah Utes | (20) Houston Cougars,(11) Utah Utes,-6.5,-238,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",6,2026-10-24 | (22) LSU Tigers | Auburn Tigers,(22) LSU Tigers,-6.5,-238,100.0,87.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",6,2026-10-24 | (22) LSU Tigers | Auburn Tigers,Auburn Tigers,+6.5,+195,0.0,13.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",7,2026-10-24 | (3) Miami FL Hurricanes | Pittsburgh Panthers,Pittsburgh Panthers,-,"+1,300",0.0,76.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",7,2026-10-24 | (3) Miami FL Hurricanes | Pittsburgh Panthers,(3) Miami FL Hurricanes,-,"-2,800",0.0,24.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",8,2026-10-24 | (5) Indiana Hoosiers | Michigan Wolverines,(5) Indiana Hoosiers,-8.5,-360,0.0,53.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",8,2026-10-24 | (5) Indiana Hoosiers | Michigan Wolverines,Michigan Wolverines,+8.5,+285,100.0,47.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",9,2026-10-24 | (6) Alabama Crimson Tide | Texas A&M Aggies,Texas A&M Aggies,+15.5,+550,95.0,16.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",9,2026-10-24 | (6) Alabama Crimson Tide | Texas A&M Aggies,(6) Alabama Crimson Tide,-15.5,-800,5.0,84.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",10,2026-10-24 | (14) Tennessee Volunteers | South Carolina Gamecocks,(14) Tennessee Volunteers,-1.5,-118,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",10,2026-10-24 | (14) Tennessee Volunteers | South Carolina Gamecocks,South Carolina Gamecocks,+1.5,-102,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",11,2026-10-24 | (15) Kentucky Wildcats | Vanderbilt Commodores,Vanderbilt Commodores,+9.5,+310,0.0,0.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",11,2026-10-24 | (15) Kentucky Wildcats | Vanderbilt Commodores,(15) Kentucky Wildcats,-9.5,-395,100.0,100.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",12,2026-10-24 | (7) Texas Longhorns | (9) Ole Miss Rebels,(9) Ole Miss Rebels,+6.5,+190,70.0,25.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",12,2026-10-24 | (7) Texas Longhorns | (9) Ole Miss Rebels,(7) Texas Longhorns,-6.5,-230,30.0,75.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",13,2026-10-24 | (19) USC Trojans | Wisconsin Badgers,(19) USC Trojans,-1.5,-120,55.0,3.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",13,2026-10-24 | (19) USC Trojans | Wisconsin Badgers,Wisconsin Badgers,+1.5,+100,45.0,97.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",14,2026-10-24 | N Dakota ST | New Mexico Lobos,N Dakota ST,+4.5,+160,3.0,96.0,vsin-20261017T023912Z-tables.json
+2026-10-17T02:39:12+00:00,"CFB - SATURDAY, OCT 24",14,2026-10-24 | N Dakota ST | New Mexico Lobos,New Mexico Lobos,-4.5,-192,97.0,4.0,vsin-20261017T023912Z-tables.json
