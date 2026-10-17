@@ -10,12 +10,12 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-17,26,2026-10-17 | N Illinois Huskies | Wyoming Cowboys,N Illinois Huskies,+7,32.0,+235,1.0
 2026-10-17,29,2026-10-17 | Rice Owls | Tulsa Golden Hurricane,Rice Owls,+3.5,37.0,+154,9.0
 2026-10-17,31,2026-10-17 | Oregon ST Beavers | Washington ST Cougars,Washington ST Cougars,+18.5,8.0,+650,11.0
-2026-10-17,33,2026-10-17 | (3) Miami FL Hurricanes | Florida ST Seminoles,Florida ST Seminoles,+19.5,11.0,+900,5.0
-2026-10-17,34,2026-10-17 | Kent ST Golden Flashes | South Florida Bulls,Kent ST Golden Flashes,+20.5,21.0,+850,6.0
-2026-10-17,41,2026-10-17 | Elon | Stanford Cardinal,Elon,+34.5,36.0,-,0.0
-2026-10-17,44,2026-10-17 | LA Monroe Warhawks | Louisiana Tech Bulldogs,LA Monroe Warhawks,+13.5,38.0,+440,12.0
-2026-10-17,45,2026-10-17 | Navy Midshipmen | Texas-San Antonio Roadrunners,Navy Midshipmen,+6.5,10.0,+200,19.0
-2026-10-17,47,2026-10-17 | Ohio Bobcats | Sacramento ST,Sacramento ST,+15.5,14.0,+500,7.0
+2026-10-17,33,2026-10-17 | (3) Miami FL Hurricanes | Florida ST Seminoles,Florida ST Seminoles,+19.5,13.0,+900,5.0
+2026-10-17,34,2026-10-17 | Kent ST Golden Flashes | South Florida Bulls,Kent ST Golden Flashes,+20.5,20.0,+850,7.0
+2026-10-17,41,2026-10-17 | Elon | Stanford Cardinal,Elon,+34.5,37.0,-,0.0
+2026-10-17,44,2026-10-17 | LA Monroe Warhawks | Louisiana Tech Bulldogs,LA Monroe Warhawks,+13.5,37.0,+440,12.0
+2026-10-17,45,2026-10-17 | Navy Midshipmen | Texas-San Antonio Roadrunners,Navy Midshipmen,+6.5,12.0,+200,19.0
+2026-10-17,47,2026-10-17 | Ohio Bobcats | Sacramento ST,Sacramento ST,+15.5,15.0,+500,7.0
 2026-10-17,48,2026-10-17 | (11) Utah Utes | Colorado Buffaloes,Colorado Buffaloes,+15.5,17.0,+550,20.0
 2026-10-17,50,2026-10-17 | Hawaii Rainbow Warriors | New Mexico Lobos,Hawaii Rainbow Warriors,+14.5,38.0,+470,8.0
 2026-10-17,53,2026-10-17 | Chicago ST | N Carolina A&T,Chicago ST,+18.5,0.0,+710,9.0
@@ -42,14 +42,14 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-17,93,2026-10-17 | Lamar | SE Louisiana,SE Louisiana,+5.5,36.0,+155,27.0
 2026-10-17,94,2026-10-17 | LIU-Post | Wagner,Wagner,+6.5,10.0,+201,0.0
 2026-10-17,95,2026-10-17 | N Iowa | Youngstown ST,Youngstown ST,-20.5,25.0,"-1,640",5.0
-2026-10-17,97,2026-10-17 | N Arizona | Portland ST,N Arizona,-17.5,10.0,"-1,180",28.0
-2026-10-17,98,2026-10-17 | Mercer | Samford,Samford,+14,0.0,+403,0.0
+2026-10-17,97,2026-10-17 | N Arizona | Portland ST,N Arizona,-17.5,11.0,"-1,180",28.0
+2026-10-17,98,2026-10-17 | Mercer | Samford,Samford,+14,0.0,+424,0.0
 2026-10-17,99,2026-10-17 | E Washington | Montana ST,E Washington,+20.5,0.0,+720,0.0
 2026-10-17,100,2026-10-17 | Incarnate Word | UTRGV,UTRGV,+3.5,38.0,+139,1.0
-2026-10-17,102,2026-10-17 | Abilene Christian | N Alabama,Abilene Christian,-2.5,12.0,-158,5.0
+2026-10-17,101,2026-10-17 | East Texas A&M | Houston Christian,Houston Christian,-3,23.0,-151,16.0
+2026-10-17,102,2026-10-17 | Abilene Christian | N Alabama,Abilene Christian,-2.5,12.0,-158,17.0
 2026-10-17,103,2026-10-17 | C Arkansas | Tarleton ST,C Arkansas,+19.5,0.0,+610,0.0
 2026-10-17,104,2026-10-17 | Cal Poly | N Colorado,N Colorado,+3.5,7.0,+140,16.0
-2026-10-17,105,2026-10-17 | S Utah | UC-Davis,UC-Davis,-4.5,3.0,-196,25.0
 2026-10-20,1,2026-10-20 | Florida Intl Golden Panthers | Middle Tenn ST Blue Raiders,Middle Tenn ST Blue Raiders,+10,0.0,+320,18.0
 2026-10-22,1,2026-10-22 | Kennesaw ST | Liberty Flames,Kennesaw ST,+8.5,0.0,+270,16.0
 2026-10-23,1,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+6.5,0.0,+225,0.0
