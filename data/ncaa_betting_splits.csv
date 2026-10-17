@@ -1,22 +1,21 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
 2026-10-16,1,2026-10-16 | Memphis Tigers | Tulane Green Wave,Tulane Green Wave,+6.5,23.0,+210,35.0
 2026-10-16,3,2026-10-16 | Appalachian ST Mountaineers | Coastal Carolina Chanticleers,Coastal Carolina Chanticleers,+1.5,39.0,-112,39.0
-2026-10-17,1,2026-10-17 | Army Black Nights | FL Atlantic Owls,FL Atlantic Owls,+2.5,36.0,+105,36.0
 2026-10-17,2,2026-10-17 | Boston College Eagles | Pittsburgh Panthers,Boston College Eagles,+6.5,19.0,+195,18.0
 2026-10-17,4,2026-10-17 | Charleston Southern | Clemson Tigers,Charleston Southern,+43.5,24.0,-,0.0
 2026-10-17,5,2026-10-17 | (4) Ohio ST Buckeyes | (5) Indiana Hoosiers,(5) Indiana Hoosiers,+3,27.0,+130,30.0
-2026-10-17,8,2026-10-17 | (25) Northwestern Wildcats | Michigan ST Spartans,Michigan ST Spartans,+7,20.0,+240,28.0
+2026-10-17,8,2026-10-17 | (25) Northwestern Wildcats | Michigan ST Spartans,Michigan ST Spartans,+7,20.0,+240,25.0
 2026-10-17,9,2026-10-17 | (24) SMU Mustangs | Virginia Cavaliers,Virginia Cavaliers,+9.5,28.0,+270,3.0
 2026-10-17,11,2026-10-17 | Cincinnati Bearcats | West Virginia Mountaineers,Cincinnati Bearcats,+1.5,26.0,+102,17.0
 2026-10-17,16,2026-10-17 | Citadel | Texas A&M Aggies,Citadel,+45.5,35.0,-,0.0
-2026-10-17,20,2026-10-17 | E Michigan Eagles | Toledo Rockets,E Michigan Eagles,+6.5,10.0,+200,32.0
-2026-10-17,21,2026-10-17 | (1) Georgia Bulldogs | Auburn Tigers,Auburn Tigers,+19.5,21.0,+800,8.0
-2026-10-17,24,2026-10-17 | (13) Missouri Tigers | (9) Ole Miss Rebels,(13) Missouri Tigers,+5.5,25.0,+185,37.0
+2026-10-17,20,2026-10-17 | E Michigan Eagles | Toledo Rockets,E Michigan Eagles,+6.5,10.0,+200,34.0
+2026-10-17,21,2026-10-17 | (1) Georgia Bulldogs | Auburn Tigers,Auburn Tigers,+19.5,18.0,+800,8.0
+2026-10-17,24,2026-10-17 | (13) Missouri Tigers | (9) Ole Miss Rebels,(13) Missouri Tigers,+5.5,25.0,+185,38.0
 2026-10-17,27,2026-10-17 | Georgia Tech Yellow Jackets | Virginia Tech Hokies,Georgia Tech Yellow Jackets,+8.5,20.0,+285,19.0
-2026-10-17,28,2026-10-17 | N Illinois Huskies | Wyoming Cowboys,N Illinois Huskies,+7.5,6.0,+245,14.0
+2026-10-17,28,2026-10-17 | N Illinois Huskies | Wyoming Cowboys,N Illinois Huskies,+7.5,6.0,+245,15.0
 2026-10-17,31,2026-10-17 | Oregon ST Beavers | Washington ST Cougars,Washington ST Cougars,+18.5,5.0,+650,9.0
 2026-10-17,32,2026-10-17 | Baylor Bears | TCU horned Frogs,TCU horned Frogs,+5.5,32.0,+180,34.0
-2026-10-17,33,2026-10-17 | (3) Miami FL Hurricanes | Florida ST Seminoles,Florida ST Seminoles,+20.5,18.0,+950,3.0
+2026-10-17,33,2026-10-17 | (3) Miami FL Hurricanes | Florida ST Seminoles,Florida ST Seminoles,+20.5,16.0,+950,3.0
 2026-10-17,35,2026-10-17 | Arkansas ST Red Wolves | Southern Miss Golden Eagles,Arkansas ST Red Wolves,-6.5,31.0,-245,11.0
 2026-10-17,41,2026-10-17 | Elon | Stanford Cardinal,Elon,+35.5,17.0,-,0.0
 2026-10-17,45,2026-10-17 | Navy Midshipmen | Texas-San Antonio Roadrunners,Navy Midshipmen,+6.5,15.0,+210,7.0
@@ -26,7 +25,6 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-17,53,2026-10-17 | Chicago ST | N Carolina A&T,Chicago ST,+16.5,0.0,+459,0.0
 2026-10-17,56,2026-10-17 | Hampton | Sacred Heart,Hampton,+13.5,0.0,+402,0.0
 2026-10-17,57,2026-10-17 | Rhode Island | Yale,Rhode Island,+14,2.0,+413,0.0
-2026-10-17,59,2026-10-17 | C Conn ST | Mercyhurst,Mercyhurst,+7,4.0,+229,0.0
 2026-10-17,61,2026-10-17 | Monmouth | New Hampshire,New Hampshire,-,0.0,+239,0.0
 2026-10-17,62,2026-10-17 | Mcneese ST | Northwestern ST,Northwestern ST,+21,0.0,"+1,180",0.0
 2026-10-17,63,2026-10-17 | Colgate | Georgetown,Georgetown,+18.5,5.0,+710,0.0
@@ -35,7 +33,6 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-17,69,2026-10-17 | VMI | Wofford,VMI,+28.5,0.0,-,0.0
 2026-10-17,70,2026-10-17 | N Dakota | S Dakota ST,N Dakota,+14,7.0,+418,0.0
 2026-10-17,71,2026-10-17 | Cornell | Lehigh,Cornell,+11.5,0.0,+382,0.0
-2026-10-17,72,2026-10-17 | Presbyterian | Stetson,Stetson,+10.5,33.0,+340,0.0
 2026-10-17,75,2026-10-17 | Albany | Stony Brook,Albany,+6,0.0,+174,0.0
 2026-10-17,76,2026-10-17 | SE Missouri ST | W Illinois,W Illinois,-,0.0,+185,1.0
 2026-10-17,77,2026-10-17 | Idaho ST | Weber ST,Weber ST,-,0.0,+215,1.0
