@@ -51,7 +51,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-17,102,2026-10-17 | Abilene Christian | N Alabama,Abilene Christian,-2.5,34.0,-158,17.0
 2026-10-17,103,2026-10-17 | C Arkansas | Tarleton ST,C Arkansas,+19.5,0.0,+610,0.0
 2026-10-17,104,2026-10-17 | Cal Poly | N Colorado,N Colorado,+3,7.0,+139,14.0
-2026-10-20,1,2026-10-20 | Florida Intl Golden Panthers | Middle Tenn ST Blue Raiders,Middle Tenn ST Blue Raiders,+10.5,18.0,+340,18.0
+2026-10-20,1,2026-10-20 | Florida Intl Golden Panthers | Middle Tenn ST Blue Raiders,Middle Tenn ST Blue Raiders,+10.5,1.0,+340,18.0
 2026-10-20,2,2026-10-20 | Delaware | Missouri ST,Missouri ST,+3,0.0,-,0.0
 2026-10-22,1,2026-10-22 | Appalachian ST Mountaineers | James Madison,Appalachian ST Mountaineers,+10.5,0.0,-,0.0
 2026-10-22,2,2026-10-22 | Kennesaw ST | Liberty Flames,Kennesaw ST,+9.5,1.0,+275,14.0
@@ -60,7 +60,9 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-23,2,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+2.5,0.0,+110,0.0
 2026-10-23,3,2026-10-23 | Army Black Nights | Tulsa Golden Hurricane,Army Black Nights,-,0.0,-,0.0
 2026-10-23,3,2026-10-23 | Army Black Nights | Tulsa Golden Hurricane,Tulsa Golden Hurricane,-,0.0,-,0.0
-2026-10-23,4,2026-10-23 | NC State Wolfpack | Stanford Cardinal,NC State Wolfpack,-7.5,0.0,-,0.0
+2026-10-23,4,2026-10-23 | Air Force Falcons | Wyoming Cowboys,Air Force Falcons,-,0.0,-,0.0
+2026-10-23,4,2026-10-23 | Air Force Falcons | Wyoming Cowboys,Wyoming Cowboys,-,0.0,-,0.0
+2026-10-23,5,2026-10-23 | NC State Wolfpack | Stanford Cardinal,NC State Wolfpack,-7.5,0.0,-,0.0
 2026-10-24,1,2026-10-24 | Arizona Wildcats | Iowa ST Cyclones,Iowa ST Cyclones,+10,23.0,+300,19.0
 2026-10-24,3,2026-10-24 | (10) Texas Tech Red Raiders | Cincinnati Bearcats,Cincinnati Bearcats,+11.5,0.0,+330,0.0
 2026-10-24,6,2026-10-24 | (12) UCLA Bruins | Michigan ST Spartans,Michigan ST Spartans,-,0.0,+400,0.0
@@ -69,7 +71,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-24,11,2026-10-24 | (25) Northwestern Wildcats | Rutgers Scarlet Knights,Rutgers Scarlet Knights,-,0.0,+650,0.0
 2026-10-24,12,2026-10-24 | (6) Alabama Crimson Tide | Texas A&M Aggies,Texas A&M Aggies,+15.5,22.0,+490,11.0
 2026-10-24,14,2026-10-24 | (15) Kentucky Wildcats | Vanderbilt Commodores,Vanderbilt Commodores,+11.5,0.0,+360,0.0
-2026-10-24,15,2026-10-24 | (7) Texas Longhorns | (9) Ole Miss Rebels,(9) Ole Miss Rebels,+3,39.0,+120,0.0
+2026-10-24,15,2026-10-24 | (7) Texas Longhorns | (9) Ole Miss Rebels,(9) Ole Miss Rebels,+3,39.0,+130,0.0
 2026-10-24,16,2026-10-24 | (19) USC Trojans | Wisconsin Badgers,(19) USC Trojans,-2.5,23.0,-130,4.0
 2026-10-31,1,2026-10-31 | Clemson Tigers | Florida ST Seminoles,Florida ST Seminoles,-,0.0,-108,0.0
 2026-10-31,2,2026-10-31 | Ohio ST Buckeyes | USC Trojans,USC Trojans,+7.5,0.0,+260,0.0
