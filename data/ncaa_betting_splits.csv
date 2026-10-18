@@ -57,9 +57,8 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-22,2,2026-10-22 | Kennesaw ST | Liberty Flames,Kennesaw ST,+9.5,1.0,+275,14.0
 2026-10-22,3,2026-10-22 | East Carolina Pirates | Memphis Tigers,East Carolina Pirates,+9.5,0.0,+310,0.0
 2026-10-23,1,2026-10-23 | Connecticut Huskies | Massachusetts Minutemen,Massachusetts Minutemen,+15.5,0.0,+575,0.0
-2026-10-23,2,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+2.5,0.0,+110,0.0
-2026-10-23,3,2026-10-23 | Army Black Nights | Tulsa Golden Hurricane,Army Black Nights,-,0.0,-108,0.0
-2026-10-23,4,2026-10-23 | Air Force Falcons | Wyoming Cowboys,Wyoming Cowboys,-,0.0,+185,0.0
+2026-10-23,2,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+2.5,0.0,+110,8.0
+2026-10-23,4,2026-10-23 | Air Force Falcons | Wyoming Cowboys,Air Force Falcons,-,0.0,-225,23.0
 2026-10-24,1,2026-10-24 | Arizona Wildcats | Iowa ST Cyclones,Iowa ST Cyclones,+10,23.0,+310,19.0
 2026-10-24,3,2026-10-24 | (10) Texas Tech Red Raiders | Cincinnati Bearcats,Cincinnati Bearcats,+11.5,0.0,+330,0.0
 2026-10-24,6,2026-10-24 | (12) UCLA Bruins | Michigan ST Spartans,Michigan ST Spartans,+13.5,0.0,+400,0.0
