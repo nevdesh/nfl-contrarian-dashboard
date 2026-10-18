@@ -1,12 +1,10 @@
 game_date,game_number,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-"NFL - SUNDAY, OCT 18",4,Tennessee Titans,+6.5,25.0,+235,16.0
-"NFL - SUNDAY, OCT 18",5,New Orleans Saints,-1.5,23.0,-108,37.0
-"NFL - SUNDAY, OCT 18",6,Philadelphia Eagles,+3,29.0,+136,27.0
-"NFL - SUNDAY, OCT 18",8,Tampa Bay Buccaneers,+1.5,26.0,+110,28.0
-"NFL - SUNDAY, OCT 18",9,Arizona Cardinals,+12.5,27.0,+550,9.0
-"NFL - THURSDAY, OCT 22",1,Chicago Bears,-1.5,36.0,-125,7.0
-"NFL - SUNDAY, OCT 25",3,Baltimore Ravens,-3.5,30.0,-180,10.0
-"NFL - SUNDAY, OCT 25",7,Atlanta Falcons,+4.5,39.0,+170,1.0
+"NFL - SUNDAY, OCT 18",4,Tennessee Titans,+6.5,26.0,+235,19.0
+"NFL - SUNDAY, OCT 18",6,Philadelphia Eagles,+3,32.0,+136,27.0
+"NFL - SUNDAY, OCT 18",8,Tampa Bay Buccaneers,+1.5,30.0,+110,30.0
+"NFL - SUNDAY, OCT 18",9,Arizona Cardinals,+12.5,28.0,+550,10.0
+"NFL - THURSDAY, OCT 22",1,Chicago Bears,-1.5,37.0,-125,7.0
+"NFL - SUNDAY, OCT 25",3,Baltimore Ravens,-3.5,28.0,-180,10.0
 "NFL - SUNDAY, OCT 25",8,Carolina Panthers,-3,4.0,-162,2.0
 "NFL - SUNDAY, OCT 25",11,Green Bay Packers,+3,0.0,+154,16.0
 "NFL - MONDAY, OCT 26",1,Philadelphia Eagles,-1.5,0.0,-120,19.0
