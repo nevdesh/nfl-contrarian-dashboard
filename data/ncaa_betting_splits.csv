@@ -1,26 +1,24 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-10-20,1,2026-10-20 | Florida Intl Golden Panthers | Middle Tenn ST Blue Raiders,Middle Tenn ST Blue Raiders,+10.5,6.0,+330,11.0
-2026-10-20,2,2026-10-20 | Delaware | Missouri ST,Missouri ST,+3,4.0,+124,7.0
+2026-10-20,1,2026-10-20 | Florida Intl Golden Panthers | Middle Tenn ST Blue Raiders,Middle Tenn ST Blue Raiders,+10.5,14.0,+330,11.0
+2026-10-22,1,2026-10-22 | Kennesaw ST | Liberty Flames,Liberty Flames,-11.5,32.0,-425,7.0
 2026-10-22,3,2026-10-22 | East Carolina Pirates | Memphis Tigers,East Carolina Pirates,+10,0.0,+300,1.0
-2026-10-23,3,2026-10-23 | Army Black Nights | Tulsa Golden Hurricane,Army Black Nights,-1.5,19.0,-115,10.0
-2026-10-23,4,2026-10-23 | Air Force Falcons | Wyoming Cowboys,Air Force Falcons,-5.5,0.0,-218,19.0
-2026-10-24,1,2026-10-24 | (18) LSU Tigers | Auburn Tigers,Auburn Tigers,+7,0.0,+220,7.0
-2026-10-24,2,2026-10-24 | (8) Texas Tech Red Raiders | Cincinnati Bearcats,Cincinnati Bearcats,+10.5,20.0,+340,0.0
+2026-10-23,3,2026-10-23 | Army Black Nights | Tulsa Golden Hurricane,Army Black Nights,+1.5,33.0,-108,10.0
+2026-10-23,4,2026-10-23 | Air Force Falcons | Wyoming Cowboys,Air Force Falcons,-5.5,0.0,-205,19.0
+2026-10-24,1,2026-10-24 | (18) LSU Tigers | Auburn Tigers,Auburn Tigers,+8.5,0.0,+245,6.0
+2026-10-24,2,2026-10-24 | (8) Texas Tech Red Raiders | Cincinnati Bearcats,Cincinnati Bearcats,+10.5,26.0,+340,0.0
 2026-10-24,3,2026-10-24 | FL Atlantic Owls | Rice Owls,Rice Owls,+10,0.0,+310,0.0
-2026-10-24,6,2026-10-24 | (24) Northwestern Wildcats | Rutgers Scarlet Knights,Rutgers Scarlet Knights,+16.5,37.0,+575,0.0
 2026-10-24,7,2026-10-24 | (23) SMU Mustangs | California Golden Bears,California Golden Bears,+18.5,14.0,+650,0.0
-2026-10-24,8,2026-10-24 | TCU horned Frogs | West Virginia Mountaineers,West Virginia Mountaineers,+8.5,37.0,+250,38.0
-2026-10-24,10,2026-10-24 | C Michigan Chippewas | Miami OH RedHawks,C Michigan Chippewas,+2.5,0.0,-,0.0
+2026-10-24,10,2026-10-24 | C Michigan Chippewas | Miami OH RedHawks,C Michigan Chippewas,+2.5,0.0,+102,0.0
 2026-10-24,11,2026-10-24 | Baylor Bears | Kansas Jayhawks,Kansas Jayhawks,+1.5,0.0,+105,0.0
 2026-10-24,14,2026-10-24 | (13) Alabama Crimson Tide | Texas A&M Aggies,Texas A&M Aggies,+14.5,15.0,+490,6.0
 2026-10-24,15,2026-10-24 | Ball ST Cardinals | Sacramento ST,Sacramento ST,+11.5,0.0,+340,0.0
 2026-10-24,16,2026-10-24 | Bowling Green Falcons | Buffalo Bulls,Bowling Green Falcons,-,0.0,-,0.0
 2026-10-24,16,2026-10-24 | Bowling Green Falcons | Buffalo Bulls,Buffalo Bulls,-,0.0,-,0.0
 2026-10-24,18,2026-10-24 | Boston College Eagles | Georgia Tech Yellow Jackets,Boston College Eagles,+5.5,0.0,+170,0.0
-2026-10-24,22,2026-10-24 | Navy Midshipmen | North Texas Mean Green,Navy Midshipmen,+1.5,2.0,+105,0.0
+2026-10-24,22,2026-10-24 | Navy Midshipmen | North Texas Mean Green,Navy Midshipmen,+1.5,2.0,+105,2.0
 2026-10-24,23,2026-10-24 | (11) Tennessee Volunteers | South Carolina Gamecocks,(11) Tennessee Volunteers,-1.5,19.0,-115,3.0
 2026-10-24,24,2026-10-24 | (9) UCLA Bruins | Michigan ST Spartans,Michigan ST Spartans,+14,2.0,+440,0.0
-2026-10-24,25,2026-10-24 | Arizona ST Sun Devils | Kansas ST Wildcats,Arizona ST Sun Devils,+3.5,0.0,-,0.0
+2026-10-24,25,2026-10-24 | Arizona ST Sun Devils | Kansas ST Wildcats,Arizona ST Sun Devils,+3.5,0.0,+140,0.0
 2026-10-24,26,2026-10-24 | E Michigan Eagles | Ohio Bobcats,E Michigan Eagles,-,0.0,+320,0.0
 2026-10-24,28,2026-10-24 | Louisiana Tech Bulldogs | Old Dominion Monarchs,Old Dominion Monarchs,+10.5,0.0,-,0.0
 2026-10-24,29,2026-10-24 | Nevada Wolf Pack | San Jose ST Spartans,San Jose ST Spartans,-,0.0,-,0.0
@@ -30,11 +28,11 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-24,32,2026-10-24 | Colorado ST Rams | San Diego ST Aztecs,San Diego ST Aztecs,-2.5,0.0,-,0.0
 2026-10-24,33,2026-10-24 | Arkansas ST Red Wolves | Georgia ST Panthers,Arkansas ST Red Wolves,+2.5,0.0,-,0.0
 2026-10-24,34,2026-10-24 | Clemson Tigers | Virginia Tech Hokies,Virginia Tech Hokies,+2.5,0.0,+110,0.0
-2026-10-24,36,2026-10-24 | (25) Arizona Wildcats | Iowa ST Cyclones,Iowa ST Cyclones,+10,17.0,+245,23.0
+2026-10-24,36,2026-10-24 | (25) Arizona Wildcats | Iowa ST Cyclones,Iowa ST Cyclones,+10,17.0,+245,22.0
 2026-10-24,37,2026-10-24 | (12) Kentucky Wildcats | Vanderbilt Commodores,Vanderbilt Commodores,+10.5,21.0,+340,0.0
 2026-10-24,41,2026-10-24 | Texas ST Bobcats | Utah ST Aggies,Utah ST Aggies,+11.5,0.0,+350,0.0
-2026-10-24,42,2026-10-24 | Texas-San Antonio Roadrunners | Tulane Green Wave,Texas-San Antonio Roadrunners,-,0.0,-135,0.0
-2026-10-24,44,2026-10-24 | (10) Utah Utes | (14) Houston Cougars,(14) Houston Cougars,+6.5,0.0,+185,24.0
+2026-10-24,42,2026-10-24 | Texas-San Antonio Roadrunners | Tulane Green Wave,Texas-San Antonio Roadrunners,-,0.0,-135,1.0
+2026-10-24,44,2026-10-24 | (10) Utah Utes | (14) Houston Cougars,(14) Houston Cougars,+6.5,0.0,+185,19.0
 2026-10-31,1,2026-10-31 | Clemson Tigers | Florida ST Seminoles,Florida ST Seminoles,-,0.0,-108,0.0
 2026-10-31,2,2026-10-31 | Ohio ST Buckeyes | USC Trojans,USC Trojans,+7.5,0.0,+260,0.0
 2026-10-31,3,2026-10-31 | Florida Gators | Georgia Bulldogs,Florida Gators,+12.5,0.0,+410,0.0
