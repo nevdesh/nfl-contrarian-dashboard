@@ -1,9 +1,9 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-10-20,1,2026-10-20 | Florida Intl Golden Panthers | Middle Tenn ST Blue Raiders,Middle Tenn ST Blue Raiders,+10,13.0,+300,4.0
-2026-10-21,1,2026-10-21 | New Mexico ST Aggies | Sam Houston ST Bearkats,New Mexico ST Aggies,-3,16.0,-148,37.0
+2026-10-20,1,2026-10-20 | Florida Intl Golden Panthers | Middle Tenn ST Blue Raiders,Middle Tenn ST Blue Raiders,+10,17.0,+300,4.0
+2026-10-21,1,2026-10-21 | New Mexico ST Aggies | Sam Houston ST Bearkats,New Mexico ST Aggies,-3,16.0,-148,38.0
 2026-10-22,2,2026-10-22 | Kennesaw ST | Liberty Flames,Liberty Flames,-10.5,30.0,-425,26.0
 2026-10-22,3,2026-10-22 | East Carolina Pirates | Memphis Tigers,East Carolina Pirates,+10.5,1.0,+320,1.0
-2026-10-23,2,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+1.5,21.0,+102,38.0
+2026-10-23,2,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+1.5,21.0,+102,26.0
 2026-10-23,4,2026-10-23 | Air Force Falcons | Wyoming Cowboys,Air Force Falcons,-4.5,8.0,-205,38.0
 2026-10-24,2,2026-10-24 | (8) Texas Tech Red Raiders | Cincinnati Bearcats,Cincinnati Bearcats,+10.5,35.0,+340,23.0
 2026-10-24,3,2026-10-24 | FL Atlantic Owls | Rice Owls,Rice Owls,+7.5,14.0,+270,10.0
@@ -23,9 +23,9 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-24,32,2026-10-24 | Colorado ST Rams | San Diego ST Aztecs,Colorado ST Rams,+1.5,12.0,-105,10.0
 2026-10-24,33,2026-10-24 | Arkansas ST Red Wolves | Georgia ST Panthers,Georgia ST Panthers,-2.5,22.0,-125,5.0
 2026-10-24,34,2026-10-24 | Clemson Tigers | Virginia Tech Hokies,Virginia Tech Hokies,+2.5,29.0,+124,1.0
-2026-10-24,36,2026-10-24 | (25) Arizona Wildcats | Iowa ST Cyclones,Iowa ST Cyclones,+10,26.0,+260,17.0
+2026-10-24,36,2026-10-24 | (25) Arizona Wildcats | Iowa ST Cyclones,Iowa ST Cyclones,+10,26.0,+260,7.0
 2026-10-24,37,2026-10-24 | (12) Kentucky Wildcats | Vanderbilt Commodores,Vanderbilt Commodores,+10.5,26.0,+360,3.0
-2026-10-24,39,2026-10-24 | (19) Texas Longhorns | (7) Ole Miss Rebels,(19) Texas Longhorns,-3.5,31.0,-162,9.0
+2026-10-24,39,2026-10-24 | (19) Texas Longhorns | (7) Ole Miss Rebels,(19) Texas Longhorns,-3,36.0,-162,9.0
 2026-10-24,41,2026-10-24 | Texas ST Bobcats | Utah ST Aggies,Utah ST Aggies,+12.5,0.0,+370,12.0
 2026-10-31,1,2026-10-31 | Clemson Tigers | Florida ST Seminoles,Florida ST Seminoles,-,0.0,-108,0.0
 2026-10-31,2,2026-10-31 | Ohio ST Buckeyes | USC Trojans,USC Trojans,+7.5,0.0,+260,0.0
