@@ -1,7 +1,19 @@
-"game_date","week_start","matchup_id","team","opponent","qualifying_spread","spread_handle_pct","moneyline_handle_pct","qualified_at","team_score","opponent_score","ats_result"
-"2026-10-17","2026-10-11","2026-10-17 | (1) Georgia Bulldogs | Auburn Tigers","Auburn Tigers","(1) Georgia Bulldogs","+19.5","39.0","10.0","2026-10-16T04:13:12+00:00","27","24","YES"
-"2026-10-15","2026-10-11","2026-10-15 | East Carolina Pirates | UAB Blazers","East Carolina Pirates","UAB Blazers","-5.5","30.0","27.0","2026-10-14T21:09:00+00:00","17","30","NO"
-"2026-10-17","2026-10-11","2026-10-17 | California Golden Bears | (21) Wake Forest Demon Deacons","California Golden Bears","(21) Wake Forest Demon Deacons","+8.5","30.0","1.0","2026-10-14T21:09:00+00:00","7","41","NO"
-"2026-10-17","2026-10-11","2026-10-17 | Georgia Tech Yellow Jackets | Virginia Tech Hokies","Georgia Tech Yellow Jackets","Virginia Tech Hokies","+8.5","25.0","17.0","2026-10-16T19:38:35+00:00","24","34","NO"
-"2026-10-17","2026-10-11","2026-10-17 | Maryland Terrapins | Rutgers Scarlet Knights","Maryland Terrapins","Rutgers Scarlet Knights","-5.5","38.0","12.0","2026-10-16T07:45:13+00:00","30","37","NO"
-"2026-10-17","2026-10-11","2026-10-17 | UTEP Miners | San Jose ST Spartans","UTEP Miners","San Jose ST Spartans","+6.5","33.0","15.0","2026-10-16T04:13:12+00:00","11","24","NO"
+game_date,week_start,matchup_id,team,opponent,qualifying_spread,spread_handle_pct,moneyline_handle_pct,qualified_at,team_score,opponent_score,ats_result
+2026-10-17,2026-10-11,2026-10-17 | (1) Georgia Bulldogs | Auburn Tigers,Auburn Tigers,(1) Georgia Bulldogs,+19.5,39.0,10.0,2026-10-16T04:13:12+00:00,27,24,YES
+2026-10-15,2026-10-11,2026-10-15 | East Carolina Pirates | UAB Blazers,East Carolina Pirates,UAB Blazers,-5.5,30.0,27.0,2026-10-14T21:09:00+00:00,17,30,NO
+2026-10-17,2026-10-11,2026-10-17 | California Golden Bears | (21) Wake Forest Demon Deacons,California Golden Bears,(21) Wake Forest Demon Deacons,+8.5,30.0,1.0,2026-10-14T21:09:00+00:00,7,41,NO
+2026-10-17,2026-10-11,2026-10-17 | Georgia Tech Yellow Jackets | Virginia Tech Hokies,Georgia Tech Yellow Jackets,Virginia Tech Hokies,+8.5,25.0,17.0,2026-10-16T19:38:35+00:00,24,34,NO
+2026-10-17,2026-10-11,2026-10-17 | Maryland Terrapins | Rutgers Scarlet Knights,Maryland Terrapins,Rutgers Scarlet Knights,-5.5,38.0,12.0,2026-10-16T07:45:13+00:00,30,37,NO
+2026-10-17,2026-10-11,2026-10-17 | UTEP Miners | San Jose ST Spartans,UTEP Miners,San Jose ST Spartans,+6.5,33.0,15.0,2026-10-16T04:13:12+00:00,11,24,NO
+2026-10-17,2026-10-11,2026-10-17 | (13) Missouri Tigers | (9) Ole Miss Rebels,(13) Missouri Tigers,(9) Ole Miss Rebels,+4.5,36.0,36.0,2026-10-17T14:03:35+00:00,3,31,NO
+2026-10-17,2026-10-11,2026-10-17 | (4) Ohio ST Buckeyes | (5) Indiana Hoosiers,(5) Indiana Hoosiers,(4) Ohio ST Buckeyes,+2.5,25.0,29.0,2026-10-17T14:35:59+00:00,15,19,NO
+2026-10-17,2026-10-11,2026-10-17 | Charlotte 49ers | Temple Owls,Charlotte 49ers,Temple Owls,+18.5,31.0,12.0,2026-10-17T14:35:59+00:00,38,31,YES
+2026-10-17,2026-10-11,2026-10-17 | (11) Utah Utes | Colorado Buffaloes,Colorado Buffaloes,(11) Utah Utes,+14.5,19.0,27.0,2026-10-17T17:35:32+00:00,24,27,YES
+2026-10-17,2026-10-11,2026-10-17 | Baylor Bears | TCU horned Frogs,TCU horned Frogs,Baylor Bears,+4.5,29.0,21.0,2026-10-17T17:35:32+00:00,17,6,YES
+2026-10-23,2026-10-18,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,Virginia Cavaliers,+1.5,22.0,38.0,2026-10-19T22:45:54+00:00,,,
+2026-10-24,2026-10-18,2026-10-24 | (14) Tennessee Volunteers | South Carolina Gamecocks,(14) Tennessee Volunteers,South Carolina Gamecocks,-3,19.0,8.0,2026-10-18T07:37:28+00:00,,,
+2026-10-24,2026-10-18,2026-10-24 | (19) USC Trojans | Wisconsin Badgers,(19) USC Trojans,Wisconsin Badgers,-2.5,23.0,3.0,2026-10-18T04:44:36+00:00,,,
+2026-10-24,2026-10-18,2026-10-24 | Boston College Eagles | Georgia Tech Yellow Jackets,Boston College Eagles,Georgia Tech Yellow Jackets,+4,1.0,26.0,2026-10-19T19:42:19+00:00,,,
+2026-10-24,2026-10-18,2026-10-24 | Colorado ST Rams | San Diego ST Aztecs,Colorado ST Rams,San Diego ST Aztecs,+1.5,12.0,10.0,2026-10-20T01:42:48+00:00,,,
+2026-10-24,2026-10-18,2026-10-24 | TCU horned Frogs | West Virginia Mountaineers,TCU horned Frogs,West Virginia Mountaineers,-8.5,37.0,4.0,2026-10-19T00:52:31+00:00,,,
+2026-10-24,2026-10-18,2026-10-24 | (13) Alabama Crimson Tide | Texas A&M Aggies,Texas A&M Aggies,(13) Alabama Crimson Tide,+14.5,15.0,6.0,2026-10-18T20:36:23+00:00,,,
