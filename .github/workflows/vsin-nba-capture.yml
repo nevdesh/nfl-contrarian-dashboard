@@ -60,6 +60,11 @@ jobs:
           fi
           mkdir -p data
           python nba_odds_history.py "$TABLE_FILE" --output data/nba_odds_history.csv
+      - name: Save qualifying NBA picks
+        run: python nba_auto_tracker_pregame.py --save
+
+      - name: Grade completed NBA picks
+        run: python nba_espn_grader.py --save
       - name: Publish NBA CSV files
         shell: bash
         run: |
@@ -71,7 +76,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/nba_betting_splits.csv data/nba_odds_history.csv
+          git add data/nba_betting_splits.csv data/nba_odds_history.csv data/nba_weekly_ats_results.csv
 
           if git diff --cached --quiet; then
             echo "No NBA data changes to publish."
