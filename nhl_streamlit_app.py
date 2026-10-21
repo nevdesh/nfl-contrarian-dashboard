@@ -1,0 +1,203 @@
+from pathlib import Path
+
+import pandas as pd
+import streamlit as st
+
+from dashboard_style import apply_dashboard_style
+
+CANDIDATES_PATH = Path("data/nhl/contrarian_candidates.csv")
+HISTORY_PATH = Path("data/nhl/odds_history.csv")
+HANDLE_LIMIT = 40.0
+MIN_MONEYLINE_CENTS = 10
+
+
+def read_csv(path):
+    if not path.exists():
+        return pd.DataFrame()
+    return pd.read_csv(path, dtype=str).fillna("")
+
+
+def implied_probability(value):
+    try:
+        odds = int(str(value).strip())
+    except (ValueError, TypeError):
+        return None
+
+    if odds > 0:
+        return 100 / (odds + 100)
+    if odds < 0:
+        return -odds / (-odds + 100)
+    return None
+
+
+def american_line_value(odds):
+    """Express American odds as cents relative to even money."""
+    if odds > 0:
+        return odds - 100
+    if odds < 0:
+        return -(abs(odds) - 100)
+    raise ValueError("American odds cannot be zero")
+
+
+def analyze_candidates(candidates, history):
+    results = []
+
+    for _, candidate in candidates.iterrows():
+        try:
+            spread_handle = float(candidate["spread_handle_pct"])
+            ml_handle = float(candidate["moneyline_handle_pct"])
+        except (ValueError, KeyError, TypeError):
+            continue
+
+        if not (
+            0 <= spread_handle < HANDLE_LIMIT
+            and 0 <= ml_handle < HANDLE_LIMIT
+        ):
+            continue
+
+        matching = history[
+            (history["game_date"] == candidate["game_date"])
+            & (history["matchup_id"] == candidate["matchup_id"])
+            & (history["team"] == candidate["team"])
+        ].copy() if not history.empty else pd.DataFrame()
+
+        status = "INSUFFICIENT DATA FOR MONEYLINE MOVEMENT"
+        first_ml = ""
+        latest_ml = ""
+        snapshots = 0
+        movement_cents = None
+
+        if not matching.empty:
+            matching = matching.sort_values("captured_at")
+            matching = matching.drop_duplicates("captured_at")
+            snapshots = len(matching)
+
+            if snapshots >= 2:
+                first_ml = matching.iloc[0]["moneyline"]
+                latest_ml = matching.iloc[-1]["moneyline"]
+
+                first_prob = implied_probability(first_ml)
+                latest_prob = implied_probability(latest_ml)
+
+                try:
+                    first_price = int(first_ml)
+                    latest_price = int(latest_ml)
+                except (ValueError, TypeError):
+                    first_price = latest_price = None
+
+                if (
+                    first_prob is not None
+                    and latest_prob is not None
+                    and first_price is not None
+                    and latest_price is not None
+                ):
+                    movement_cents = (
+                        american_line_value(first_price)
+                        - american_line_value(latest_price)
+                    )
+
+                    if latest_prob > first_prob:
+                        if movement_cents >= MIN_MONEYLINE_CENTS:
+                            status = "FAVORABLE MONEYLINE MOVEMENT"
+                        else:
+                            status = "FAVORABLE, BELOW 10-CENT THRESHOLD"
+                    elif latest_prob < first_prob:
+                        status = "UNFAVORABLE MONEYLINE MOVEMENT"
+                    else:
+                        movement_cents = 0
+                        status = "NO MONEYLINE MOVEMENT"
+
+        results.append({
+            "Game Date": candidate["game_date"],
+            "Team": candidate["team"],
+            "Puck Line": candidate.get("spread", ""),
+            "Spread Handle %": spread_handle,
+            "Moneyline Handle %": ml_handle,
+            "First Moneyline": first_ml,
+            "Latest Moneyline": latest_ml,
+            "Snapshots": snapshots,
+            "Movement (cents)": movement_cents,
+            "Status": status,
+        })
+
+    return pd.DataFrame(results)
+
+
+st.set_page_config(
+    page_title="NHL Contrarian Dashboard",
+    page_icon="🏒",
+    layout="wide",
+)
+
+apply_dashboard_style()
+
+st.title("NHL Contrarian Dashboard")
+st.caption(
+    "Contrarian betting candidates with low spread and moneyline handle "
+    "and favorable moneyline movement."
+)
+
+st.info(
+    "Qualification requires both handle percentages below 40% and at least "
+    "10 cents of favorable moneyline movement. Candidates with insufficient "
+    "history are not confirmed picks."
+)
+
+if st.button("Refresh data"):
+    st.cache_data.clear()
+
+candidates = read_csv(CANDIDATES_PATH)
+history = read_csv(HISTORY_PATH)
+
+if candidates.empty:
+    st.warning("No NHL candidates found. Check data/nhl/contrarian_candidates.csv.")
+elif history.empty:
+    st.warning("No NHL odds history found. Check data/nhl/odds_history.csv.")
+else:
+    required_candidates = {
+        "game_date", "matchup_id", "team", "spread",
+        "spread_handle_pct", "moneyline_handle_pct",
+    }
+    required_history = {
+        "captured_at", "game_date", "matchup_id", "team", "moneyline",
+    }
+
+    if not required_candidates.issubset(candidates.columns):
+        st.error("The NHL candidates CSV is missing required columns.")
+    elif not required_history.issubset(history.columns):
+        st.error("The NHL odds history CSV is missing required columns.")
+    else:
+        results = analyze_candidates(candidates, history)
+
+        if results.empty:
+            st.warning("No candidates currently meet both handle thresholds.")
+        else:
+            confirmed = results[
+                results["Status"] == "FAVORABLE MONEYLINE MOVEMENT"
+            ]
+            insufficient = results[
+                results["Status"] == "INSUFFICIENT DATA FOR MONEYLINE MOVEMENT"
+            ]
+
+            col1, col2, col3 = st.columns(3)
+            col1.metric("Low-handle candidates", len(results))
+            col2.metric("Confirmed movement", len(confirmed))
+            col3.metric("Insufficient history", len(insufficient))
+
+            st.subheader("Contrarian candidates")
+            st.dataframe(results, use_container_width=True, hide_index=True)
+
+            st.subheader("Confirmed candidates")
+            if confirmed.empty:
+                st.info("No candidates currently meet all qualification rules.")
+            else:
+                st.dataframe(
+                    confirmed, use_container_width=True, hide_index=True
+                )
+
+            st.caption(
+                "Price movement is provisional until its source and bookmaker "
+                "are verified. The displayed movement threshold uses the "
+                "absolute American-odds number change; crossing +/−100 needs "
+                "special interpretation."
+            )
