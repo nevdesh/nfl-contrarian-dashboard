@@ -5,6 +5,8 @@ permissions:
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "12,42 * * * *"
 
 concurrency:
   group: vsin-nba-authenticated-capture
