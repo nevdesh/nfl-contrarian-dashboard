@@ -739,6 +739,49 @@ if os.path.exists(ats_path):
 
                 display = weekly.copy()
 
+                # Show only essential results columns
+                display["Final Score"] = (
+                    display["team_score"].apply(
+                        lambda x: str(int(x)) if pd.notna(x) else "-"
+                    )
+                    + " - "
+                    + display["opponent_score"].apply(
+                        lambda x: str(int(x)) if pd.notna(x) else "-"
+                    )
+                )
+
+                display = display[[
+                    "game_date",
+                    "team",
+                    "opponent",
+                    "qualifying_spread",
+                    "spread_handle_pct",
+                    "moneyline_handle_pct",
+                    "Final Score",
+                    "ats_result",
+                ]]
+
+                # Format spreads without unnecessary decimal zeros
+                display["qualifying_spread"] = (
+                    pd.to_numeric(
+                        display["qualifying_spread"],
+                        errors="coerce"
+                    ).map(
+                        lambda x: (
+                            f"{x:+g}" if pd.notna(x) else "-"
+                        )
+                    )
+                )
+
+                display = display.rename(columns={
+                    "game_date": "Date",
+                    "team": "Team",
+                    "opponent": "Opponent",
+                    "qualifying_spread": "Spread",
+                    "spread_handle_pct": "Spread Handle %",
+                    "moneyline_handle_pct": "ML Handle %",
+                })
+
                 display["ats_result"] = (
                     display["ats_result"]
                     .fillna("PENDING")
@@ -770,7 +813,15 @@ if os.path.exists(ats_path):
                         "ats_result": st.column_config.TextColumn(
                             "ATS Result",
                             help="Green = cover, red = no cover"
-                        )
+                        ),
+                        "Spread Handle %": st.column_config.NumberColumn(
+                            "Spread Handle",
+                            format="%.0f%%"
+                        ),
+                        "ML Handle %": st.column_config.NumberColumn(
+                            "ML Handle",
+                            format="%.0f%%"
+                        ),
                     }
                 )
 else:
