@@ -1,7 +1,10 @@
 from pathlib import Path
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 import pandas as pd
 import streamlit as st
+from streamlit_autorefresh import st_autorefresh
 
 from dashboard_style import apply_dashboard_style
 
@@ -91,20 +94,19 @@ def analyze_candidates(candidates, history):
                     and first_price is not None
                     and latest_price is not None
                 ):
+
                     movement_cents = (
-                        american_line_value(first_price)
-                        - american_line_value(latest_price)
+                        american_line_value(latest_price)
+                        - american_line_value(first_price)
                     )
 
-                    if latest_prob > first_prob:
-                        if movement_cents >= MIN_MONEYLINE_CENTS:
-                            status = "FAVORABLE MONEYLINE MOVEMENT"
-                        else:
-                            status = "FAVORABLE, BELOW 10-CENT THRESHOLD"
-                    elif latest_prob < first_prob:
+                    if movement_cents >= MIN_MONEYLINE_CENTS:
+                        status = "FAVORABLE MONEYLINE MOVEMENT"
+                    elif movement_cents > 0:
+                        status = "FAVORABLE, BELOW 10-CENT THRESHOLD"
+                    elif movement_cents < 0:
                         status = "UNFAVORABLE MONEYLINE MOVEMENT"
                     else:
-                        movement_cents = 0
                         status = "NO MONEYLINE MOVEMENT"
 
         results.append({
@@ -123,11 +125,28 @@ def analyze_candidates(candidates, history):
     return pd.DataFrame(results)
 
 
+
+def filter_active_games(candidates):
+    now = datetime.now(ZoneInfo("America/Toronto"))
+    cutoff_date = (
+        now.date() if now.hour >= 2
+        else (now - timedelta(days=1)).date()
+    )
+
+    dates = pd.to_datetime(
+        candidates["game_date"], errors="coerce"
+    ).dt.date
+
+    return candidates[dates >= cutoff_date].copy()
+
+
 st.set_page_config(
     page_title="NHL Contrarian Dashboard",
     page_icon="🏒",
     layout="wide",
 )
+
+st_autorefresh(interval=60000, key="nhl_auto_refresh")
 
 apply_dashboard_style()
 
@@ -167,6 +186,7 @@ else:
     elif not required_history.issubset(history.columns):
         st.error("The NHL odds history CSV is missing required columns.")
     else:
+        candidates = filter_active_games(candidates)
         results = analyze_candidates(candidates, history)
 
         if results.empty:
