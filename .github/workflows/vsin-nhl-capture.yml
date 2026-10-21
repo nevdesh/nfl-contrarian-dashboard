@@ -1,0 +1,52 @@
+﻿name: NHL VSiN Capture
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - nhl-hockey
+    paths:
+      - nhl_vsin_capture.py
+      - .github/workflows/vsin-nhl-capture.yml
+
+permissions:
+  contents: read
+
+concurrency:
+  group: vsin-nhl-authenticated-capture
+  cancel-in-progress: false
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout NHL branch
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies and Chromium
+        run: |
+          python -m pip install -r requirements-scraper.txt
+          python -m playwright install --with-deps chromium
+
+      - name: Capture VSiN NHL page
+        env:
+          PLAYWRIGHT_STORAGE_STATE_B64: ${{ secrets.PLAYWRIGHT_STORAGE_STATE_B64 }}
+          DATA_URL: https://data.vsin.com/betting-splits/?source=DK&sport=NHL
+          LOGIN_URL_MARKERS: login,signin,sign-in
+        run: python nhl_vsin_capture.py
+
+      - name: Upload NHL capture diagnostics
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: vsin-nhl-capture-${{ github.run_number }}
+          path: nhl_captures/
+          if-no-files-found: ignore
+          retention-days: 7
