@@ -1,4 +1,4 @@
-﻿import csv
+import csv
 from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -65,7 +65,18 @@ def update_candidates():
         if game_date < cutoff:
             continue
 
-        if spread_handle >= 40 or ml_handle >= 40:
+        # Reject missing or invalid puck-line markets.
+        spread_text = str(row.get("spread", "")).strip()
+
+        try:
+            spread_value = float(spread_text)
+        except (ValueError, TypeError):
+            continue
+
+        if not (
+            0 <= spread_handle < 40
+            and 0 <= ml_handle < 40
+        ):
             continue
 
         candidates.append({

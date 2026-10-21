@@ -73,42 +73,54 @@ def analyze_candidates(candidates, history):
         if not matching.empty:
             matching = matching.sort_values("captured_at")
             matching = matching.drop_duplicates("captured_at")
-            snapshots = len(matching)
 
-            if snapshots >= 2:
-                first_ml = matching.iloc[0]["moneyline"]
-                latest_ml = matching.iloc[-1]["moneyline"]
+            valid_rows = []
 
-                first_prob = implied_probability(first_ml)
-                latest_prob = implied_probability(latest_ml)
+            for _, observation in matching.iterrows():
+                raw_price = str(observation["moneyline"]).strip()
 
                 try:
-                    first_price = int(first_ml)
-                    latest_price = int(latest_ml)
+                    price = int(raw_price)
+                    if price == 0 or abs(price) < 100:
+                        continue
                 except (ValueError, TypeError):
-                    first_price = latest_price = None
+                    continue
 
-                if (
-                    first_prob is not None
-                    and latest_prob is not None
-                    and first_price is not None
-                    and latest_price is not None
-                ):
+                valid_rows.append((observation["captured_at"], price))
 
-                    movement_cents = (
-                        american_line_value(latest_price)
-                        - american_line_value(first_price)
-                    )
+            snapshots = len(valid_rows)
 
-                    if movement_cents >= MIN_MONEYLINE_CENTS:
-                        status = "FAVORABLE MONEYLINE MOVEMENT"
-                    elif movement_cents > 0:
-                        status = "FAVORABLE, BELOW 10-CENT THRESHOLD"
-                    elif movement_cents < 0:
-                        status = "UNFAVORABLE MONEYLINE MOVEMENT"
-                    else:
-                        status = "NO MONEYLINE MOVEMENT"
+            # The newest observation must have valid moneyline odds.
+            # Never confirm movement using an outdated latest price.
+            latest_observation = matching.iloc[-1]
+            latest_raw = str(latest_observation["moneyline"]).strip()
 
+            try:
+                latest_observed_price = int(latest_raw)
+                latest_is_valid = (
+                    latest_observed_price != 0
+                    and abs(latest_observed_price) >= 100
+                )
+            except (ValueError, TypeError):
+                latest_is_valid = False
+
+            if snapshots >= 2 and latest_is_valid:
+                first_ml = str(valid_rows[0][1])
+                latest_ml = str(valid_rows[-1][1])
+
+                movement_cents = (
+                    american_line_value(valid_rows[-1][1])
+                    - american_line_value(valid_rows[0][1])
+                )
+
+                if movement_cents >= MIN_MONEYLINE_CENTS:
+                    status = "FAVORABLE MONEYLINE MOVEMENT"
+                elif movement_cents > 0:
+                    status = "FAVORABLE, BELOW 10-CENT THRESHOLD"
+                elif movement_cents < 0:
+                    status = "UNFAVORABLE MONEYLINE MOVEMENT"
+                else:
+                    status = "NO MONEYLINE MOVEMENT"
         results.append({
             "Game Date": candidate["game_date"],
             "Team": candidate["team"],
@@ -142,7 +154,7 @@ def filter_active_games(candidates):
 
 st.set_page_config(
     page_title="NHL Contrarian Dashboard",
-    page_icon="🏒",
+    page_icon="\U0001F3D2",
     layout="wide",
 )
 
@@ -218,6 +230,6 @@ else:
             st.caption(
                 "Price movement is provisional until its source and bookmaker "
                 "are verified. The displayed movement threshold uses the "
-                "absolute American-odds number change; crossing +/−100 needs "
+                "absolute American-odds number change; crossing +100/-100 needs "
                 "special interpretation."
             )
