@@ -109,8 +109,8 @@ def analyze_candidates(candidates, history):
                 latest_ml = str(valid_rows[-1][1])
 
                 movement_cents = (
-                    american_line_value(valid_rows[-1][1])
-                    - american_line_value(valid_rows[0][1])
+                    american_line_value(valid_rows[0][1])
+                    - american_line_value(valid_rows[-1][1])
                 )
 
                 if movement_cents >= MIN_MONEYLINE_CENTS:
