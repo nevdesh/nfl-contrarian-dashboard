@@ -12,7 +12,7 @@ on:
       - .github/workflows/vsin-nhl-capture.yml
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: vsin-nhl-authenticated-capture
@@ -26,6 +26,8 @@ jobs:
     steps:
       - name: Checkout NHL branch
         uses: actions/checkout@v4
+        with:
+          ref: nhl-hockey
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -44,6 +46,30 @@ jobs:
           LOGIN_URL_MARKERS: login,signin,sign-in
         run: python nhl_vsin_capture.py
 
+      - name: Update NHL moneyline history
+        shell: bash
+        run: |
+          shopt -s nullglob
+          captures=(nhl_captures/*-tables.json)
+          if (( ${#captures[@]} == 0 )); then
+            echo "No NHL capture JSON found"
+            exit 1
+          fi
+          for capture in "${captures[@]}"; do
+            python nhl_odds_history.py "$capture"
+          done
+      - name: Save NHL moneyline history to GitHub
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- data/nhl/odds_history.csv
+          if git diff --cached --quiet; then
+            echo "No new NHL odds history to save"
+          else
+            git commit -m "Update NHL moneyline odds history"
+            git push origin HEAD:nhl-hockey
+          fi
       - name: Upload NHL capture diagnostics
         if: always()
         uses: actions/upload-artifact@v4
@@ -52,3 +78,4 @@ jobs:
           path: nhl_captures/
           if-no-files-found: ignore
           retention-days: 7
+
