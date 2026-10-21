@@ -1,3 +1,4 @@
+import os
 from dashboard_style import apply_dashboard_style
 import re
 from datetime import datetime, timezone
@@ -19,7 +20,7 @@ EV_URL = "https://evanalytics.com/"
 
 st.set_page_config(
     page_title="NCAA College Football Contrarian Dashboard",
-    page_icon="Ã°Å¸ÂË†",
+    page_icon="ÃƒÆ’Ã‚Â°Ãƒâ€¦Ã‚Â¸Ãƒâ€šÃ‚ÂÃƒâ€¹Ã¢â‚¬Â ",
     layout="wide",
 )
 
@@ -679,12 +680,98 @@ st.caption(
 )
 
 
+# NCAA WEEKLY ATS TRACKER
+st.divider()
+st.subheader("NCAA Weekly ATS Results")
 
+ats_path = "data/ncaa_weekly_ats_results.csv"
 
+if os.path.exists(ats_path):
+    ats_history = pd.read_csv(ats_path)
 
+    # Public results: completed games only
+    ats_history = ats_history[
+        ats_history["ats_result"].isin(["YES", "NO", "PUSH"])
+    ].copy()
 
+    if ats_history.empty:
+        st.info("No historical qualifying picks recorded yet.")
+    else:
+        ats_history["week_start"] = (
+            ats_history["week_start"].astype(str)
+        )
 
+        weeks = sorted(
+            ats_history["week_start"].dropna().unique(),
+            reverse=True
+        )
 
+        tab_names = ["All-Time"] + [
+            f"Week of {week}" for week in weeks
+        ]
 
+        tabs = st.tabs(tab_names)
 
+        for index, tab in enumerate(tabs):
+            with tab:
+                if index == 0:
+                    weekly = ats_history.copy()
+                else:
+                    weekly = ats_history[
+                        ats_history["week_start"] == weeks[index - 1]
+                    ].copy()
 
+                wins = (weekly["ats_result"] == "YES").sum()
+                losses = (weekly["ats_result"] == "NO").sum()
+                pushes = (weekly["ats_result"] == "PUSH").sum()
+
+                decisions = wins + losses
+                win_rate = (
+                    wins / decisions * 100
+                    if decisions else 0
+                )
+
+                c1, c2, c3, c4 = st.columns(4)
+                c1.metric("ATS Wins", wins)
+                c2.metric("ATS Losses", losses)
+                c3.metric("Pushes", pushes)
+                c4.metric("ATS Win Rate", f"{win_rate:.1f}%")
+
+                display = weekly.copy()
+
+                display["ats_result"] = (
+                    display["ats_result"]
+                    .fillna("PENDING")
+                    .replace({
+                        "YES": "YES",
+                        "NO": "NO",
+                        "PUSH": "PUSH",
+                        "PENDING": "PENDING",
+                    })
+                )
+
+                def ats_color(value):
+                    if value == "YES":
+                        return "color: #16a34a; font-weight: bold"
+                    if value == "NO":
+                        return "color: #dc2626; font-weight: bold"
+                    return ""
+
+                styled_display = display.style.map(
+                    ats_color,
+                    subset=["ats_result"]
+                )
+
+                st.dataframe(
+                    styled_display,
+                    use_container_width=True,
+                    hide_index=True,
+                    column_config={
+                        "ats_result": st.column_config.TextColumn(
+                            "ATS Result",
+                            help="Green = cover, red = no cover"
+                        )
+                    }
+                )
+else:
+    st.warning("NCAA ATS history file not found.")
