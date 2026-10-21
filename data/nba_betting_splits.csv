@@ -1,15 +1,15 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-10-21,2,2026-10-21 | Milwaukee Bucks | Washington Wizards,Milwaukee Bucks,+4.5,36.0,+145,30.0
-2026-10-21,4,2026-10-21 | Brooklyn Nets | Charlotte Hornets,Charlotte Hornets,-1.5,25.0,-120,19.0
-2026-10-21,7,2026-10-21 | Memphis Grizzlies | Utah Jazz,Memphis Grizzlies,-1.5,23.0,-125,16.0
-2026-10-21,8,2026-10-21 | Dallas Mavericks | Houston Rockets,Houston Rockets,-9.5,31.0,-425,33.0
-2026-10-21,11,2026-10-21 | Los Angeles Clippers | Sacramento Kings,Sacramento Kings,+5.5,19.0,+154,19.0
-2026-10-22,2,2026-10-22 | Denver Nuggets | Oklahoma City Thunder,Denver Nuggets,+7.5,12.0,+250,33.0
-2026-10-23,1,2026-10-23 | Boston Celtics | New York Knicks,Boston Celtics,-2.5,8.0,-135,37.0
-2026-10-23,2,2026-10-23 | Houston Rockets | San Antonio Spurs,Houston Rockets,+7.5,25.0,+235,19.0
+2026-10-21,2,2026-10-21 | Milwaukee Bucks | Washington Wizards,Milwaukee Bucks,+4.5,38.0,+145,39.0
+2026-10-21,4,2026-10-21 | Brooklyn Nets | Charlotte Hornets,Charlotte Hornets,-1.5,26.0,-125,19.0
+2026-10-21,7,2026-10-21 | Memphis Grizzlies | Utah Jazz,Memphis Grizzlies,-1.5,29.0,-125,26.0
+2026-10-21,8,2026-10-21 | Dallas Mavericks | Houston Rockets,Houston Rockets,-9.5,33.0,-425,35.0
+2026-10-21,11,2026-10-21 | Los Angeles Clippers | Sacramento Kings,Sacramento Kings,+5.5,24.0,+154,21.0
+2026-10-22,2,2026-10-22 | Denver Nuggets | Oklahoma City Thunder,Denver Nuggets,+7.5,11.0,+250,33.0
+2026-10-23,1,2026-10-23 | Boston Celtics | New York Knicks,Boston Celtics,-2.5,8.0,-135,36.0
+2026-10-23,2,2026-10-23 | Houston Rockets | San Antonio Spurs,Houston Rockets,+7.5,25.0,+235,7.0
 2026-10-30,1,2026-10-30 | Charlotte Hornets | Washington Wizards,Charlotte Hornets,+1.5,12.0,-105,4.0
 2026-10-30,2,2026-10-30 | Boston Celtics | Chicago Bulls,Chicago Bulls,+11.5,4.0,+425,1.0
-2026-10-30,5,2026-10-30 | Orlando Magic | Toronto Raptors,Orlando Magic,-,0.0,+130,7.0
+2026-10-30,5,2026-10-30 | Orlando Magic | Toronto Raptors,Orlando Magic,-,0.0,+130,9.0
 2026-10-30,7,2026-10-30 | Indiana Pacers | Miami Heat,Indiana Pacers,+3.5,0.0,+124,18.0
-2026-10-30,8,2026-10-30 | Los Angeles Clippers | Minnesota Timberwolves,Los Angeles Clippers,-,0.0,+250,1.0
+2026-10-30,8,2026-10-30 | Los Angeles Clippers | Minnesota Timberwolves,Los Angeles Clippers,-,0.0,+250,4.0
 2026-10-30,10,2026-10-30 | Denver Nuggets | Phoenix Suns,Phoenix Suns,+2.5,0.0,+110,7.0
