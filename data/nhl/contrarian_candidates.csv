@@ -1,2 +1,13 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-10-21,2,2026-10-21 | Florida Panthers | Ottawa Senators,Florida Panthers,-1.5,6.0,-112,28.0
+2026-10-21,1,2026-10-21 | Buffalo Sabres | Philadelphia Flyers,Philadelphia Flyers,+1.5,14.0,+160,25.0
+2026-10-22,3,2026-10-22 | Boston Bruins | Nashville Predators,Nashville Predators,-,0.0,+140,0.0
+2026-10-22,9,2026-10-22 | Calgary Flames | Minnesota Wild,Calgary Flames,-,0.0,+160,0.0
+2026-10-22,8,2026-10-22 | Dallas Stars | Winnipeg Jets,Winnipeg Jets,-,0.0,+170,0.0
+2026-10-22,11,2026-10-22 | Detroit Red Wings | Vancouver Canucks,Vancouver Canucks,-,0.0,+142,0.0
+2026-10-22,2,2026-10-22 | Florida Panthers | Pittsburgh Penguins,Florida Panthers,-,0.0,-,0.0
+2026-10-22,2,2026-10-22 | Florida Panthers | Pittsburgh Penguins,Pittsburgh Penguins,-,0.0,-,0.0
+2026-10-22,6,2026-10-22 | Los Angeles Kings | New York Islanders,Los Angeles Kings,+1.5,0.0,+100,38.0
+2026-10-22,5,2026-10-22 | New York Rangers | Toronto Maple Leafs,Toronto Maple Leafs,+1.5,0.0,-108,20.0
+2026-10-22,4,2026-10-22 | Ottawa Senators | San Jose Sharks,Ottawa Senators,-,0.0,-142,0.0
+2026-10-22,12,2026-10-22 | Seattle Kraken | Utah Mammoth,Seattle Kraken,-,0.0,+136,22.0
+2026-10-22,7,2026-10-22 | St. Louis Blues | Vegas Golden Knights,St. Louis Blues,-,0.0,+114,0.0
