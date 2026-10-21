@@ -1,0 +1,13 @@
+game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
+2026-10-21,2,2026-10-21 | Milwaukee Bucks | Washington Wizards,Milwaukee Bucks,+4.5,9.0,+145,21.0
+2026-10-21,4,2026-10-21 | Brooklyn Nets | Charlotte Hornets,Charlotte Hornets,-1.5,18.0,-118,16.0
+2026-10-21,6,2026-10-21 | Indiana Pacers | New Orleans Pelicans,New Orleans Pelicans,+3.5,32.0,+130,38.0
+2026-10-21,7,2026-10-21 | Memphis Grizzlies | Utah Jazz,Memphis Grizzlies,-1.5,13.0,-125,9.0
+2026-10-21,8,2026-10-21 | Dallas Mavericks | Houston Rockets,Houston Rockets,-9.5,13.0,-440,16.0
+2026-10-21,9,2026-10-21 | Golden State Warriors | Los Angeles Lakers,Golden State Warriors,+6.5,23.0,+190,31.0
+2026-10-21,11,2026-10-21 | Los Angeles Clippers | Sacramento Kings,Sacramento Kings,+4.5,7.0,+154,25.0
+2026-10-23,2,2026-10-23 | Houston Rockets | San Antonio Spurs,Houston Rockets,+7.5,34.0,+235,29.0
+2026-10-30,2,2026-10-30 | Boston Celtics | Chicago Bulls,Chicago Bulls,+11.5,9.0,+425,0.0
+2026-10-30,7,2026-10-30 | Indiana Pacers | Miami Heat,Indiana Pacers,-,0.0,+124,1.0
+2026-10-30,8,2026-10-30 | Los Angeles Clippers | Minnesota Timberwolves,Los Angeles Clippers,-,0.0,+250,1.0
+2026-10-30,10,2026-10-30 | Denver Nuggets | Phoenix Suns,Phoenix Suns,+2.5,0.0,+110,8.0
