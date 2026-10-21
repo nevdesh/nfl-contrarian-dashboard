@@ -129,7 +129,7 @@ def analyze_candidates(candidates, history):
             "Moneyline Handle %": ml_handle,
             "First Moneyline": first_ml,
             "Latest Moneyline": latest_ml,
-            "Snapshots": snapshots,
+
             "Movement (cents)": movement_cents,
             "Status": status,
         })
