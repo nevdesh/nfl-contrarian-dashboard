@@ -1,11 +1,11 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-10-22,1,2026-10-22 | Cleveland Cavaliers | Philadelphia 76ers,Cleveland Cavaliers,+2.5,24.0,+120,28.0
+2026-10-22,1,2026-10-22 | Cleveland Cavaliers | Philadelphia 76ers,Cleveland Cavaliers,+2.5,30.0,+120,27.0
 2026-10-23,2,2026-10-23 | Boston Celtics | New York Knicks,Boston Celtics,-2.5,12.0,-135,18.0
-2026-10-23,3,2026-10-23 | Dallas Mavericks | Indiana Pacers,Dallas Mavericks,+5.5,9.0,+185,10.0
+2026-10-23,3,2026-10-23 | Dallas Mavericks | Indiana Pacers,Dallas Mavericks,+5.5,8.0,+185,10.0
 2026-10-23,4,2026-10-23 | Minnesota Timberwolves | Orlando Magic,Orlando Magic,+1.5,2.0,+105,9.0
-2026-10-23,7,2026-10-23 | Detroit Pistons | Miami Heat,Miami Heat,-1.5,22.0,-130,39.0
-2026-10-23,9,2026-10-23 | New Orleans Pelicans | Utah Jazz,Utah Jazz,-3.5,1.0,-166,32.0
-2026-10-23,10,2026-10-23 | Golden State Warriors | Memphis Grizzlies,Memphis Grizzlies,+3.5,10.0,+130,35.0
+2026-10-23,7,2026-10-23 | Detroit Pistons | Miami Heat,Miami Heat,-1.5,23.0,-125,39.0
+2026-10-23,9,2026-10-23 | New Orleans Pelicans | Utah Jazz,Utah Jazz,-3.5,1.0,-162,32.0
+2026-10-23,10,2026-10-23 | Golden State Warriors | Memphis Grizzlies,Memphis Grizzlies,+3.5,2.0,+130,31.0
 2026-10-23,12,2026-10-23 | Portland Trailblazers | Sacramento Kings,Sacramento Kings,+7.5,0.0,+245,9.0
 2026-10-30,1,2026-10-30 | Charlotte Hornets | Washington Wizards,Charlotte Hornets,+1.5,11.0,-108,7.0
 2026-10-30,2,2026-10-30 | Boston Celtics | Chicago Bulls,Chicago Bulls,+11.5,3.0,+425,5.0
