@@ -1,6 +1,6 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
 2026-10-21,1,2026-10-21 | New Mexico ST Aggies | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+3,35.0,+136,30.0
-2026-10-23,1,2026-10-23 | Connecticut Huskies | Massachusetts Minutemen,Connecticut Huskies,-14.5,12.0,-700,9.0
+2026-10-23,1,2026-10-23 | Connecticut Huskies | Massachusetts Minutemen,Connecticut Huskies,-14.5,11.0,-700,9.0
 2026-10-23,2,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+1.5,30.0,+105,26.0
 2026-10-23,6,2026-10-23 | Delaware ST | NC Central,NC Central,-,0.0,+179,0.0
 2026-10-23,7,2026-10-23 | Pennsylvania | Yale,Pennsylvania,+4.5,0.0,+140,0.0
@@ -25,6 +25,5 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,3,2026-10-31 | Clemson Tigers | Florida ST Seminoles,Florida ST Seminoles,-,0.0,-108,0.0
 2026-10-31,4,2026-10-31 | (6) Indiana Hoosiers | Minnesota Golden Gophers,Minnesota Golden Gophers,-,0.0,"+1,100",0.0
 2026-10-31,5,2026-10-31 | (1) Miami FL Hurricanes | North Carolina Tar Heels,(1) Miami FL Hurricanes,-14.5,0.0,-625,0.0
-2026-10-31,6,2026-10-31 | (24) Northwestern Wildcats | Oregon Ducks,(24) Northwestern Wildcats,-,0.0,-,0.0
-2026-10-31,6,2026-10-31 | (24) Northwestern Wildcats | Oregon Ducks,Oregon Ducks,-,0.0,-,0.0
+2026-10-31,6,2026-10-31 | (24) Northwestern Wildcats | Oregon Ducks,Oregon Ducks,-7.5,0.0,-,0.0
 2026-10-31,8,2026-10-31 | (4) Notre Dame Fighting Irish | Navy Midshipmen,Navy Midshipmen,+28.5,0.0,"+2,200",0.0
