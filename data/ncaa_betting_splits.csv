@@ -1,6 +1,6 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
 2026-10-21,1,2026-10-21 | New Mexico ST Aggies | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+3,35.0,+136,30.0
-2026-10-23,1,2026-10-23 | Connecticut Huskies | Massachusetts Minutemen,Connecticut Huskies,-14.5,11.0,-675,9.0
+2026-10-23,1,2026-10-23 | Connecticut Huskies | Massachusetts Minutemen,Connecticut Huskies,-14.5,11.0,-675,10.0
 2026-10-23,2,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+1.5,30.0,+105,27.0
 2026-10-23,6,2026-10-23 | Delaware ST | NC Central,NC Central,-,0.0,+179,0.0
 2026-10-23,7,2026-10-23 | Pennsylvania | Yale,Pennsylvania,+4.5,0.0,+140,0.0
@@ -13,11 +13,11 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-24,18,2026-10-24 | Boston College Eagles | Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,-4.5,30.0,-205,25.0
 2026-10-24,21,2026-10-24 | Hawaii Rainbow Warriors | N Illinois Huskies,Hawaii Rainbow Warriors,-4.5,36.0,-198,20.0
 2026-10-24,22,2026-10-24 | Navy Midshipmen | North Texas Mean Green,Navy Midshipmen,+2.5,12.0,+110,4.0
-2026-10-24,24,2026-10-24 | (9) UCLA Bruins | Michigan ST Spartans,Michigan ST Spartans,+14.5,8.0,+500,7.0
+2026-10-24,24,2026-10-24 | (9) UCLA Bruins | Michigan ST Spartans,Michigan ST Spartans,+14.5,8.0,+500,10.0
 2026-10-24,28,2026-10-24 | Louisiana Tech Bulldogs | Old Dominion Monarchs,Old Dominion Monarchs,+13.5,0.0,+390,9.0
 2026-10-24,34,2026-10-24 | Clemson Tigers | Virginia Tech Hokies,Virginia Tech Hokies,+2.5,21.0,+120,18.0
 2026-10-24,36,2026-10-24 | (25) Arizona Wildcats | Iowa ST Cyclones,Iowa ST Cyclones,+10.5,31.0,+260,1.0
-2026-10-24,38,2026-10-24 | North Carolina Tar Heels | Syracuse Orange,Syracuse Orange,+8.5,33.0,+275,25.0
+2026-10-24,38,2026-10-24 | North Carolina Tar Heels | Syracuse Orange,Syracuse Orange,+8.5,32.0,+275,25.0
 2026-10-24,39,2026-10-24 | (19) Texas Longhorns | (7) Ole Miss Rebels,(19) Texas Longhorns,-3.5,21.0,-162,32.0
 2026-10-24,41,2026-10-24 | Texas ST Bobcats | Utah ST Aggies,Utah ST Aggies,+13.5,0.0,+390,12.0
 2026-10-31,1,2026-10-31 | (2) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,-,0.0,+575,0.0
