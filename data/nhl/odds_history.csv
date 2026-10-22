@@ -527,3 +527,31 @@ captured_at,game_date,game_number,matchup_id,team,spread,moneyline,spread_handle
 2026-10-22T02:10:16+00:00,2026-10-22,11,2026-10-22 | Detroit Red Wings | Vancouver Canucks,Vancouver Canucks,+1.5,+142,25.0,23.0,vsin-20261022T021016Z-tables.json
 2026-10-22T02:10:16+00:00,2026-10-22,12,2026-10-22 | Seattle Kraken | Utah Mammoth,Utah Mammoth,-1.5,-162,48.0,99.0,vsin-20261022T021016Z-tables.json
 2026-10-22T02:10:16+00:00,2026-10-22,12,2026-10-22 | Seattle Kraken | Utah Mammoth,Seattle Kraken,+1.5,+136,52.0,1.0,vsin-20261022T021016Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-21,1,2026-10-21 | Buffalo Sabres | Philadelphia Flyers,Philadelphia Flyers,+1.5,+180,10.0,20.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-21,1,2026-10-21 | Buffalo Sabres | Philadelphia Flyers,Buffalo Sabres,-1.5,-218,90.0,80.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-21,2,2026-10-21 | Florida Panthers | Ottawa Senators,Florida Panthers,+1.5,-110,14.0,66.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-21,2,2026-10-21 | Florida Panthers | Ottawa Senators,Ottawa Senators,-1.5,-110,86.0,34.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,1,2026-10-22 | Anaheim Ducks | New Jersey Devils,Anaheim Ducks,+1.5,+164,2.0,9.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,1,2026-10-22 | Anaheim Ducks | New Jersey Devils,New Jersey Devils,-1.5,-198,98.0,91.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,2,2026-10-22 | Florida Panthers | Pittsburgh Penguins,Florida Panthers,+1.5,-105,93.0,89.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,2,2026-10-22 | Florida Panthers | Pittsburgh Penguins,Pittsburgh Penguins,-1.5,-115,7.0,11.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,3,2026-10-22 | Boston Bruins | Nashville Predators,Nashville Predators,+1.5,+130,2.0,35.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,3,2026-10-22 | Boston Bruins | Nashville Predators,Boston Bruins,-1.5,-155,98.0,65.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,4,2026-10-22 | Ottawa Senators | San Jose Sharks,San Jose Sharks,+1.5,+114,35.0,93.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,4,2026-10-22 | Ottawa Senators | San Jose Sharks,Ottawa Senators,-1.5,-135,65.0,7.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,5,2026-10-22 | New York Rangers | Toronto Maple Leafs,New York Rangers,-1.5,-112,90.0,40.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,5,2026-10-22 | New York Rangers | Toronto Maple Leafs,Toronto Maple Leafs,+1.5,-108,10.0,60.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,6,2026-10-22 | Los Angeles Kings | New York Islanders,Los Angeles Kings,+1.5,+100,4.0,10.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,6,2026-10-22 | Los Angeles Kings | New York Islanders,New York Islanders,-1.5,-120,96.0,90.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,7,2026-10-22 | St. Louis Blues | Vegas Golden Knights,Vegas Golden Knights,-1.5,-120,86.0,81.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,7,2026-10-22 | St. Louis Blues | Vegas Golden Knights,St. Louis Blues,+1.5,+100,14.0,19.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,8,2026-10-22 | Dallas Stars | Winnipeg Jets,Winnipeg Jets,+1.5,+170,0.0,13.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,8,2026-10-22 | Dallas Stars | Winnipeg Jets,Dallas Stars,-1.5,-205,100.0,87.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,9,2026-10-22 | Calgary Flames | Minnesota Wild,Minnesota Wild,-1.5,-192,98.0,99.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,9,2026-10-22 | Calgary Flames | Minnesota Wild,Calgary Flames,+1.5,+160,2.0,1.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,10,2026-10-22 | Carolina Hurricanes | Edmonton Oilers,Carolina Hurricanes,-1.5,-118,99.0,29.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,10,2026-10-22 | Carolina Hurricanes | Edmonton Oilers,Edmonton Oilers,+1.5,-102,1.0,71.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,11,2026-10-22 | Detroit Red Wings | Vancouver Canucks,Detroit Red Wings,-1.5,-170,52.0,77.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,11,2026-10-22 | Detroit Red Wings | Vancouver Canucks,Vancouver Canucks,+1.5,+142,48.0,23.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,12,2026-10-22 | Seattle Kraken | Utah Mammoth,Utah Mammoth,-1.5,-162,36.0,96.0,vsin-20261022T030619Z-tables.json
+2026-10-22T03:06:19+00:00,2026-10-22,12,2026-10-22 | Seattle Kraken | Utah Mammoth,Seattle Kraken,+1.5,+136,64.0,4.0,vsin-20261022T030619Z-tables.json
