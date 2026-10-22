@@ -1,21 +1,21 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
 2026-10-21,1,2026-10-21 | New Mexico ST Aggies | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+3,35.0,+136,30.0
 2026-10-23,1,2026-10-23 | Connecticut Huskies | Massachusetts Minutemen,Connecticut Huskies,-14.5,21.0,-700,11.0
-2026-10-23,2,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+1.5,21.0,+105,23.0
+2026-10-23,2,2026-10-23 | Duke Blue Devils | Virginia Cavaliers,Duke Blue Devils,+2.5,30.0,+105,23.0
 2026-10-23,6,2026-10-23 | Pennsylvania | Yale,Pennsylvania,+4.5,0.0,+140,0.0
 2026-10-24,1,2026-10-24 | (18) LSU Tigers | Auburn Tigers,Auburn Tigers,+7.5,14.0,+240,36.0
 2026-10-24,2,2026-10-24 | (8) Texas Tech Red Raiders | Cincinnati Bearcats,Cincinnati Bearcats,+10.5,37.0,+340,36.0
-2026-10-24,5,2026-10-24 | (6) Indiana Hoosiers | Michigan Wolverines,Michigan Wolverines,+7,33.0,+225,21.0
+2026-10-24,5,2026-10-24 | (6) Indiana Hoosiers | Michigan Wolverines,Michigan Wolverines,+7,34.0,+225,21.0
 2026-10-24,8,2026-10-24 | TCU horned Frogs | West Virginia Mountaineers,West Virginia Mountaineers,+10,25.0,+280,31.0
 2026-10-24,9,2026-10-24 | Toledo Rockets | W Michigan Broncos,W Michigan Broncos,+3,34.0,+136,31.0
 2026-10-24,14,2026-10-24 | (13) Alabama Crimson Tide | Texas A&M Aggies,Texas A&M Aggies,+14,35.0,+455,11.0
 2026-10-24,15,2026-10-24 | Ball ST Cardinals | Sacramento ST,Sacramento ST,+14.5,1.0,+440,0.0
-2026-10-24,21,2026-10-24 | Hawaii Rainbow Warriors | N Illinois Huskies,Hawaii Rainbow Warriors,-4.5,37.0,-198,22.0
+2026-10-24,21,2026-10-24 | Hawaii Rainbow Warriors | N Illinois Huskies,Hawaii Rainbow Warriors,-4.5,36.0,-198,20.0
 2026-10-24,22,2026-10-24 | Navy Midshipmen | North Texas Mean Green,Navy Midshipmen,+2.5,13.0,+110,3.0
 2026-10-24,23,2026-10-24 | (11) Tennessee Volunteers | South Carolina Gamecocks,(11) Tennessee Volunteers,+2.5,22.0,+114,37.0
-2026-10-24,24,2026-10-24 | (9) UCLA Bruins | Michigan ST Spartans,Michigan ST Spartans,+14,5.0,+455,7.0
+2026-10-24,24,2026-10-24 | (9) UCLA Bruins | Michigan ST Spartans,Michigan ST Spartans,+14.5,5.0,+500,7.0
 2026-10-24,26,2026-10-24 | E Michigan Eagles | Ohio Bobcats,E Michigan Eagles,+12.5,18.0,+360,23.0
-2026-10-24,28,2026-10-24 | Louisiana Tech Bulldogs | Old Dominion Monarchs,Old Dominion Monarchs,+12.5,0.0,+360,9.0
+2026-10-24,28,2026-10-24 | Louisiana Tech Bulldogs | Old Dominion Monarchs,Old Dominion Monarchs,+13.5,0.0,+390,9.0
 2026-10-24,30,2026-10-24 | Louisiana Ragin Cajuns | Southern Miss Golden Eagles,Southern Miss Golden Eagles,+10,3.0,+310,4.0
 2026-10-24,32,2026-10-24 | Colorado ST Rams | San Diego ST Aztecs,Colorado ST Rams,+1.5,12.0,-105,11.0
 2026-10-24,34,2026-10-24 | Clemson Tigers | Virginia Tech Hokies,Virginia Tech Hokies,+2.5,22.0,+120,16.0
@@ -27,5 +27,5 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,3,2026-10-31 | (1) Miami FL Hurricanes | North Carolina Tar Heels,(1) Miami FL Hurricanes,-14.5,0.0,-625,0.0
 2026-10-31,4,2026-10-31 | (24) Northwestern Wildcats | Oregon Ducks,(24) Northwestern Wildcats,-,0.0,-,0.0
 2026-10-31,4,2026-10-31 | (24) Northwestern Wildcats | Oregon Ducks,Oregon Ducks,-,0.0,-,0.0
-2026-10-31,5,2026-10-31 | (16) USC Trojans | (3) Ohio ST Buckeyes,(16) USC Trojans,+7,25.0,+215,0.0
+2026-10-31,5,2026-10-31 | (16) USC Trojans | (3) Ohio ST Buckeyes,(16) USC Trojans,+7,25.0,+205,0.0
 2026-10-31,6,2026-10-31 | (4) Notre Dame Fighting Irish | Navy Midshipmen,Navy Midshipmen,-,0.0,"+2,200",0.0
