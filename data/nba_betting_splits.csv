@@ -1,12 +1,11 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-10-23,2,2026-10-23 | Boston Celtics | New York Knicks,Boston Celtics,-2.5,32.0,-148,14.0
-2026-10-23,4,2026-10-23 | Minnesota Timberwolves | Orlando Magic,Orlando Magic,+1.5,8.0,+110,15.0
-2026-10-23,5,2026-10-23 | Toronto Raptors | Washington Wizards,Washington Wizards,+6.5,31.0,+215,37.0
-2026-10-23,6,2026-10-23 | Atlanta Hawks | Charlotte Hornets,Charlotte Hornets,+2.5,17.0,+120,14.0
-2026-10-23,7,2026-10-23 | Detroit Pistons | Miami Heat,Miami Heat,+1.5,10.0,-105,34.0
-2026-10-23,8,2026-10-23 | Houston Rockets | San Antonio Spurs,Houston Rockets,+5.5,36.0,+170,15.0
-2026-10-23,11,2026-10-23 | Los Angeles Clippers | Los Angeles Lakers,Los Angeles Clippers,+9.5,8.0,+300,12.0
-2026-10-23,12,2026-10-23 | Portland Trailblazers | Sacramento Kings,Sacramento Kings,+8.5,4.0,+280,24.0
+2026-10-23,2,2026-10-23 | Boston Celtics | New York Knicks,Boston Celtics,-2.5,35.0,-148,13.0
+2026-10-23,4,2026-10-23 | Minnesota Timberwolves | Orlando Magic,Orlando Magic,+1.5,8.0,+110,16.0
+2026-10-23,5,2026-10-23 | Toronto Raptors | Washington Wizards,Washington Wizards,+8.5,30.0,+240,38.0
+2026-10-23,6,2026-10-23 | Atlanta Hawks | Charlotte Hornets,Charlotte Hornets,+3.5,33.0,+120,13.0
+2026-10-23,7,2026-10-23 | Detroit Pistons | Miami Heat,Miami Heat,+1.5,11.0,-105,34.0
+2026-10-23,11,2026-10-23 | Los Angeles Clippers | Los Angeles Lakers,Los Angeles Clippers,+9.5,9.0,+300,13.0
+2026-10-23,12,2026-10-23 | Portland Trailblazers | Sacramento Kings,Sacramento Kings,+8.5,6.0,+280,23.0
 2026-10-30,1,2026-10-30 | Charlotte Hornets | Washington Wizards,Charlotte Hornets,+1.5,11.0,-105,7.0
 2026-10-30,2,2026-10-30 | Boston Celtics | Chicago Bulls,Chicago Bulls,+11.5,0.0,+425,5.0
 2026-10-30,5,2026-10-30 | Orlando Magic | Toronto Raptors,Orlando Magic,+3.5,0.0,+130,15.0
