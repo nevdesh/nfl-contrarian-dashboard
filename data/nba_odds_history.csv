@@ -2441,3 +2441,51 @@ captured_at,game_date,game_number,matchup_id,team,spread,moneyline,spread_handle
 2026-10-23T08:58:17+00:00,"NBA - FRIDAY, OCT 30",9,2026-10-30 | Golden State Warriors | Los Angeles Lakers,Golden State Warriors,+1.5,-105,12.0,2.0,vsin-20261023T085817Z-tables.json
 2026-10-23T08:58:17+00:00,"NBA - FRIDAY, OCT 30",10,2026-10-30 | Denver Nuggets | Phoenix Suns,Denver Nuggets,-2.5,-130,100.0,100.0,vsin-20261023T085817Z-tables.json
 2026-10-23T08:58:17+00:00,"NBA - FRIDAY, OCT 30",10,2026-10-30 | Denver Nuggets | Phoenix Suns,Phoenix Suns,+2.5,+110,0.0,0.0,vsin-20261023T085817Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - THURSDAY, OCT 22",1,2026-10-22 | Cleveland Cavaliers | Philadelphia 76ers,Cleveland Cavaliers,+2.5,+114,49.0,27.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - THURSDAY, OCT 22",1,2026-10-22 | Cleveland Cavaliers | Philadelphia 76ers,Philadelphia 76ers,-2.5,-135,51.0,73.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - THURSDAY, OCT 22",2,2026-10-22 | Denver Nuggets | Oklahoma City Thunder,Denver Nuggets,+7.5,+270,48.0,50.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - THURSDAY, OCT 22",2,2026-10-22 | Denver Nuggets | Oklahoma City Thunder,Oklahoma City Thunder,-7.5,-340,52.0,50.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",1,2026-10-23 | Chicago Bulls | Milwaukee Bucks,Chicago Bulls,+1.5,-105,31.0,45.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",1,2026-10-23 | Chicago Bulls | Milwaukee Bucks,Milwaukee Bucks,-1.5,-115,69.0,55.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",2,2026-10-23 | Boston Celtics | New York Knicks,New York Knicks,+2.5,+120,63.0,87.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",2,2026-10-23 | Boston Celtics | New York Knicks,Boston Celtics,-2.5,-142,37.0,13.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",3,2026-10-23 | Dallas Mavericks | Indiana Pacers,Dallas Mavericks,+6.5,+190,39.0,22.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",3,2026-10-23 | Dallas Mavericks | Indiana Pacers,Indiana Pacers,-6.5,-230,61.0,78.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",4,2026-10-23 | Minnesota Timberwolves | Orlando Magic,Minnesota Timberwolves,-1.5,-125,92.0,85.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",4,2026-10-23 | Minnesota Timberwolves | Orlando Magic,Orlando Magic,+1.5,+105,8.0,15.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",5,2026-10-23 | Toronto Raptors | Washington Wizards,Toronto Raptors,-6.5,-250,64.0,65.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",5,2026-10-23 | Toronto Raptors | Washington Wizards,Washington Wizards,+6.5,+205,36.0,35.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",6,2026-10-23 | Atlanta Hawks | Charlotte Hornets,Atlanta Hawks,-2.5,-142,77.0,85.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",6,2026-10-23 | Atlanta Hawks | Charlotte Hornets,Charlotte Hornets,+2.5,+120,23.0,15.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",7,2026-10-23 | Detroit Pistons | Miami Heat,Detroit Pistons,-1.5,-110,89.0,64.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",7,2026-10-23 | Detroit Pistons | Miami Heat,Miami Heat,+1.5,-110,11.0,36.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",8,2026-10-23 | Houston Rockets | San Antonio Spurs,Houston Rockets,+5.5,+170,36.0,13.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",8,2026-10-23 | Houston Rockets | San Antonio Spurs,San Antonio Spurs,-5.5,-205,64.0,87.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",9,2026-10-23 | New Orleans Pelicans | Utah Jazz,New Orleans Pelicans,+2.5,+110,59.0,48.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",9,2026-10-23 | New Orleans Pelicans | Utah Jazz,Utah Jazz,-2.5,-130,41.0,52.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",10,2026-10-23 | Golden State Warriors | Memphis Grizzlies,Memphis Grizzlies,+2.5,+124,70.0,29.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",10,2026-10-23 | Golden State Warriors | Memphis Grizzlies,Golden State Warriors,-2.5,-148,30.0,71.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",11,2026-10-23 | Los Angeles Clippers | Los Angeles Lakers,Los Angeles Clippers,+8.5,+300,7.0,14.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",11,2026-10-23 | Los Angeles Clippers | Los Angeles Lakers,Los Angeles Lakers,-8.5,-380,93.0,86.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",12,2026-10-23 | Portland Trailblazers | Sacramento Kings,Portland Trailblazers,-8.5,-325,97.0,94.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 23",12,2026-10-23 | Portland Trailblazers | Sacramento Kings,Sacramento Kings,+8.5,+260,3.0,6.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",1,2026-10-30 | Charlotte Hornets | Washington Wizards,Charlotte Hornets,+1.5,-105,11.0,7.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",1,2026-10-30 | Charlotte Hornets | Washington Wizards,Washington Wizards,-1.5,-115,89.0,93.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",2,2026-10-30 | Boston Celtics | Chicago Bulls,Chicago Bulls,+11.5,+425,0.0,5.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",2,2026-10-30 | Boston Celtics | Chicago Bulls,Boston Celtics,-11.5,-575,100.0,95.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",3,2026-10-30 | Brooklyn Nets | Detroit Pistons,Detroit Pistons,-7.5,-310,60.0,49.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",3,2026-10-30 | Brooklyn Nets | Detroit Pistons,Brooklyn Nets,+7.5,+250,40.0,51.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",4,2026-10-30 | New York Knicks | Philadelphia 76ers,New York Knicks,+2.5,+105,56.0,58.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",4,2026-10-30 | New York Knicks | Philadelphia 76ers,Philadelphia 76ers,-2.5,-125,44.0,42.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",5,2026-10-30 | Orlando Magic | Toronto Raptors,Orlando Magic,+3.5,+130,0.0,15.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",5,2026-10-30 | Orlando Magic | Toronto Raptors,Toronto Raptors,-3.5,-155,100.0,85.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",6,2026-10-30 | Dallas Mavericks | Houston Rockets,Houston Rockets,-4.5,-166,1.0,70.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",6,2026-10-30 | Dallas Mavericks | Houston Rockets,Dallas Mavericks,+4.5,+140,99.0,30.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",7,2026-10-30 | Indiana Pacers | Miami Heat,Indiana Pacers,+3.5,+124,0.0,18.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",7,2026-10-30 | Indiana Pacers | Miami Heat,Miami Heat,-3.5,-148,100.0,82.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",8,2026-10-30 | Los Angeles Clippers | Minnesota Timberwolves,Los Angeles Clippers,+9.5,+270,0.0,1.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",8,2026-10-30 | Los Angeles Clippers | Minnesota Timberwolves,Minnesota Timberwolves,-9.5,-340,100.0,99.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",9,2026-10-30 | Golden State Warriors | Los Angeles Lakers,Los Angeles Lakers,-1.5,-115,88.0,98.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",9,2026-10-30 | Golden State Warriors | Los Angeles Lakers,Golden State Warriors,+1.5,-105,12.0,2.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",10,2026-10-30 | Denver Nuggets | Phoenix Suns,Denver Nuggets,-2.5,-130,100.0,100.0,vsin-20261023T095651Z-tables.json
+2026-10-23T09:56:51+00:00,"NBA - FRIDAY, OCT 30",10,2026-10-30 | Denver Nuggets | Phoenix Suns,Phoenix Suns,+2.5,+110,0.0,0.0,vsin-20261023T095651Z-tables.json
