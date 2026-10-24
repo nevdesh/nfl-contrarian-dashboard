@@ -20607,3 +20607,59 @@ captured_at,game_date,game_number,matchup_id,team,spread,moneyline,spread_handle
 2026-10-24T22:58:58+00:00,"NFL - MONDAY, NOV 2",1,2026-11-02 | Chicago Bears | Seattle Seahawks,Seattle Seahawks,-3,-162,14.0,1.0,vsin-20261024T225858Z-tables.json
 2026-10-24T22:58:58+00:00,"NFL - THURSDAY, NOV 5",1,2026-11-05 | Baltimore Ravens | Jacksonville Jaguars,Jacksonville Jaguars,-,+170,0.0,99.0,vsin-20261024T225858Z-tables.json
 2026-10-24T22:58:58+00:00,"NFL - THURSDAY, NOV 5",1,2026-11-05 | Baltimore Ravens | Jacksonville Jaguars,Baltimore Ravens,-,-205,0.0,1.0,vsin-20261024T225858Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",1,2026-10-25 | New Orleans Saints | Pittsburgh Steelers,Pittsburgh Steelers,-3,-170,74.0,62.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",1,2026-10-25 | New Orleans Saints | Pittsburgh Steelers,New Orleans Saints,+3,+142,26.0,38.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",2,2026-10-25 | Miami Dolphins | New York Jets,Miami Dolphins,+4.5,+180,33.0,15.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",2,2026-10-25 | Miami Dolphins | New York Jets,New York Jets,-4.5,-218,67.0,85.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",3,2026-10-25 | Baltimore Ravens | Cincinnati Bengals,Cincinnati Bengals,-3,-155,91.0,82.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",3,2026-10-25 | Baltimore Ravens | Cincinnati Bengals,Baltimore Ravens,+3,+130,9.0,18.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",4,2026-10-25 | Houston Texans | New York Giants,New York Giants,+10,+390,83.0,51.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",4,2026-10-25 | Houston Texans | New York Giants,Houston Texans,-10,-520,17.0,49.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",5,2026-10-25 | Cleveland Browns | Tennessee Titans,Cleveland Browns,-2.5,-130,57.0,83.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",5,2026-10-25 | Cleveland Browns | Tennessee Titans,Tennessee Titans,+2.5,+110,43.0,17.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",6,2026-10-25 | Indianapolis Colts | Minnesota Vikings,Indianapolis Colts,+6.5,+250,48.0,30.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",6,2026-10-25 | Indianapolis Colts | Minnesota Vikings,Minnesota Vikings,-6.5,-310,52.0,70.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",7,2026-10-25 | Atlanta Falcons | San Francisco 49ers,San Francisco 49ers,-2.5,-148,58.0,85.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",7,2026-10-25 | Atlanta Falcons | San Francisco 49ers,Atlanta Falcons,+2.5,+124,42.0,15.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",8,2026-10-25 | Carolina Panthers | Tampa Bay Buccaneers,Tampa Bay Buccaneers,+3,+130,82.0,59.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",8,2026-10-25 | Carolina Panthers | Tampa Bay Buccaneers,Carolina Panthers,-3,-155,18.0,41.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",9,2026-10-25 | Arizona Cardinals | Denver Broncos,Denver Broncos,-4.5,-225,53.0,79.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",9,2026-10-25 | Arizona Cardinals | Denver Broncos,Arizona Cardinals,+4.5,+185,47.0,21.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",10,2026-10-25 | Las Vegas Raiders | Los Angeles Rams,Los Angeles Rams,-3,-175,52.0,63.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",10,2026-10-25 | Las Vegas Raiders | Los Angeles Rams,Las Vegas Raiders,+3,+145,48.0,37.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",11,2026-10-25 | Detroit Lions | Green Bay Packers,Green Bay Packers,+3,+150,10.0,31.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",11,2026-10-25 | Detroit Lions | Green Bay Packers,Detroit Lions,-3,-180,90.0,69.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",12,2026-10-25 | Kansas City Chiefs | Seattle Seahawks,Kansas City Chiefs,+3,+124,64.0,63.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, OCT 25",12,2026-10-25 | Kansas City Chiefs | Seattle Seahawks,Seattle Seahawks,-3,-148,36.0,37.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - MONDAY, OCT 26",1,2026-10-26 | Dallas Cowboys | Philadelphia Eagles,Dallas Cowboys,-4.5,-225,32.0,76.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - MONDAY, OCT 26",1,2026-10-26 | Dallas Cowboys | Philadelphia Eagles,Philadelphia Eagles,+4.5,+185,68.0,24.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - THURSDAY, OCT 29",1,2026-10-29 | Carolina Panthers | Green Bay Packers,Carolina Panthers,+3,+136,31.0,73.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - THURSDAY, OCT 29",1,2026-10-29 | Carolina Panthers | Green Bay Packers,Green Bay Packers,-3,-162,69.0,27.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",1,2026-11-01 | Baltimore Ravens | Buffalo Bills,Baltimore Ravens,+3,+154,4.0,30.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",1,2026-11-01 | Baltimore Ravens | Buffalo Bills,Buffalo Bills,-3,-185,96.0,70.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",2,2026-11-01 | Las Vegas Raiders | New York Jets,Las Vegas Raiders,-1.5,-108,50.0,80.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",2,2026-11-01 | Las Vegas Raiders | New York Jets,New York Jets,+1.5,-112,50.0,20.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",3,2026-11-01 | Cincinnati Bengals | Tennessee Titans,Tennessee Titans,+10,+425,85.0,8.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",3,2026-11-01 | Cincinnati Bengals | Tennessee Titans,Cincinnati Bengals,-10,-575,15.0,92.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",4,2026-11-01 | Cleveland Browns | Pittsburgh Steelers,Cleveland Browns,+4.5,+170,72.0,39.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",4,2026-11-01 | Cleveland Browns | Pittsburgh Steelers,Pittsburgh Steelers,-4.5,-205,28.0,61.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",5,2026-11-01 | Indianapolis Colts | Jacksonville Jaguars,Indianapolis Colts,+7.5,+285,63.0,21.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",5,2026-11-01 | Indianapolis Colts | Jacksonville Jaguars,Jacksonville Jaguars,-7.5,-360,37.0,79.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",6,2026-11-01 | Arizona Cardinals | Dallas Cowboys,Arizona Cardinals,+6.5,+245,93.0,10.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",6,2026-11-01 | Arizona Cardinals | Dallas Cowboys,Dallas Cowboys,-6.5,-305,7.0,90.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",7,2026-11-01 | Detroit Lions | Minnesota Vikings,Minnesota Vikings,+2.5,+130,0.0,91.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",7,2026-11-01 | Detroit Lions | Minnesota Vikings,Detroit Lions,-2.5,-155,100.0,9.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",8,2026-11-01 | Atlanta Falcons | Tampa Bay Buccaneers,Atlanta Falcons,+1.5,-102,100.0,65.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",8,2026-11-01 | Atlanta Falcons | Tampa Bay Buccaneers,Tampa Bay Buccaneers,-1.5,-118,0.0,35.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",9,2026-11-01 | Los Angeles Chargers | Los Angeles Rams,Los Angeles Chargers,+7,+245,0.0,3.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",9,2026-11-01 | Los Angeles Chargers | Los Angeles Rams,Los Angeles Rams,-7,-305,100.0,97.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",10,2026-11-01 | Miami Dolphins | New England Patriots,New England Patriots,-8.5,-470,5.0,15.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",10,2026-11-01 | Miami Dolphins | New England Patriots,Miami Dolphins,+8.5,+360,95.0,85.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",11,2026-11-01 | Denver Broncos | Kansas City Chiefs,Kansas City Chiefs,-1.5,-125,18.0,86.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",11,2026-11-01 | Denver Broncos | Kansas City Chiefs,Denver Broncos,+1.5,+105,82.0,14.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",12,2026-11-01 | Philadelphia Eagles | Wash Commanders,Philadelphia Eagles,+3.5,+150,7.0,74.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - SUNDAY, NOV 1",12,2026-11-01 | Philadelphia Eagles | Wash Commanders,Wash Commanders,-3.5,-180,93.0,26.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - MONDAY, NOV 2",1,2026-11-02 | Chicago Bears | Seattle Seahawks,Chicago Bears,+3,+136,86.0,99.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - MONDAY, NOV 2",1,2026-11-02 | Chicago Bears | Seattle Seahawks,Seattle Seahawks,-3,-162,14.0,1.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - THURSDAY, NOV 5",1,2026-11-05 | Baltimore Ravens | Jacksonville Jaguars,Jacksonville Jaguars,-,+170,0.0,99.0,vsin-20261024T232745Z-tables.json
+2026-10-24T23:27:45+00:00,"NFL - THURSDAY, NOV 5",1,2026-11-05 | Baltimore Ravens | Jacksonville Jaguars,Baltimore Ravens,-,-205,0.0,1.0,vsin-20261024T232745Z-tables.json
