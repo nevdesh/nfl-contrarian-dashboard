@@ -1,23 +1,23 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
 2026-10-23,4,2026-10-23 | Air Force Falcons | Wyoming Cowboys,Wyoming Cowboys,+7,39.0,+210,26.0
-2026-10-24,1,2026-10-24 | (18) LSU Tigers | Auburn Tigers,Auburn Tigers,+7,37.0,+230,28.0
-2026-10-24,3,2026-10-24 | FL Atlantic Owls | Rice Owls,FL Atlantic Owls,-8.5,16.0,-340,31.0
-2026-10-24,6,2026-10-24 | (24) Northwestern Wildcats | Rutgers Scarlet Knights,Rutgers Scarlet Knights,+15.5,34.0,+525,9.0
-2026-10-24,9,2026-10-24 | Toledo Rockets | W Michigan Broncos,W Michigan Broncos,+3,34.0,+124,26.0
-2026-10-24,14,2026-10-24 | (13) Alabama Crimson Tide | Texas A&M Aggies,Texas A&M Aggies,+13.5,17.0,+410,6.0
-2026-10-24,15,2026-10-24 | Ball ST Cardinals | Sacramento ST,Sacramento ST,+14.5,37.0,+440,3.0
-2026-10-24,21,2026-10-24 | Hawaii Rainbow Warriors | N Illinois Huskies,Hawaii Rainbow Warriors,-4,31.0,-198,7.0
-2026-10-24,22,2026-10-24 | Navy Midshipmen | North Texas Mean Green,Navy Midshipmen,+3,20.0,+130,21.0
-2026-10-24,27,2026-10-24 | LA Monroe Warhawks | Troy Trojans,LA Monroe Warhawks,+11.5,34.0,+440,18.0
-2026-10-24,28,2026-10-24 | Louisiana Tech Bulldogs | Old Dominion Monarchs,Old Dominion Monarchs,+13.5,1.0,+400,10.0
-2026-10-24,31,2026-10-24 | (21) Boise ST Broncos | Washington ST Cougars,Washington ST Cougars,+14.5,23.0,+455,9.0
-2026-10-24,32,2026-10-24 | Colorado ST Rams | San Diego ST Aztecs,San Diego ST Aztecs,-1.5,30.0,-115,13.0
-2026-10-24,34,2026-10-24 | Clemson Tigers | Virginia Tech Hokies,Virginia Tech Hokies,+2.5,37.0,+120,30.0
-2026-10-24,36,2026-10-24 | (25) Arizona Wildcats | Iowa ST Cyclones,Iowa ST Cyclones,+10.5,29.0,+275,7.0
-2026-10-24,41,2026-10-24 | Texas ST Bobcats | Utah ST Aggies,Utah ST Aggies,+13.5,4.0,+400,12.0
+2026-10-24,1,2026-10-24 | (18) LSU Tigers | Auburn Tigers,Auburn Tigers,+7,36.0,+230,26.0
+2026-10-24,3,2026-10-24 | FL Atlantic Owls | Rice Owls,FL Atlantic Owls,-8.5,17.0,-340,31.0
+2026-10-24,6,2026-10-24 | (24) Northwestern Wildcats | Rutgers Scarlet Knights,Rutgers Scarlet Knights,+15.5,35.0,+525,9.0
+2026-10-24,9,2026-10-24 | Toledo Rockets | W Michigan Broncos,W Michigan Broncos,+3,35.0,+124,26.0
+2026-10-24,14,2026-10-24 | (13) Alabama Crimson Tide | Texas A&M Aggies,Texas A&M Aggies,+13.5,16.0,+410,5.0
+2026-10-24,15,2026-10-24 | Ball ST Cardinals | Sacramento ST,Sacramento ST,+14.5,35.0,+440,3.0
+2026-10-24,21,2026-10-24 | Hawaii Rainbow Warriors | N Illinois Huskies,Hawaii Rainbow Warriors,-4,30.0,-198,7.0
+2026-10-24,22,2026-10-24 | Navy Midshipmen | North Texas Mean Green,Navy Midshipmen,+3,19.0,+130,21.0
+2026-10-24,27,2026-10-24 | LA Monroe Warhawks | Troy Trojans,LA Monroe Warhawks,+11.5,34.0,+425,18.0
+2026-10-24,28,2026-10-24 | Louisiana Tech Bulldogs | Old Dominion Monarchs,Old Dominion Monarchs,+13.5,4.0,+400,10.0
+2026-10-24,31,2026-10-24 | (21) Boise ST Broncos | Washington ST Cougars,Washington ST Cougars,+14.5,25.0,+455,13.0
+2026-10-24,32,2026-10-24 | Colorado ST Rams | San Diego ST Aztecs,San Diego ST Aztecs,-1.5,33.0,-115,13.0
+2026-10-24,34,2026-10-24 | Clemson Tigers | Virginia Tech Hokies,Virginia Tech Hokies,+2.5,36.0,+120,31.0
+2026-10-24,36,2026-10-24 | (25) Arizona Wildcats | Iowa ST Cyclones,Iowa ST Cyclones,+10.5,28.0,+275,7.0
+2026-10-24,41,2026-10-24 | Texas ST Bobcats | Utah ST Aggies,Utah ST Aggies,+13.5,5.0,+400,12.0
 2026-10-24,47,2026-10-24 | Brown | Cornell,Brown,+1.5,0.0,-110,0.0
 2026-10-24,49,2026-10-24 | Duquesne | Wagner,Wagner,+13.5,0.0,+419,0.0
-2026-10-24,52,2026-10-24 | LIU-Post | Stonehill College,LIU-Post,-3,1.0,-147,10.0
+2026-10-24,52,2026-10-24 | LIU-Post | Stonehill College,LIU-Post,-3,1.0,-147,12.0
 2026-10-24,53,2026-10-24 | Campbell | Maine,Maine,+10,0.0,+281,0.0
 2026-10-24,54,2026-10-24 | Bucknell | Holy Cross,Bucknell,+10,0.0,+325,0.0
 2026-10-24,55,2026-10-24 | Bethune-Cookman | Jackson ST,Bethune-Cookman,+7,0.0,+229,0.0
@@ -28,15 +28,17 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-24,60,2026-10-24 | E Tennessee ST | VMI,VMI,+32.5,0.0,-,0.0
 2026-10-24,61,2026-10-24 | Columbia | Dartmouth,Columbia,+1.5,0.0,+115,1.0
 2026-10-24,63,2026-10-24 | N Iowa | S Illinois,S Illinois,-3.5,0.0,-184,0.0
+2026-10-24,64,2026-10-24 | Citadel | Tennessee Tech,Tennessee Tech,-19.5,0.0,"-1,620",5.0
 2026-10-24,65,2026-10-24 | Furman | Samford,Samford,+9.5,0.0,+274,0.0
 2026-10-24,66,2026-10-24 | Morehead ST | Stetson,Stetson,-,0.0,-101,0.0
 2026-10-24,67,2026-10-24 | Hampton | Monmouth,Hampton,+26.5,0.0,"+1,520",0.0
+2026-10-24,68,2026-10-24 | N Dakota | S Dakota,N Dakota,+2.5,0.0,+104,0.0
 2026-10-24,70,2026-10-24 | Mercyhurst | Robert Morris,Mercyhurst,+5.5,0.0,+164,0.0
 2026-10-24,71,2026-10-24 | Tarleton ST | W Georgia,W Georgia,+21.5,0.0,"+1,040",0.0
 2026-10-24,73,2026-10-24 | Montana ST | Weber ST,Weber ST,+25.5,0.0,"+1,180",0.0
 2026-10-24,74,2026-10-24 | Illinois ST | Indiana ST,Indiana ST,+22.5,0.0,+990,0.0
 2026-10-24,76,2026-10-24 | Nicholls ST | Northwestern ST,Northwestern ST,+9.5,39.0,-,0.0
-2026-10-24,77,2026-10-24 | Murray ST | S Dakota ST,S Dakota ST,-40.5,21.0,-,0.0
+2026-10-24,77,2026-10-24 | Murray ST | S Dakota ST,Murray ST,+40.5,0.0,-,0.0
 2026-10-24,78,2026-10-24 | Howard | Morgan ST,Howard,-,0.0,+224,0.0
 2026-10-24,79,2026-10-24 | Ark-Pine Bluff | Florida A&M,Florida A&M,-3,0.0,-148,0.0
 2026-10-24,81,2026-10-24 | Chicago ST | Lindenwood,Chicago ST,-,0.0,"+1,100",0.0
@@ -46,10 +48,11 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-24,85,2026-10-24 | Tennessee-Martin | W Illinois,Tennessee-Martin,-,0.0,+105,7.0
 2026-10-24,86,2026-10-24 | Houston Christian | Lamar,Houston Christian,-,0.0,+300,0.0
 2026-10-24,87,2026-10-24 | Idaho | S Utah,S Utah,+3.5,0.0,+125,0.0
-2026-10-24,88,2026-10-24 | Cal Poly | Utah Tech,Utah Tech,+17.5,0.0,+559,0.0
-2026-10-24,90,2026-10-24 | Idaho ST | Portland ST,Portland ST,+14,0.0,+349,0.0
-2026-10-24,92,2026-10-24 | N Colorado | UC-Davis,UC-Davis,-9.5,0.0,-,0.0
-2026-10-24,93,2026-10-24 | Austin Peay | N Alabama,N Alabama,+11.5,0.0,+391,0.0
+2026-10-24,88,2026-10-24 | C Arkansas | UTRGV,UTRGV,+3.5,0.0,-,0.0
+2026-10-24,89,2026-10-24 | Cal Poly | Utah Tech,Utah Tech,+17.5,0.0,+559,0.0
+2026-10-24,91,2026-10-24 | Idaho ST | Portland ST,Portland ST,+14,0.0,+349,0.0
+2026-10-24,93,2026-10-24 | N Colorado | UC-Davis,UC-Davis,-9.5,0.0,-,0.0
+2026-10-24,94,2026-10-24 | Austin Peay | N Alabama,N Alabama,+11.5,0.0,+391,0.0
 2026-10-31,1,2026-10-31 | (2) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+16.5,0.0,+550,0.0
 2026-10-31,3,2026-10-31 | Clemson Tigers | Florida ST Seminoles,Florida ST Seminoles,-,0.0,-108,0.0
 2026-10-31,4,2026-10-31 | (6) Indiana Hoosiers | Minnesota Golden Gophers,(6) Indiana Hoosiers,-22.5,0.0,"-2,100",22.0
