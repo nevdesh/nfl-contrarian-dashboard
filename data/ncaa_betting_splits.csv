@@ -1,42 +1,38 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
 2026-10-27,2,2026-10-27 | Missouri ST | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+6,5.0,+185,0.0
 2026-10-28,2,2026-10-28 | Jacksonville ST | New Mexico ST Aggies,New Mexico ST Aggies,+3,0.0,+120,2.0
-2026-10-29,2,2026-10-29 | James Madison | Troy Trojans,Troy Trojans,+19.5,0.0,+900,4.0
+2026-10-29,2,2026-10-29 | James Madison | Troy Trojans,Troy Trojans,+19.5,0.0,+950,4.0
 2026-10-30,1,2026-10-30 | Charlotte 49ers | Tulane Green Wave,Charlotte 49ers,-,0.0,+380,0.0
 2026-10-30,3,2026-10-30 | Kent ST Golden Flashes | Sacramento ST,Sacramento ST,+10.5,0.0,+340,0.0
 2026-10-31,1,2026-10-31 | Boston College Eagles | Duke Blue Devils,Boston College Eagles,+7,4.0,+210,0.0
-2026-10-31,3,2026-10-31 | Illinois Fighting Illini | Maryland Terrapins,Illinois Fighting Illini,-,0.0,-142,0.0
 2026-10-31,5,2026-10-31 | California Golden Bears | NC State Wolfpack,California Golden Bears,-,0.0,+235,0.0
-2026-10-31,6,2026-10-31 | South Florida Bulls | UAB Blazers,UAB Blazers,-,0.0,+270,0.0
+2026-10-31,6,2026-10-31 | South Florida Bulls | UAB Blazers,UAB Blazers,-,0.0,+260,0.0
 2026-10-31,7,2026-10-31 | (23) SMU Mustangs | Syracuse Orange,Syracuse Orange,+10,22.0,+280,0.0
 2026-10-31,9,2026-10-31 | Bowling Green Falcons | W Michigan Broncos,Bowling Green Falcons,-,0.0,+490,0.0
 2026-10-31,12,2026-10-31 | Marshall Thundering Herd | Old Dominion Monarchs,Old Dominion Monarchs,-,0.0,+120,0.0
 2026-10-31,13,2026-10-31 | Colorado Buffaloes | Kansas ST Wildcats,Colorado Buffaloes,+2.5,0.0,-,0.0
 2026-10-31,14,2026-10-31 | Coastal Carolina Chanticleers | Georgia ST Panthers,Georgia ST Panthers,-6.5,0.0,-,0.0
-2026-10-31,15,2026-10-31 | Air Force Falcons | Connecticut Huskies,Air Force Falcons,-3,0.0,-,0.0
+2026-10-31,15,2026-10-31 | Air Force Falcons | Connecticut Huskies,Air Force Falcons,-2.5,0.0,-135,0.0
 2026-10-31,16,2026-10-31 | East Carolina Pirates | Temple Owls,Temple Owls,-,0.0,-,0.0
 2026-10-31,16,2026-10-31 | East Carolina Pirates | Temple Owls,East Carolina Pirates,-,0.0,-,0.0
-2026-10-31,18,2026-10-31 | (2) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+14.5,29.0,+455,0.0
-2026-10-31,20,2026-10-31 | (6) Indiana Hoosiers | Minnesota Golden Gophers,(6) Indiana Hoosiers,-20.5,13.0,"-1,800",29.0
-2026-10-31,21,2026-10-31 | LA Monroe Warhawks | Southern Miss Golden Eagles,LA Monroe Warhawks,+3,0.0,-,0.0
-2026-10-31,23,2026-10-31 | Kansas Jayhawks | TCU horned Frogs,Kansas Jayhawks,-,0.0,-,0.0
-2026-10-31,23,2026-10-31 | Kansas Jayhawks | TCU horned Frogs,TCU horned Frogs,-,0.0,-,0.0
-2026-10-31,24,2026-10-31 | Colorado ST Rams | Utah ST Aggies,Utah ST Aggies,-3.5,0.0,-,0.0
-2026-10-31,25,2026-10-31 | N Dakota ST | UTEP Miners,UTEP Miners,-,0.0,-,0.0
-2026-10-31,25,2026-10-31 | N Dakota ST | UTEP Miners,N Dakota ST,-,0.0,-,0.0
-2026-10-31,27,2026-10-31 | (17) Wake Forest Demon Deacons | Virginia Cavaliers,Virginia Cavaliers,+13.5,0.0,+380,0.0
-2026-10-31,28,2026-10-31 | Oklahoma Sooners | South Carolina Gamecocks,Oklahoma Sooners,-3.5,7.0,-155,2.0
-2026-10-31,29,2026-10-31 | Penn ST Nittany Lions | Purdue Boilermakers,Penn ST Nittany Lions,-8.5,0.0,-305,2.0
-2026-10-31,30,2026-10-31 | (9) UCLA Bruins | Nevada Wolf Pack,Nevada Wolf Pack,+22.5,0.0,"+1,100",0.0
-2026-10-31,31,2026-10-31 | Clemson Tigers | Florida ST Seminoles,Clemson Tigers,+6,0.0,+180,21.0
-2026-10-31,33,2026-10-31 | (1) Miami FL Hurricanes | North Carolina Tar Heels,(1) Miami FL Hurricanes,-16.5,7.0,-800,1.0
-2026-10-31,34,2026-10-31 | Georgia Tech Yellow Jackets | Pittsburgh Panthers,Georgia Tech Yellow Jackets,+7,0.0,-,0.0
-2026-10-31,35,2026-10-31 | (19) Texas Longhorns | Mississippi ST Bulldogs,(19) Texas Longhorns,-20.5,0.0,"-1,350",15.0
-2026-10-31,37,2026-10-31 | (22) Missouri Tigers | Arkansas Razorbacks,(22) Missouri Tigers,-10,1.0,-345,34.0
-2026-10-31,38,2026-10-31 | Army Black Nights | Memphis Tigers,Memphis Tigers,-6.5,0.0,-,0.0
-2026-10-31,39,2026-10-31 | Nebraska Cornhuskers | Washington Huskies,Nebraska Cornhuskers,-9.5,36.0,-325,10.0
-2026-10-31,40,2026-10-31 | (21) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,-,0.0,+340,0.0
-2026-10-31,41,2026-10-31 | Fresno ST Bulldogs | Oregon ST Beavers,Fresno ST Bulldogs,+7,31.0,+205,0.0
+2026-10-31,19,2026-10-31 | (2) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+14.5,29.0,+490,0.0
+2026-10-31,21,2026-10-31 | (6) Indiana Hoosiers | Minnesota Golden Gophers,(6) Indiana Hoosiers,-19.5,13.0,"-1,600",29.0
+2026-10-31,22,2026-10-31 | LA Monroe Warhawks | Southern Miss Golden Eagles,LA Monroe Warhawks,+3,0.0,-,0.0
+2026-10-31,24,2026-10-31 | Kansas Jayhawks | TCU horned Frogs,Kansas Jayhawks,-,0.0,-,0.0
+2026-10-31,24,2026-10-31 | Kansas Jayhawks | TCU horned Frogs,TCU horned Frogs,-,0.0,-,0.0
+2026-10-31,25,2026-10-31 | Colorado ST Rams | Utah ST Aggies,Utah ST Aggies,-4.5,7.0,-,0.0
+2026-10-31,26,2026-10-31 | N Dakota ST | UTEP Miners,UTEP Miners,-,0.0,"+1,800",0.0
+2026-10-31,28,2026-10-31 | (17) Wake Forest Demon Deacons | Virginia Cavaliers,Virginia Cavaliers,+14,0.0,+410,0.0
+2026-10-31,29,2026-10-31 | New Mexico Lobos | San Jose ST Spartans,San Jose ST Spartans,-,0.0,+455,0.0
+2026-10-31,30,2026-10-31 | Oklahoma Sooners | South Carolina Gamecocks,Oklahoma Sooners,-3.5,7.0,-155,2.0
+2026-10-31,31,2026-10-31 | Penn ST Nittany Lions | Purdue Boilermakers,Penn ST Nittany Lions,-7.5,5.0,-278,2.0
+2026-10-31,32,2026-10-31 | (9) UCLA Bruins | Nevada Wolf Pack,Nevada Wolf Pack,+22.5,0.0,"+1,100",0.0
+2026-10-31,36,2026-10-31 | (1) Miami FL Hurricanes | North Carolina Tar Heels,(1) Miami FL Hurricanes,-15.5,7.0,-750,2.0
+2026-10-31,37,2026-10-31 | Georgia Tech Yellow Jackets | Pittsburgh Panthers,Georgia Tech Yellow Jackets,+7,0.0,+205,0.0
+2026-10-31,38,2026-10-31 | (19) Texas Longhorns | Mississippi ST Bulldogs,(19) Texas Longhorns,-20.5,0.0,"-1,350",15.0
+2026-10-31,42,2026-10-31 | Nebraska Cornhuskers | Washington Huskies,Nebraska Cornhuskers,-9.5,36.0,-325,10.0
+2026-10-31,43,2026-10-31 | (21) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,-,0.0,+340,0.0
+2026-10-31,44,2026-10-31 | Fresno ST Bulldogs | Oregon ST Beavers,Fresno ST Bulldogs,+7,31.0,+205,0.0
 2026-11-07,1,2026-11-07 | Alabama Crimson Tide | LSU Tigers,LSU Tigers,-,0.0,-185,0.0
 2026-11-07,3,2026-11-07 | Ohio ST Buckeyes | Oregon Ducks,Ohio ST Buckeyes,-6,0.0,-,0.0
 2026-11-07,4,2026-11-07 | BYU Cougars | Utah Utes,Utah Utes,-3,0.0,-142,0.0
