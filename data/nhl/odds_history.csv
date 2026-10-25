@@ -4489,3 +4489,17 @@ captured_at,game_date,game_number,matchup_id,team,spread,moneyline,spread_handle
 2026-10-25T21:57:36+00:00,2026-10-26,2,2026-10-26 | Calgary Flames | Toronto Maple Leafs,Calgary Flames,+1.5,+136,1.0,8.0,vsin-20261025T215736Z-tables.json
 2026-10-25T21:57:36+00:00,2026-10-26,3,2026-10-26 | Detroit Red Wings | Edmonton Oilers,Detroit Red Wings,+1.5,+154,1.0,2.0,vsin-20261025T215736Z-tables.json
 2026-10-25T21:57:36+00:00,2026-10-26,3,2026-10-26 | Detroit Red Wings | Edmonton Oilers,Edmonton Oilers,-1.5,-185,99.0,98.0,vsin-20261025T215736Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-25,1,2026-10-25 | Chicago Blackhawks | Florida Panthers,Florida Panthers,-1.5,-198,99.0,90.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-25,1,2026-10-25 | Chicago Blackhawks | Florida Panthers,Chicago Blackhawks,+1.5,+164,1.0,10.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-25,2,2026-10-25 | Dallas Stars | New York Islanders,New York Islanders,+1.5,+154,27.0,52.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-25,2,2026-10-25 | Dallas Stars | New York Islanders,Dallas Stars,-1.5,-185,73.0,48.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-25,3,2026-10-25 | Colorado Avalanche | Nashville Predators,Colorado Avalanche,-1.5,-238,96.0,95.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-25,3,2026-10-25 | Colorado Avalanche | Nashville Predators,Nashville Predators,+1.5,+195,4.0,5.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-25,4,2026-10-25 | Minnesota Wild | Vancouver Canucks,Minnesota Wild,-1.5,-192,88.0,86.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-25,4,2026-10-25 | Minnesota Wild | Vancouver Canucks,Vancouver Canucks,+1.5,+160,12.0,14.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-26,1,2026-10-26 | Los Angeles Kings | New York Rangers,Los Angeles Kings,+1.5,+114,0.0,57.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-26,1,2026-10-26 | Los Angeles Kings | New York Rangers,New York Rangers,-1.5,-135,100.0,43.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-26,2,2026-10-26 | Calgary Flames | Toronto Maple Leafs,Toronto Maple Leafs,-1.5,-162,92.0,92.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-26,2,2026-10-26 | Calgary Flames | Toronto Maple Leafs,Calgary Flames,+1.5,+136,8.0,8.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-26,3,2026-10-26 | Detroit Red Wings | Edmonton Oilers,Detroit Red Wings,+1.5,+154,2.0,2.0,vsin-20261025T222506Z-tables.json
+2026-10-25T22:25:06+00:00,2026-10-26,3,2026-10-26 | Detroit Red Wings | Edmonton Oilers,Edmonton Oilers,-1.5,-185,98.0,98.0,vsin-20261025T222506Z-tables.json
