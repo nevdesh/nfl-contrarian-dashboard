@@ -4299,3 +4299,11 @@ captured_at,game_date,game_number,matchup_id,team,spread,moneyline,spread_handle
 2026-10-25T14:28:37+00:00,2026-10-25,3,2026-10-25 | Colorado Avalanche | Nashville Predators,Nashville Predators,+1.5,+190,7.0,13.0,vsin-20261025T142837Z-tables.json
 2026-10-25T14:28:37+00:00,2026-10-25,4,2026-10-25 | Minnesota Wild | Vancouver Canucks,Minnesota Wild,-1.5,-192,88.0,82.0,vsin-20261025T142837Z-tables.json
 2026-10-25T14:28:37+00:00,2026-10-25,4,2026-10-25 | Minnesota Wild | Vancouver Canucks,Vancouver Canucks,+1.5,+160,12.0,18.0,vsin-20261025T142837Z-tables.json
+2026-10-25T14:59:34+00:00,2026-10-25,1,2026-10-25 | Chicago Blackhawks | Florida Panthers,Florida Panthers,-1.5,-180,88.0,84.0,vsin-20261025T145934Z-tables.json
+2026-10-25T14:59:34+00:00,2026-10-25,1,2026-10-25 | Chicago Blackhawks | Florida Panthers,Chicago Blackhawks,+1.5,+150,12.0,16.0,vsin-20261025T145934Z-tables.json
+2026-10-25T14:59:34+00:00,2026-10-25,2,2026-10-25 | Dallas Stars | New York Islanders,New York Islanders,+1.5,+164,72.0,56.0,vsin-20261025T145934Z-tables.json
+2026-10-25T14:59:34+00:00,2026-10-25,2,2026-10-25 | Dallas Stars | New York Islanders,Dallas Stars,-1.5,-198,28.0,44.0,vsin-20261025T145934Z-tables.json
+2026-10-25T14:59:34+00:00,2026-10-25,3,2026-10-25 | Colorado Avalanche | Nashville Predators,Colorado Avalanche,-1.5,-230,96.0,88.0,vsin-20261025T145934Z-tables.json
+2026-10-25T14:59:34+00:00,2026-10-25,3,2026-10-25 | Colorado Avalanche | Nashville Predators,Nashville Predators,+1.5,+190,4.0,12.0,vsin-20261025T145934Z-tables.json
+2026-10-25T14:59:34+00:00,2026-10-25,4,2026-10-25 | Minnesota Wild | Vancouver Canucks,Minnesota Wild,-1.5,-192,90.0,83.0,vsin-20261025T145934Z-tables.json
+2026-10-25T14:59:34+00:00,2026-10-25,4,2026-10-25 | Minnesota Wild | Vancouver Canucks,Vancouver Canucks,+1.5,+160,10.0,17.0,vsin-20261025T145934Z-tables.json
