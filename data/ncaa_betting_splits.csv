@@ -1,30 +1,30 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
 2026-10-27,2,2026-10-27 | Missouri ST | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+6.5,8.0,+190,0.0
-2026-10-28,2,2026-10-28 | Jacksonville ST | New Mexico ST Aggies,New Mexico ST Aggies,+3,0.0,+130,2.0
-2026-10-29,2,2026-10-29 | James Madison | Troy Trojans,Troy Trojans,+20.5,0.0,+850,4.0
+2026-10-28,2,2026-10-28 | Jacksonville ST | New Mexico ST Aggies,New Mexico ST Aggies,+3,0.0,+130,1.0
+2026-10-29,2,2026-10-29 | James Madison | Troy Trojans,Troy Trojans,+20.5,0.0,+850,5.0
 2026-10-30,3,2026-10-30 | Kent ST Golden Flashes | Sacramento ST,Sacramento ST,+10.5,0.0,+330,0.0
 2026-10-31,1,2026-10-31 | Boston College Eagles | Duke Blue Devils,Boston College Eagles,+7.5,4.0,+250,0.0
 2026-10-31,3,2026-10-31 | Illinois Fighting Illini | Maryland Terrapins,Maryland Terrapins,+2.5,0.0,+114,34.0
-2026-10-31,5,2026-10-31 | California Golden Bears | NC State Wolfpack,California Golden Bears,+8.5,0.0,+250,0.0
 2026-10-31,7,2026-10-31 | (19) SMU Mustangs | Syracuse Orange,Syracuse Orange,+9.5,22.0,+280,0.0
 2026-10-31,12,2026-10-31 | Marshall Thundering Herd | Old Dominion Monarchs,Old Dominion Monarchs,+3,0.0,+120,0.0
 2026-10-31,13,2026-10-31 | Colorado Buffaloes | Kansas ST Wildcats,Colorado Buffaloes,+2.5,0.0,+114,0.0
-2026-10-31,19,2026-10-31 | (8) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+14.5,29.0,+500,0.0
-2026-10-31,21,2026-10-31 | (4) Indiana Hoosiers | Minnesota Golden Gophers,(4) Indiana Hoosiers,-19.5,14.0,"-1,350",35.0
+2026-10-31,19,2026-10-31 | (8) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+15.5,29.0,+500,10.0
 2026-10-31,22,2026-10-31 | LA Monroe Warhawks | Southern Miss Golden Eagles,LA Monroe Warhawks,+3,0.0,-,0.0
 2026-10-31,24,2026-10-31 | Kansas Jayhawks | TCU horned Frogs,TCU horned Frogs,-5.5,0.0,-,0.0
 2026-10-31,25,2026-10-31 | Colorado ST Rams | Utah ST Aggies,Colorado ST Rams,+6,24.0,-,0.0
+2026-10-31,26,2026-10-31 | N Dakota ST | UTEP Miners,N Dakota ST,-25.5,0.0,"-4,000",19.0
 2026-10-31,27,2026-10-31 | Florida Intl Golden Panthers | Liberty Flames,Florida Intl Golden Panthers,+14,0.0,+455,0.0
-2026-10-31,29,2026-10-31 | (14) Wake Forest Demon Deacons | Virginia Cavaliers,Virginia Cavaliers,+14,10.0,+470,0.0
+2026-10-31,29,2026-10-31 | (14) Wake Forest Demon Deacons | Virginia Cavaliers,Virginia Cavaliers,+14,10.0,+470,14.0
 2026-10-31,31,2026-10-31 | Oklahoma Sooners | South Carolina Gamecocks,Oklahoma Sooners,-4.5,6.0,-198,2.0
-2026-10-31,32,2026-10-31 | Penn ST Nittany Lions | Purdue Boilermakers,Penn ST Nittany Lions,-7.5,9.0,-305,2.0
+2026-10-31,32,2026-10-31 | Penn ST Nittany Lions | Purdue Boilermakers,Penn ST Nittany Lions,-7.5,9.0,-305,3.0
 2026-10-31,37,2026-10-31 | San Diego ST Aztecs | Washington ST Cougars,Washington ST Cougars,+3,0.0,+124,0.0
 2026-10-31,38,2026-10-31 | (1) Miami FL Hurricanes | North Carolina Tar Heels,(1) Miami FL Hurricanes,-14.5,10.0,-750,2.0
-2026-10-31,40,2026-10-31 | (11) Texas Longhorns | Mississippi ST Bulldogs,(11) Texas Longhorns,-21,2.0,"-1,450",18.0
+2026-10-31,40,2026-10-31 | (11) Texas Longhorns | Mississippi ST Bulldogs,(11) Texas Longhorns,-21,2.0,"-1,450",17.0
 2026-10-31,43,2026-10-31 | Army Black Nights | Memphis Tigers,Memphis Tigers,-6.5,0.0,-258,12.0
 2026-10-31,44,2026-10-31 | Nebraska Cornhuskers | Washington Huskies,Nebraska Cornhuskers,-8.5,36.0,-340,11.0
 2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,-,0.0,+360,0.0
-2026-10-31,47,2026-10-31 | Fresno ST Bulldogs | Oregon ST Beavers,Fresno ST Bulldogs,+6.5,38.0,+195,0.0
+2026-10-31,46,2026-10-31 | N Illinois Huskies | UNLV Rebels,UNLV Rebels,-24.5,1.0,"-2,400",5.0
+2026-10-31,47,2026-10-31 | Fresno ST Bulldogs | Oregon ST Beavers,Fresno ST Bulldogs,+6.5,38.0,+195,3.0
 2026-11-07,1,2026-11-07 | Alabama Crimson Tide | LSU Tigers,LSU Tigers,-,0.0,-185,0.0
 2026-11-07,3,2026-11-07 | Ohio ST Buckeyes | Oregon Ducks,Ohio ST Buckeyes,-6,0.0,-,0.0
 2026-11-07,4,2026-11-07 | BYU Cougars | Utah Utes,Utah Utes,-3,0.0,-142,0.0
