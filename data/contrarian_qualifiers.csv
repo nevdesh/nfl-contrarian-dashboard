@@ -1,8 +1,7 @@
 game_date,game_number,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-"NFL - SUNDAY, OCT 25",2,Miami Dolphins,+4.5,37.0,+180,14.0
 "NFL - SUNDAY, OCT 25",3,Baltimore Ravens,+3,15.0,+124,10.0
-"NFL - SUNDAY, OCT 25",5,Tennessee Titans,+2.5,39.0,+110,13.0
-"NFL - SUNDAY, OCT 25",6,Indianapolis Colts,+6.5,38.0,+260,34.0
+"NFL - SUNDAY, OCT 25",5,Tennessee Titans,+1.5,38.0,+110,12.0
+"NFL - SUNDAY, OCT 25",6,Indianapolis Colts,+6.5,38.0,+260,35.0
 "NFL - SUNDAY, OCT 25",7,Atlanta Falcons,+2.5,34.0,+120,23.0
 "NFL - SUNDAY, OCT 25",11,Green Bay Packers,+3.5,13.0,+154,26.0
 "NFL - SUNDAY, NOV 1",1,Baltimore Ravens,+3,4.0,+150,23.0
