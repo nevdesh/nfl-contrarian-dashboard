@@ -1,13 +1,11 @@
 game_date,game_number,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-"NFL - SUNDAY, OCT 25",2,Miami Dolphins,+3.5,30.0,+180,27.0
-"NFL - SUNDAY, OCT 25",3,Baltimore Ravens,+3,20.0,+124,11.0
-"NFL - SUNDAY, OCT 25",4,Houston Texans,-10,30.0,-520,34.0
-"NFL - SUNDAY, OCT 25",5,Tennessee Titans,+2.5,38.0,+114,10.0
-"NFL - SUNDAY, OCT 25",6,Indianapolis Colts,+6.5,31.0,+260,32.0
-"NFL - SUNDAY, OCT 25",7,Atlanta Falcons,+2.5,33.0,+124,26.0
-"NFL - SUNDAY, OCT 25",9,Arizona Cardinals,+4.5,37.0,+190,21.0
-"NFL - SUNDAY, OCT 25",11,Green Bay Packers,+3.5,17.0,+150,21.0
-"NFL - SUNDAY, NOV 1",1,Baltimore Ravens,+3,4.0,+150,25.0
+"NFL - SUNDAY, OCT 25",2,Miami Dolphins,+3.5,34.0,+180,28.0
+"NFL - SUNDAY, OCT 25",3,Baltimore Ravens,+3,25.0,+130,11.0
+"NFL - SUNDAY, OCT 25",4,Houston Texans,-10,32.0,-520,33.0
+"NFL - SUNDAY, OCT 25",7,Atlanta Falcons,+2.5,32.0,+130,32.0
+"NFL - SUNDAY, OCT 25",9,Arizona Cardinals,+4.5,34.0,+195,21.0
+"NFL - SUNDAY, OCT 25",11,Green Bay Packers,+3.5,18.0,+150,22.0
+"NFL - SUNDAY, NOV 1",1,Baltimore Ravens,+3,5.0,+150,19.0
 "NFL - SUNDAY, NOV 1",8,Tampa Bay Buccaneers,-1.5,0.0,-118,30.0
 "NFL - SUNDAY, NOV 1",9,Los Angeles Chargers,+7,0.0,+250,3.0
 "NFL - SUNDAY, NOV 1",10,New England Patriots,-8.5,8.0,-485,28.0
