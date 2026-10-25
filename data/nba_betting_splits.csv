@@ -3,9 +3,10 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-24,4,2026-10-24 | Chicago Bulls | Washington Wizards,Chicago Bulls,-1.5,7.0,-125,9.0
 2026-10-24,5,2026-10-24 | Dallas Mavericks | San Antonio Spurs,Dallas Mavericks,+14.5,11.0,+600,22.0
 2026-10-24,7,2026-10-24 | Denver Nuggets | New Orleans Pelicans,New Orleans Pelicans,+11.5,21.0,+370,11.0
-2026-10-25,2,2026-10-25 | Brooklyn Nets | Indiana Pacers,Brooklyn Nets,+6.5,0.0,+205,0.0
-2026-10-25,4,2026-10-25 | New York Knicks | Orlando Magic,Orlando Magic,+7.5,9.0,+250,14.0
-2026-10-25,6,2026-10-25 | Memphis Grizzlies | Sacramento Kings,Sacramento Kings,+3.5,12.0,+136,18.0
+2026-10-25,1,2026-10-25 | Los Angeles Lakers | Utah Jazz,Utah Jazz,+6.5,33.0,+195,33.0
+2026-10-25,2,2026-10-25 | Brooklyn Nets | Indiana Pacers,Brooklyn Nets,+7.5,1.0,+225,2.0
+2026-10-25,3,2026-10-25 | Minnesota Timberwolves | Toronto Raptors,Toronto Raptors,+1.5,34.0,-105,15.0
+2026-10-25,5,2026-10-25 | Los Angeles Clippers | Oklahoma City Thunder,Los Angeles Clippers,+14.5,34.0,+625,7.0
 2026-10-30,1,2026-10-30 | Charlotte Hornets | Washington Wizards,Charlotte Hornets,+1.5,11.0,-105,7.0
 2026-10-30,2,2026-10-30 | Boston Celtics | Chicago Bulls,Chicago Bulls,+11.5,0.0,+425,5.0
 2026-10-30,5,2026-10-30 | Orlando Magic | Toronto Raptors,Orlando Magic,+3.5,0.0,+130,15.0
