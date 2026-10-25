@@ -46,22 +46,21 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-24,93,2026-10-24 | Idaho ST | Portland ST,Portland ST,+14,6.0,+349,0.0
 2026-10-27,1,2026-10-27 | Delaware | W Kentucky Hilltoppers,W Kentucky Hilltoppers,+2.5,0.0,+114,3.0
 2026-10-27,2,2026-10-27 | Missouri ST | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+6.5,0.0,+185,0.0
+2026-10-28,1,2026-10-28 | Kennesaw ST | Middle Tenn ST Blue Raiders,Kennesaw ST,+2.5,0.0,+114,34.0
 2026-10-29,2,2026-10-29 | James Madison | Troy Trojans,Troy Trojans,-,0.0,+550,0.0
 2026-10-30,1,2026-10-30 | Charlotte 49ers | Tulane Green Wave,Charlotte 49ers,-,0.0,+400,0.0
 2026-10-30,3,2026-10-30 | Kent ST Golden Flashes | Sacramento ST,Sacramento ST,+10,0.0,+300,0.0
-2026-10-31,1,2026-10-31 | (22) Missouri Tigers | Arkansas Razorbacks,Arkansas Razorbacks,-,0.0,+295,0.0
-2026-10-31,2,2026-10-31 | (2) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+14.5,1.0,+440,0.0
-2026-10-31,3,2026-10-31 | (10) Utah Utes | Cincinnati Bearcats,Cincinnati Bearcats,+6.5,19.0,+195,26.0
-2026-10-31,4,2026-10-31 | Clemson Tigers | Florida ST Seminoles,Florida ST Seminoles,-,0.0,-198,0.0
-2026-10-31,5,2026-10-31 | (6) Indiana Hoosiers | Minnesota Golden Gophers,(6) Indiana Hoosiers,-20.5,0.0,"-1,800",25.0
-2026-10-31,8,2026-10-31 | Nebraska Cornhuskers | Washington Huskies,Nebraska Cornhuskers,-9.5,0.0,-325,10.0
-2026-10-31,9,2026-10-31 | (1) Miami FL Hurricanes | North Carolina Tar Heels,(1) Miami FL Hurricanes,-16.5,0.0,-800,1.0
-2026-10-31,11,2026-10-31 | (24) Northwestern Wildcats | Oregon Ducks,Oregon Ducks,-4.5,6.0,-180,7.0
-2026-10-31,12,2026-10-31 | Michigan Wolverines | Rutgers Scarlet Knights,Michigan Wolverines,-14,0.0,-,0.0
-2026-10-31,14,2026-10-31 | (19) Texas Longhorns | Mississippi ST Bulldogs,Mississippi ST Bulldogs,-,0.0,-,0.0
-2026-10-31,14,2026-10-31 | (19) Texas Longhorns | Mississippi ST Bulldogs,(19) Texas Longhorns,-,0.0,-,0.0
-2026-10-31,16,2026-10-31 | (9) UCLA Bruins | Nevada Wolf Pack,Nevada Wolf Pack,+23.5,0.0,-,0.0
-2026-10-31,18,2026-10-31 | (17) Wake Forest Demon Deacons | Virginia Cavaliers,Virginia Cavaliers,+13.5,0.0,+380,0.0
+2026-10-31,7,2026-10-31 | (2) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+14.5,1.0,+440,0.0
+2026-10-31,9,2026-10-31 | (6) Indiana Hoosiers | Minnesota Golden Gophers,(6) Indiana Hoosiers,-20.5,0.0,"-1,800",25.0
+2026-10-31,10,2026-10-31 | (24) Northwestern Wildcats | Oregon Ducks,Oregon Ducks,-4.5,6.0,-180,7.0
+2026-10-31,11,2026-10-31 | (10) Utah Utes | Cincinnati Bearcats,Cincinnati Bearcats,+6.5,19.0,+195,26.0
+2026-10-31,12,2026-10-31 | (17) Wake Forest Demon Deacons | Virginia Cavaliers,Virginia Cavaliers,+13.5,0.0,+380,0.0
+2026-10-31,14,2026-10-31 | (9) UCLA Bruins | Nevada Wolf Pack,Nevada Wolf Pack,+23.5,0.0,"+1,200",0.0
+2026-10-31,15,2026-10-31 | Clemson Tigers | Florida ST Seminoles,Clemson Tigers,-,0.0,+164,32.0
+2026-10-31,16,2026-10-31 | (1) Miami FL Hurricanes | North Carolina Tar Heels,(1) Miami FL Hurricanes,-16.5,0.0,-800,1.0
+2026-10-31,17,2026-10-31 | (19) Texas Longhorns | Mississippi ST Bulldogs,Mississippi ST Bulldogs,-,0.0,+800,0.0
+2026-10-31,19,2026-10-31 | (22) Missouri Tigers | Arkansas Razorbacks,Arkansas Razorbacks,-,0.0,+295,0.0
+2026-10-31,20,2026-10-31 | Nebraska Cornhuskers | Washington Huskies,Nebraska Cornhuskers,-9.5,0.0,-325,10.0
 2026-11-07,1,2026-11-07 | Alabama Crimson Tide | LSU Tigers,LSU Tigers,-,0.0,-185,0.0
 2026-11-07,3,2026-11-07 | Ohio ST Buckeyes | Oregon Ducks,Ohio ST Buckeyes,-6,0.0,-,0.0
 2026-11-07,4,2026-11-07 | BYU Cougars | Utah Utes,Utah Utes,-3,0.0,-142,0.0
