@@ -1,20 +1,23 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-10-29,2,2026-10-29 | James Madison | Troy Trojans,Troy Trojans,+17.5,14.0,+675,13.0
-2026-10-30,1,2026-10-30 | Charlotte 49ers | Tulane Green Wave,Charlotte 49ers,+8.5,13.0,+275,21.0
-2026-10-30,2,2026-10-30 | Baylor Bears | UCF Knights,UCF Knights,+1.5,21.0,-102,16.0
+2026-10-30,1,2026-10-30 | Charlotte 49ers | Tulane Green Wave,Charlotte 49ers,+8.5,14.0,+275,18.0
+2026-10-30,2,2026-10-30 | Baylor Bears | UCF Knights,UCF Knights,+1.5,23.0,-102,15.0
+2026-10-30,4,2026-10-30 | Dartmouth | Harvard,Dartmouth,+10.5,3.0,+298,3.0
 2026-10-31,1,2026-10-31 | Boston College Eagles | Duke Blue Devils,Boston College Eagles,+7,38.0,+225,23.0
-2026-10-31,4,2026-10-31 | (5) Notre Dame Fighting Irish | Navy Midshipmen,Navy Midshipmen,+30.5,24.0,"+2,000",12.0
-2026-10-31,5,2026-10-31 | California Golden Bears | NC State Wolfpack,NC State Wolfpack,-7,35.0,-265,14.0
-2026-10-31,13,2026-10-31 | Colorado Buffaloes | Kansas ST Wildcats,Kansas ST Wildcats,+1.5,38.0,+105,15.0
+2026-10-31,4,2026-10-31 | (5) Notre Dame Fighting Irish | Navy Midshipmen,Navy Midshipmen,+30.5,26.0,"+2,000",12.0
+2026-10-31,5,2026-10-31 | California Golden Bears | NC State Wolfpack,NC State Wolfpack,-7,35.0,-265,16.0
+2026-10-31,11,2026-10-31 | (12) Ole Miss Rebels | Auburn Tigers,(12) Ole Miss Rebels,-11.5,30.0,-470,15.0
+2026-10-31,13,2026-10-31 | Colorado Buffaloes | Kansas ST Wildcats,Kansas ST Wildcats,+1.5,38.0,+105,17.0
 2026-10-31,18,2026-10-31 | Louisville Cardinals | Stanford Cardinal,Stanford Cardinal,+22.5,10.0,"+1,100",19.0
 2026-10-31,19,2026-10-31 | (8) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+16.5,24.0,+525,10.0
-2026-10-31,20,2026-10-31 | (17) Florida Gators | (3) Georgia Bulldogs,(17) Florida Gators,+12.5,36.0,+360,38.0
-2026-10-31,24,2026-10-31 | Kansas Jayhawks | TCU horned Frogs,Kansas Jayhawks,+6.5,35.0,+195,9.0
-2026-10-31,30,2026-10-31 | New Mexico Lobos | San Jose ST Spartans,New Mexico Lobos,-14.5,11.0,-650,24.0
-2026-10-31,33,2026-10-31 | (7) UCLA Bruins | Nevada Wolf Pack,Nevada Wolf Pack,+22.5,21.0,"+1,000",4.0
+2026-10-31,20,2026-10-31 | (17) Florida Gators | (3) Georgia Bulldogs,(17) Florida Gators,+12.5,36.0,+360,39.0
+2026-10-31,24,2026-10-31 | Kansas Jayhawks | TCU horned Frogs,Kansas Jayhawks,+6.5,34.0,+195,9.0
+2026-10-31,30,2026-10-31 | New Mexico Lobos | San Jose ST Spartans,New Mexico Lobos,-14.5,12.0,-650,26.0
+2026-10-31,33,2026-10-31 | (7) UCLA Bruins | Nevada Wolf Pack,Nevada Wolf Pack,+22.5,20.0,"+1,000",4.0
+2026-10-31,36,2026-10-31 | (24) Oklahoma ST Cowboys | Iowa ST Cyclones,Iowa ST Cyclones,+9.5,26.0,+280,37.0
 2026-10-31,37,2026-10-31 | San Diego ST Aztecs | Washington ST Cougars,Washington ST Cougars,+2.5,10.0,+120,14.0
+2026-10-31,41,2026-10-31 | (2) Ohio ST Buckeyes | USC Trojans,USC Trojans,+6.5,39.0,+200,5.0
 2026-10-31,43,2026-10-31 | Army Black Nights | Memphis Tigers,Memphis Tigers,-6.5,26.0,-218,39.0
-2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+11.5,25.0,+330,28.0
+2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+10.5,25.0,+330,28.0
 2026-11-07,1,2026-11-07 | (17) Florida Gators | Oklahoma Sooners,Oklahoma Sooners,+4,0.0,+142,0.0
 2026-11-07,2,2026-11-07 | (10) Alabama Crimson Tide | (15) LSU Tigers,(15) LSU Tigers,-4.5,0.0,-175,0.0
 2026-11-07,3,2026-11-07 | Michigan ST Spartans | Michigan Wolverines,Michigan Wolverines,-14,0.0,-700,31.0
@@ -22,7 +25,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-07,5,2026-11-07 | (12) Ole Miss Rebels | (3) Georgia Bulldogs,(12) Ole Miss Rebels,+3,0.0,+124,0.0
 2026-11-07,6,2026-11-07 | (11) Texas Longhorns | (23) Missouri Tigers,(23) Missouri Tigers,+3.5,0.0,+142,0.0
 2026-11-07,7,2026-11-07 | (20) Northwestern Wildcats | Iowa Hawkies,Iowa Hawkies,+2.5,0.0,+114,0.0
-2026-11-07,8,2026-11-07 | (2) Ohio ST Buckeyes | Oregon Ducks,(2) Ohio ST Buckeyes,-14,0.0,-575,25.0
+2026-11-07,8,2026-11-07 | (2) Ohio ST Buckeyes | Oregon Ducks,(2) Ohio ST Buckeyes,-14,0.0,-575,28.0
 2026-11-07,9,2026-11-07 | (16) Tennessee Volunteers | (9) Kentucky Wildcats,(16) Tennessee Volunteers,-5.5,0.0,-198,0.0
 2026-11-07,11,2026-11-07 | Air Force Falcons | Army Black Nights,Air Force Falcons,+5.5,12.0,+170,0.0
-2026-11-07,12,2026-11-07 | (1) Miami FL Hurricanes | (5) Notre Dame Fighting Irish,(5) Notre Dame Fighting Irish,-3.5,9.0,-155,24.0
+2026-11-07,12,2026-11-07 | (1) Miami FL Hurricanes | (5) Notre Dame Fighting Irish,(5) Notre Dame Fighting Irish,-3.5,9.0,-155,30.0
