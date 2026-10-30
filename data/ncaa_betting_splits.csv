@@ -1,24 +1,23 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-10-30,1,2026-10-30 | Charlotte 49ers | Tulane Green Wave,Charlotte 49ers,+7.5,26.0,+270,16.0
-2026-10-30,2,2026-10-30 | Baylor Bears | UCF Knights,UCF Knights,+2.5,26.0,+114,31.0
-2026-10-30,4,2026-10-30 | Dartmouth | Harvard,Dartmouth,+9.5,4.0,+264,12.0
+2026-10-30,1,2026-10-30 | Charlotte 49ers | Tulane Green Wave,Charlotte 49ers,+7.5,29.0,+270,23.0
+2026-10-30,2,2026-10-30 | Baylor Bears | UCF Knights,UCF Knights,+2.5,39.0,+120,31.0
+2026-10-30,4,2026-10-30 | Dartmouth | Harvard,Dartmouth,+9.5,4.0,+264,11.0
 2026-10-31,1,2026-10-31 | Boston College Eagles | Duke Blue Devils,Boston College Eagles,+7,38.0,+225,27.0
-2026-10-31,9,2026-10-31 | Bowling Green Falcons | W Michigan Broncos,Bowling Green Falcons,+14,9.0,+440,35.0
+2026-10-31,9,2026-10-31 | Bowling Green Falcons | W Michigan Broncos,Bowling Green Falcons,+14,9.0,+440,34.0
 2026-10-31,11,2026-10-31 | (12) Ole Miss Rebels | Auburn Tigers,(12) Ole Miss Rebels,-11.5,36.0,-470,20.0
-2026-10-31,13,2026-10-31 | Colorado Buffaloes | Kansas ST Wildcats,Kansas ST Wildcats,+3,37.0,+130,17.0
-2026-10-31,14,2026-10-31 | Coastal Carolina Chanticleers | Georgia ST Panthers,Georgia ST Panthers,-4.5,39.0,-185,11.0
+2026-10-31,13,2026-10-31 | Colorado Buffaloes | Kansas ST Wildcats,Kansas ST Wildcats,+3,38.0,+130,18.0
 2026-10-31,15,2026-10-31 | Air Force Falcons | Connecticut Huskies,Air Force Falcons,-1.5,23.0,-110,24.0
-2026-10-31,18,2026-10-31 | Louisville Cardinals | Stanford Cardinal,Stanford Cardinal,+22.5,10.0,"+1,100",22.0
+2026-10-31,18,2026-10-31 | Louisville Cardinals | Stanford Cardinal,Stanford Cardinal,+22.5,10.0,"+1,100",21.0
 2026-10-31,19,2026-10-31 | (8) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+16.5,21.0,+525,8.0
-2026-10-31,23,2026-10-31 | (20) Northwestern Wildcats | Oregon Ducks,Oregon Ducks,-3.5,20.0,-175,37.0
-2026-10-31,29,2026-10-31 | (14) Wake Forest Demon Deacons | Virginia Cavaliers,Virginia Cavaliers,+12.5,23.0,+390,31.0
-2026-10-31,30,2026-10-31 | New Mexico Lobos | San Jose ST Spartans,New Mexico Lobos,-14.5,12.0,-650,35.0
+2026-10-31,23,2026-10-31 | (20) Northwestern Wildcats | Oregon Ducks,Oregon Ducks,-3.5,21.0,-175,37.0
+2026-10-31,29,2026-10-31 | (14) Wake Forest Demon Deacons | Virginia Cavaliers,Virginia Cavaliers,+12.5,23.0,+390,32.0
+2026-10-31,30,2026-10-31 | New Mexico Lobos | San Jose ST Spartans,New Mexico Lobos,-14.5,12.0,-650,36.0
 2026-10-31,33,2026-10-31 | (7) UCLA Bruins | Nevada Wolf Pack,Nevada Wolf Pack,+22.5,39.0,"+1,000",3.0
-2026-10-31,36,2026-10-31 | (24) Oklahoma ST Cowboys | Iowa ST Cyclones,Iowa ST Cyclones,+9.5,13.0,+285,38.0
-2026-10-31,42,2026-10-31 | (23) Missouri Tigers | Arkansas Razorbacks,(23) Missouri Tigers,-10,20.0,-380,36.0
-2026-10-31,43,2026-10-31 | Army Black Nights | Memphis Tigers,Memphis Tigers,-6,18.0,-218,10.0
-2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+10.5,23.0,+340,29.0
-2026-10-31,50,2026-10-31 | Bucknell | Lehigh,Bucknell,-,0.0,"+1,660",0.0
+2026-10-31,36,2026-10-31 | (24) Oklahoma ST Cowboys | Iowa ST Cyclones,Iowa ST Cyclones,+9.5,13.0,+285,37.0
+2026-10-31,42,2026-10-31 | (23) Missouri Tigers | Arkansas Razorbacks,(23) Missouri Tigers,-10,20.0,-380,37.0
+2026-10-31,43,2026-10-31 | Army Black Nights | Memphis Tigers,Memphis Tigers,-6,19.0,-218,11.0
+2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+10.5,22.0,+340,29.0
+2026-10-31,50,2026-10-31 | Bucknell | Lehigh,Bucknell,+27.5,0.0,"+1,660",0.0
 2026-10-31,53,2026-10-31 | Brown | Pennsylvania,Pennsylvania,+3,0.0,-,0.0
 2026-10-31,54,2026-10-31 | Columbia | Yale,Columbia,+7,0.0,+267,0.0
 2026-10-31,56,2026-10-31 | Merrimack | Wagner,Wagner,-,0.0,+520,0.0
@@ -48,7 +47,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,77,2026-10-31 | UC-Davis | Weber ST,UC-Davis,-,0.0,-,0.0
 2026-10-31,77,2026-10-31 | UC-Davis | Weber ST,Weber ST,-,0.0,-,0.0
 2026-10-31,78,2026-10-31 | Cal Poly | Montana ST,Cal Poly,-,0.0,"+1,160",0.0
-2026-10-31,79,2026-10-31 | Delaware ST | Norfolk ST,Delaware ST,+3,0.0,-,0.0
+2026-10-31,79,2026-10-31 | Delaware ST | Norfolk ST,Delaware ST,+3,39.0,-,0.0
 2026-10-31,80,2026-10-31 | Mcneese ST | Nicholls ST,Nicholls ST,-,0.0,+260,0.0
 2026-10-31,81,2026-10-31 | N Arizona | S Utah,S Utah,+1.5,0.0,-,0.0
 2026-10-31,82,2026-10-31 | Houston Christian | Stephen F Austin,Houston Christian,-,0.0,"+1,400",0.0
