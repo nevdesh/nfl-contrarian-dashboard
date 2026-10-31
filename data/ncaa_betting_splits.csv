@@ -3,10 +3,10 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-30,2,2026-10-30 | Baylor Bears | UCF Knights,UCF Knights,+2.5,39.0,+120,31.0
 2026-10-30,4,2026-10-30 | Dartmouth | Harvard,Dartmouth,+9.5,4.0,+264,11.0
 2026-10-31,1,2026-10-31 | Boston College Eagles | Duke Blue Devils,Boston College Eagles,+7,36.0,+225,26.0
-2026-10-31,4,2026-10-31 | (5) Notre Dame Fighting Irish | Navy Midshipmen,Navy Midshipmen,+30.5,32.0,"+2,000",11.0
-2026-10-31,9,2026-10-31 | Bowling Green Falcons | W Michigan Broncos,Bowling Green Falcons,+13.5,11.0,+440,29.0
+2026-10-31,4,2026-10-31 | (5) Notre Dame Fighting Irish | Navy Midshipmen,Navy Midshipmen,+30.5,32.0,"+2,000",6.0
+2026-10-31,9,2026-10-31 | Bowling Green Falcons | W Michigan Broncos,Bowling Green Falcons,+13.5,12.0,+440,29.0
 2026-10-31,13,2026-10-31 | Colorado Buffaloes | Kansas ST Wildcats,Kansas ST Wildcats,+3,36.0,+130,19.0
-2026-10-31,15,2026-10-31 | Air Force Falcons | Connecticut Huskies,Air Force Falcons,-1.5,24.0,-110,21.0
+2026-10-31,15,2026-10-31 | Air Force Falcons | Connecticut Huskies,Air Force Falcons,+1.5,24.0,-110,21.0
 2026-10-31,18,2026-10-31 | Louisville Cardinals | Stanford Cardinal,Stanford Cardinal,+22.5,13.0,"+1,100",34.0
 2026-10-31,19,2026-10-31 | (8) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+16.5,19.0,+525,6.0
 2026-10-31,26,2026-10-31 | N Dakota ST | UTEP Miners,UTEP Miners,+24.5,29.0,"+1,300",9.0
@@ -37,7 +37,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,74,2026-10-31 | Charleston Southern | W Illinois,W Illinois,-,0.0,-101,0.0
 2026-10-31,75,2026-10-31 | Howard | NC Central,Howard,-,0.0,+164,0.0
 2026-10-31,76,2026-10-31 | Incarnate Word | Northwestern ST,Incarnate Word,-31.5,0.0,-,0.0
-2026-10-31,77,2026-10-31 | Lindenwood | Tennessee ST,Tennessee ST,+9.5,0.0,+300,0.0
+2026-10-31,77,2026-10-31 | Lindenwood | Tennessee ST,Tennessee ST,+9.5,0.0,+285,0.0
 2026-10-31,78,2026-10-31 | Davidson | St Thomas-MN,Davidson,+30.5,5.0,-,0.0
 2026-10-31,79,2026-10-31 | UC-Davis | Weber ST,UC-Davis,-,0.0,+101,0.0
 2026-10-31,80,2026-10-31 | Cal Poly | Montana ST,Cal Poly,-,0.0,"+1,160",0.0
@@ -57,10 +57,10 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-07,1,2026-11-07 | (17) Florida Gators | Oklahoma Sooners,Oklahoma Sooners,+4,0.0,+142,0.0
 2026-11-07,2,2026-11-07 | (10) Alabama Crimson Tide | (15) LSU Tigers,(15) LSU Tigers,-4.5,0.0,-175,0.0
 2026-11-07,3,2026-11-07 | Michigan ST Spartans | Michigan Wolverines,Michigan Wolverines,-14,0.0,-700,35.0
-2026-11-07,4,2026-11-07 | (7) UCLA Bruins | Minnesota Golden Gophers,(7) UCLA Bruins,-6.5,0.0,-238,1.0
+2026-11-07,4,2026-11-07 | (7) UCLA Bruins | Minnesota Golden Gophers,(7) UCLA Bruins,-6.5,1.0,-238,1.0
 2026-11-07,6,2026-11-07 | (11) Texas Longhorns | (23) Missouri Tigers,(23) Missouri Tigers,+3.5,3.0,+142,0.0
 2026-11-07,7,2026-11-07 | (20) Northwestern Wildcats | Iowa Hawkies,Iowa Hawkies,+2.5,0.0,+114,0.0
 2026-11-07,8,2026-11-07 | (2) Ohio ST Buckeyes | Oregon Ducks,(2) Ohio ST Buckeyes,-14,1.0,-575,30.0
 2026-11-07,9,2026-11-07 | (16) Tennessee Volunteers | (9) Kentucky Wildcats,(9) Kentucky Wildcats,+5.5,9.0,+164,31.0
-2026-11-07,10,2026-11-07 | (6) Utah Utes | (8) BYU Cougars,(6) Utah Utes,-3,2.0,-142,18.0
+2026-11-07,10,2026-11-07 | (6) Utah Utes | (8) BYU Cougars,(6) Utah Utes,-3,1.0,-142,18.0
 2026-11-07,11,2026-11-07 | Air Force Falcons | Army Black Nights,Air Force Falcons,+5.5,12.0,+170,0.0
