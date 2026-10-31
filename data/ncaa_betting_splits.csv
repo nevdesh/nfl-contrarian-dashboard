@@ -2,24 +2,23 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-30,1,2026-10-30 | Charlotte 49ers | Tulane Green Wave,Charlotte 49ers,+7.5,29.0,+270,23.0
 2026-10-30,2,2026-10-30 | Baylor Bears | UCF Knights,UCF Knights,+2.5,39.0,+120,31.0
 2026-10-30,4,2026-10-30 | Dartmouth | Harvard,Dartmouth,+9.5,4.0,+264,11.0
-2026-10-31,1,2026-10-31 | Boston College Eagles | Duke Blue Devils,Boston College Eagles,+7,31.0,+225,30.0
+2026-10-31,1,2026-10-31 | Boston College Eagles | Duke Blue Devils,Boston College Eagles,+7,33.0,+225,29.0
 2026-10-31,4,2026-10-31 | (5) Notre Dame Fighting Irish | Navy Midshipmen,Navy Midshipmen,+30.5,29.0,"+2,000",6.0
-2026-10-31,9,2026-10-31 | Bowling Green Falcons | W Michigan Broncos,Bowling Green Falcons,+14,31.0,+440,20.0
-2026-10-31,13,2026-10-31 | Colorado Buffaloes | Kansas ST Wildcats,Kansas ST Wildcats,+3,38.0,+130,22.0
-2026-10-31,15,2026-10-31 | Air Force Falcons | Connecticut Huskies,Air Force Falcons,+1.5,24.0,-110,17.0
-2026-10-31,18,2026-10-31 | Louisville Cardinals | Stanford Cardinal,Stanford Cardinal,+22.5,11.0,"+1,100",34.0
-2026-10-31,19,2026-10-31 | (8) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+16.5,18.0,+525,6.0
-2026-10-31,33,2026-10-31 | (7) UCLA Bruins | Nevada Wolf Pack,Nevada Wolf Pack,+22.5,34.0,"+1,000",3.0
-2026-10-31,36,2026-10-31 | (24) Oklahoma ST Cowboys | Iowa ST Cyclones,Iowa ST Cyclones,+9.5,21.0,+285,27.0
+2026-10-31,9,2026-10-31 | Bowling Green Falcons | W Michigan Broncos,Bowling Green Falcons,+14,28.0,+440,20.0
+2026-10-31,13,2026-10-31 | Colorado Buffaloes | Kansas ST Wildcats,Kansas ST Wildcats,+3,39.0,+130,19.0
+2026-10-31,15,2026-10-31 | Air Force Falcons | Connecticut Huskies,Air Force Falcons,+1.5,23.0,-110,16.0
+2026-10-31,18,2026-10-31 | Louisville Cardinals | Stanford Cardinal,Stanford Cardinal,+23.5,11.0,"+1,100",34.0
+2026-10-31,19,2026-10-31 | (8) BYU Cougars | Arizona ST Sun Devils,Arizona ST Sun Devils,+16.5,18.0,+550,6.0
+2026-10-31,33,2026-10-31 | (7) UCLA Bruins | Nevada Wolf Pack,Nevada Wolf Pack,+22.5,35.0,"+1,000",3.0
+2026-10-31,36,2026-10-31 | (24) Oklahoma ST Cowboys | Iowa ST Cyclones,Iowa ST Cyclones,+9.5,21.0,+285,28.0
 2026-10-31,43,2026-10-31 | Army Black Nights | Memphis Tigers,Memphis Tigers,-6,19.0,-218,18.0
-2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+10.5,17.0,+340,18.0
-2026-10-31,49,2026-10-31 | Maine | Rhode Island,Rhode Island,-15.5,8.0,-597,23.0
-2026-10-31,51,2026-10-31 | Bucknell | Lehigh,Bucknell,+27.5,8.0,"+1,660",0.0
-2026-10-31,57,2026-10-31 | Merrimack | Wagner,Wagner,+15.5,6.0,+520,0.0
+2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+10.5,17.0,+340,20.0
+2026-10-31,51,2026-10-31 | Bucknell | Lehigh,Bucknell,+27.5,6.0,"+1,660",0.0
+2026-10-31,52,2026-10-31 | Sacred Heart | Stony Brook,Stony Brook,-10.5,0.0,-506,6.0
+2026-10-31,57,2026-10-31 | Merrimack | Wagner,Wagner,+15.5,10.0,+520,0.0
 2026-10-31,58,2026-10-31 | Duquesne | New Haven,New Haven,+4.5,0.0,+170,0.0
-2026-10-31,59,2026-10-31 | Mercyhurst | Stonehill College,Mercyhurst,+5.5,0.0,+215,0.0
 2026-10-31,60,2026-10-31 | Lafayette | Villanova,Lafayette,+7,3.0,+234,0.0
-2026-10-31,61,2026-10-31 | Chattanooga | VMI,Chattanooga,-35.5,0.0,-,0.0
+2026-10-31,61,2026-10-31 | Chattanooga | VMI,Chattanooga,-35.5,18.0,-,0.0
 2026-10-31,62,2026-10-31 | Drake | Morehead ST,Morehead ST,+10,0.0,+311,0.0
 2026-10-31,63,2026-10-31 | Hampton | Towson,Hampton,+18.5,0.0,+640,0.0
 2026-10-31,64,2026-10-31 | Colgate | William & Mary,William & Mary,+11.5,15.0,+325,0.0
@@ -46,14 +45,14 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,90,2026-10-31 | Idaho ST | Utah Tech,Idaho ST,-,0.0,"-1,420",1.0
 2026-10-31,91,2026-10-31 | Alabama A&M | Alabama ST,Alabama ST,+6,2.0,+190,0.0
 2026-10-31,94,2026-10-31 | E Washington | Montana,Montana,-11.5,11.0,-426,5.0
-2026-10-31,97,2026-10-31 | Marist | San Diego,San Diego,-4.5,0.0,-225,3.0
+2026-10-31,97,2026-10-31 | Marist | San Diego,San Diego,-4.5,0.0,-225,30.0
 2026-10-31,98,2026-10-31 | Abilene Christian | W Georgia,W Georgia,+15.5,26.0,+468,0.0
 2026-10-31,99,2026-10-31 | C Arkansas | N Alabama,N Alabama,-,0.0,-130,10.0
 2026-10-31,100,2026-10-31 | Samford | Wofford,Samford,-,0.0,+150,0.0
 2026-10-31,101,2026-10-31 | E Kentucky | Tarleton ST,E Kentucky,+24.5,0.0,"+1,140",0.0
 2026-10-31,102,2026-10-31 | Lamar | UTRGV,UTRGV,+4.5,6.0,+150,0.0
 2026-10-31,103,2026-10-31 | Grambling ST | Texas Southern,Grambling ST,-7,0.0,-308,0.0
-2026-11-06,1,2026-11-06 | (19) SMU Mustangs | Virginia Tech Hokies,(19) SMU Mustangs,-7.5,2.0,-278,33.0
+2026-11-06,1,2026-11-06 | (19) SMU Mustangs | Virginia Tech Hokies,(19) SMU Mustangs,-7.5,2.0,-278,34.0
 2026-11-07,2,2026-11-07 | (10) Alabama Crimson Tide | (15) LSU Tigers,(15) LSU Tigers,-4.5,0.0,-175,0.0
 2026-11-07,3,2026-11-07 | Michigan ST Spartans | Michigan Wolverines,Michigan Wolverines,-14,0.0,-700,38.0
 2026-11-07,4,2026-11-07 | (7) UCLA Bruins | Minnesota Golden Gophers,(7) UCLA Bruins,-6.5,1.0,-238,1.0
