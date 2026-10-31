@@ -11,9 +11,10 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,23,2026-10-31 | N Dakota ST | UTEP Miners,UTEP Miners,+23.5,24.0,"+1,200",10.0
 2026-10-31,26,2026-10-31 | (4) Indiana Hoosiers | Minnesota Golden Gophers,Minnesota Golden Gophers,+20.5,30.0,+850,23.0
 2026-10-31,32,2026-10-31 | Penn ST Nittany Lions | Purdue Boilermakers,Purdue Boilermakers,+10,32.0,+295,30.0
-2026-10-31,36,2026-10-31 | (24) Oklahoma ST Cowboys | Iowa ST Cyclones,Iowa ST Cyclones,+9.5,23.0,+295,25.0
-2026-10-31,40,2026-10-31 | (11) Texas Longhorns | Mississippi ST Bulldogs,Mississippi ST Bulldogs,+20.5,37.0,+850,13.0
-2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+10.5,29.0,+340,16.0
+2026-10-31,36,2026-10-31 | (24) Oklahoma ST Cowboys | Iowa ST Cyclones,Iowa ST Cyclones,+9.5,22.0,+295,24.0
+2026-10-31,40,2026-10-31 | (11) Texas Longhorns | Mississippi ST Bulldogs,Mississippi ST Bulldogs,+20.5,37.0,+800,13.0
+2026-10-31,41,2026-10-31 | (2) Ohio ST Buckeyes | USC Trojans,USC Trojans,+6.5,39.0,+200,26.0
+2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+10.5,28.0,+340,15.0
 2026-10-31,48,2026-10-31 | N Dakota | Youngstown ST,N Dakota,+5.5,34.0,+190,9.0
 2026-10-31,49,2026-10-31 | Maine | Rhode Island,Rhode Island,-10.5,0.0,-394,20.0
 2026-10-31,50,2026-10-31 | C Conn ST | Robert Morris,C Conn ST,-8.5,7.0,-317,21.0
@@ -38,7 +39,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,91,2026-10-31 | Alabama A&M | Alabama ST,Alabama ST,+7,0.0,+194,0.0
 2026-10-31,95,2026-10-31 | S Dakota | S Dakota ST,S Dakota,+7,33.0,+197,0.0
 2026-10-31,97,2026-10-31 | Marist | San Diego,San Diego,-4.5,29.0,-185,18.0
-2026-10-31,100,2026-10-31 | Samford | Wofford,Wofford,-5.5,0.0,-217,12.0
+2026-10-31,100,2026-10-31 | Samford | Wofford,Wofford,-5.5,0.0,-217,15.0
 2026-10-31,101,2026-10-31 | E Kentucky | Tarleton ST,E Kentucky,+24.5,5.0,"+1,140",3.0
 2026-10-31,103,2026-10-31 | Grambling ST | Texas Southern,Grambling ST,-4.5,0.0,-190,6.0
 2026-11-07,2,2026-11-07 | (10) Alabama Crimson Tide | (15) LSU Tigers,(15) LSU Tigers,-4.5,0.0,-175,16.0
