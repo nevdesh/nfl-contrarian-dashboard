@@ -17,8 +17,9 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,40,2026-10-31 | (1) Miami FL Hurricanes | North Carolina Tar Heels,North Carolina Tar Heels,+13.5,33.0,+400,22.0
 2026-10-31,42,2026-10-31 | (11) Texas Longhorns | Mississippi ST Bulldogs,Mississippi ST Bulldogs,+19.5,16.0,+800,10.0
 2026-10-31,43,2026-10-31 | Army Black Nights | Memphis Tigers,Army Black Nights,+6,39.0,+180,9.0
-2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+10,24.0,+320,10.0
-2026-10-31,46,2026-10-31 | N Illinois Huskies | UNLV Rebels,N Illinois Huskies,+21.5,35.0,"+1,100",15.0
+2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+10,29.0,+320,9.0
+2026-10-31,46,2026-10-31 | N Illinois Huskies | UNLV Rebels,N Illinois Huskies,+21.5,28.0,"+1,100",20.0
+2026-10-31,47,2026-10-31 | Fresno ST Bulldogs | Oregon ST Beavers,Fresno ST Bulldogs,+6,35.0,+185,13.0
 2026-10-31,48,2026-10-31 | N Dakota | Youngstown ST,N Dakota,+5.5,34.0,+190,9.0
 2026-10-31,49,2026-10-31 | Maine | Rhode Island,Rhode Island,-10.5,0.0,-394,20.0
 2026-10-31,50,2026-10-31 | C Conn ST | Robert Morris,C Conn ST,-8.5,7.0,-317,21.0
@@ -46,16 +47,14 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,100,2026-10-31 | Samford | Wofford,Wofford,-5.5,1.0,-217,36.0
 2026-10-31,101,2026-10-31 | E Kentucky | Tarleton ST,E Kentucky,+24.5,8.0,"+1,140",6.0
 2026-10-31,103,2026-10-31 | Grambling ST | Texas Southern,Grambling ST,-4.5,0.0,-190,6.0
-2026-11-03,1,2026-11-03 | Akron Zips | Ohio Bobcats,Akron Zips,+12.5,0.0,+360,3.0
-2026-11-03,2,2026-11-03 | Buffalo Bulls | Miami OH RedHawks,Buffalo Bulls,+6.5,0.0,+190,1.0
-2026-11-04,1,2026-11-04 | C Michigan Chippewas | E Michigan Eagles,C Michigan Chippewas,-,0.0,-102,10.0
-2026-11-04,2,2026-11-04 | Sacramento ST | Toledo Rockets,Toledo Rockets,-,0.0,"-3,600",5.0
-2026-11-05,1,2026-11-05 | FL Atlantic Owls | Texas-San Antonio Roadrunners,FL Atlantic Owls,-,0.0,+190,14.0
-2026-11-05,2,2026-11-05 | James Madison | Southern Miss Golden Eagles,Southern Miss Golden Eagles,-,0.0,+440,11.0
+2026-11-04,1,2026-11-04 | C Michigan Chippewas | E Michigan Eagles,C Michigan Chippewas,+1.5,0.0,-102,10.0
+2026-11-04,2,2026-11-04 | Sacramento ST | Toledo Rockets,Toledo Rockets,-,0.0,"-3,600",4.0
+2026-11-05,1,2026-11-05 | FL Atlantic Owls | Texas-San Antonio Roadrunners,FL Atlantic Owls,-,0.0,+190,17.0
+2026-11-05,2,2026-11-05 | James Madison | Southern Miss Golden Eagles,Southern Miss Golden Eagles,-,0.0,+440,20.0
 2026-11-07,3,2026-11-07 | Michigan ST Spartans | Michigan Wolverines,Michigan Wolverines,-14,3.0,-700,36.0
 2026-11-07,6,2026-11-07 | (11) Texas Longhorns | (23) Missouri Tigers,(23) Missouri Tigers,+3.5,5.0,+142,0.0
 2026-11-07,9,2026-11-07 | (16) Tennessee Volunteers | (9) Kentucky Wildcats,(9) Kentucky Wildcats,+5.5,12.0,+164,26.0
-2026-11-07,10,2026-11-07 | (6) Utah Utes | (8) BYU Cougars,(6) Utah Utes,-4.5,2.0,-175,23.0
+2026-11-07,10,2026-11-07 | (6) Utah Utes | (8) BYU Cougars,(6) Utah Utes,-4.5,2.0,-175,19.0
 2026-11-07,11,2026-11-07 | Air Force Falcons | Army Black Nights,Air Force Falcons,+5.5,12.0,+170,0.0
 2026-11-07,12,2026-11-07 | (1) Miami FL Hurricanes | (5) Notre Dame Fighting Irish,(1) Miami FL Hurricanes,+3.5,36.0,+140,36.0
 2026-11-14,1,2026-11-14 | Indiana Hoosiers | USC Trojans,Indiana Hoosiers,-10,0.0,-455,0.0
