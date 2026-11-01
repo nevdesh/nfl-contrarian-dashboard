@@ -13,10 +13,11 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,32,2026-10-31 | Penn ST Nittany Lions | Purdue Boilermakers,Purdue Boilermakers,+10,32.0,+295,30.0
 2026-10-31,34,2026-10-31 | Appalachian ST Mountaineers | Georgia Southern Eagles,Appalachian ST Mountaineers,+6,29.0,+185,38.0
 2026-10-31,36,2026-10-31 | (24) Oklahoma ST Cowboys | Iowa ST Cyclones,Iowa ST Cyclones,+10,34.0,+295,23.0
-2026-10-31,38,2026-10-31 | (1) Miami FL Hurricanes | North Carolina Tar Heels,North Carolina Tar Heels,+13.5,38.0,+440,25.0
-2026-10-31,39,2026-10-31 | Georgia Tech Yellow Jackets | Pittsburgh Panthers,Georgia Tech Yellow Jackets,+8.5,22.0,+260,32.0
-2026-10-31,40,2026-10-31 | (11) Texas Longhorns | Mississippi ST Bulldogs,Mississippi ST Bulldogs,+19.5,23.0,+800,11.0
-2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+10.5,33.0,+330,13.0
+2026-10-31,39,2026-10-31 | Georgia Tech Yellow Jackets | Pittsburgh Panthers,Georgia Tech Yellow Jackets,+9.5,23.0,+270,33.0
+2026-10-31,40,2026-10-31 | (1) Miami FL Hurricanes | North Carolina Tar Heels,North Carolina Tar Heels,+13.5,33.0,+400,22.0
+2026-10-31,42,2026-10-31 | (11) Texas Longhorns | Mississippi ST Bulldogs,Mississippi ST Bulldogs,+19.5,16.0,+800,10.0
+2026-10-31,43,2026-10-31 | Army Black Nights | Memphis Tigers,Army Black Nights,+6,39.0,+180,9.0
+2026-10-31,45,2026-10-31 | (20) Boise ST Broncos | Texas ST Bobcats,Texas ST Bobcats,+10,29.0,+330,11.0
 2026-10-31,48,2026-10-31 | N Dakota | Youngstown ST,N Dakota,+5.5,34.0,+190,9.0
 2026-10-31,49,2026-10-31 | Maine | Rhode Island,Rhode Island,-10.5,0.0,-394,20.0
 2026-10-31,50,2026-10-31 | C Conn ST | Robert Morris,C Conn ST,-8.5,7.0,-317,21.0
@@ -44,10 +45,9 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,100,2026-10-31 | Samford | Wofford,Wofford,-5.5,1.0,-217,36.0
 2026-10-31,101,2026-10-31 | E Kentucky | Tarleton ST,E Kentucky,+24.5,8.0,"+1,140",6.0
 2026-10-31,103,2026-10-31 | Grambling ST | Texas Southern,Grambling ST,-4.5,0.0,-190,6.0
-2026-11-03,1,2026-11-03 | Akron Zips | Ohio Bobcats,Akron Zips,-,0.0,+360,8.0
-2026-11-03,2,2026-11-03 | Buffalo Bulls | Miami OH RedHawks,Buffalo Bulls,-,0.0,+190,2.0
+2026-11-03,1,2026-11-03 | Akron Zips | Ohio Bobcats,Akron Zips,+12.5,0.0,+360,2.0
+2026-11-03,2,2026-11-03 | Buffalo Bulls | Miami OH RedHawks,Buffalo Bulls,+6.5,0.0,+190,0.0
 2026-11-04,1,2026-11-04 | C Michigan Chippewas | E Michigan Eagles,E Michigan Eagles,-,0.0,-118,0.0
-2026-11-04,2,2026-11-04 | Ball ST Cardinals | Massachusetts Minutemen,Ball ST Cardinals,-,0.0,+150,2.0
 2026-11-07,2,2026-11-07 | (10) Alabama Crimson Tide | (15) LSU Tigers,(15) LSU Tigers,-4.5,0.0,-175,15.0
 2026-11-07,3,2026-11-07 | Michigan ST Spartans | Michigan Wolverines,Michigan Wolverines,-14,3.0,-700,36.0
 2026-11-07,6,2026-11-07 | (11) Texas Longhorns | (23) Missouri Tigers,(23) Missouri Tigers,+3.5,5.0,+142,0.0
