@@ -47,15 +47,16 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-10-31,100,2026-10-31 | Samford | Wofford,Wofford,-5.5,1.0,-217,36.0
 2026-10-31,101,2026-10-31 | E Kentucky | Tarleton ST,E Kentucky,+24.5,8.0,"+1,140",6.0
 2026-10-31,103,2026-10-31 | Grambling ST | Texas Southern,Grambling ST,-4.5,0.0,-190,6.0
+2026-11-03,1,2026-11-03 | Akron Zips | Ohio Bobcats,Akron Zips,+12.5,0.0,+360,35.0
 2026-11-04,1,2026-11-04 | C Michigan Chippewas | E Michigan Eagles,C Michigan Chippewas,+1.5,0.0,-102,10.0
-2026-11-04,2,2026-11-04 | Sacramento ST | Toledo Rockets,Toledo Rockets,-,0.0,"-3,600",1.0
+2026-11-04,2,2026-11-04 | Sacramento ST | Toledo Rockets,Sacramento ST,-,0.0,"+1,500",15.0
 2026-11-05,1,2026-11-05 | FL Atlantic Owls | Texas-San Antonio Roadrunners,FL Atlantic Owls,+6.5,0.0,+190,14.0
-2026-11-05,2,2026-11-05 | James Madison | Southern Miss Golden Eagles,Southern Miss Golden Eagles,-,0.0,+440,4.0
-2026-11-07,3,2026-11-07 | Michigan ST Spartans | Michigan Wolverines,Michigan Wolverines,-14,3.0,-700,36.0
-2026-11-07,6,2026-11-07 | (11) Texas Longhorns | (23) Missouri Tigers,(23) Missouri Tigers,+3.5,5.0,+142,0.0
-2026-11-07,10,2026-11-07 | (6) Utah Utes | (8) BYU Cougars,(6) Utah Utes,-4.5,1.0,-175,19.0
+2026-11-07,3,2026-11-07 | Michigan ST Spartans | Michigan Wolverines,Michigan Wolverines,-14.5,3.0,-700,36.0
+2026-11-07,5,2026-11-07 | (12) Ole Miss Rebels | (3) Georgia Bulldogs,(12) Ole Miss Rebels,+3,31.0,+114,12.0
+2026-11-07,7,2026-11-07 | (20) Northwestern Wildcats | Iowa Hawkies,(20) Northwestern Wildcats,-1.5,27.0,-115,18.0
+2026-11-07,10,2026-11-07 | (6) Utah Utes | (8) BYU Cougars,(6) Utah Utes,-4.5,1.0,-175,17.0
 2026-11-07,11,2026-11-07 | Air Force Falcons | Army Black Nights,Air Force Falcons,+5.5,12.0,+170,0.0
-2026-11-07,12,2026-11-07 | (1) Miami FL Hurricanes | (5) Notre Dame Fighting Irish,(1) Miami FL Hurricanes,+3.5,36.0,+140,36.0
+2026-11-07,12,2026-11-07 | (1) Miami FL Hurricanes | (5) Notre Dame Fighting Irish,(1) Miami FL Hurricanes,+3.5,36.0,+130,36.0
 2026-11-14,1,2026-11-14 | Indiana Hoosiers | USC Trojans,Indiana Hoosiers,-10,0.0,-455,0.0
 2026-11-14,2,2026-11-14 | LSU Tigers | Texas Longhorns,Texas Longhorns,-2.5,0.0,-,0.0
 2026-11-14,3,2026-11-14 | Duke Blue Devils | Miami FL Hurricanes,Miami FL Hurricanes,-21,0.0,-,0.0
