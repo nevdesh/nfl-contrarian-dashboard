@@ -1,33 +1,33 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-11-03,1,2026-11-03 | Akron Zips | Ohio Bobcats,Akron Zips,+12.5,29.0,+380,8.0
-2026-11-04,2,2026-11-04 | Ball ST Cardinals | Massachusetts Minutemen,Ball ST Cardinals,+3,16.0,+136,25.0
-2026-11-04,3,2026-11-04 | C Michigan Chippewas | E Michigan Eagles,C Michigan Chippewas,+1.5,12.0,-102,37.0
-2026-11-05,2,2026-11-05 | James Madison | Southern Miss Golden Eagles,Southern Miss Golden Eagles,+14.5,29.0,+470,2.0
+2026-11-03,1,2026-11-03 | Akron Zips | Ohio Bobcats,Akron Zips,+12.5,25.0,+370,8.0
+2026-11-04,2,2026-11-04 | Ball ST Cardinals | Massachusetts Minutemen,Ball ST Cardinals,+3,15.0,+136,26.0
+2026-11-04,3,2026-11-04 | C Michigan Chippewas | E Michigan Eagles,C Michigan Chippewas,+1.5,2.0,-102,36.0
+2026-11-05,2,2026-11-05 | James Madison | Southern Miss Golden Eagles,Southern Miss Golden Eagles,+14.5,26.0,+490,2.0
 2026-11-06,3,2026-11-06 | Illinois Fighting Illini | Nebraska Cornhuskers,Nebraska Cornhuskers,-4.5,25.0,-198,30.0
 2026-11-07,2,2026-11-07 | Boston College Eagles | Florida ST Seminoles,Boston College Eagles,+6.5,1.0,+210,1.0
 2026-11-07,5,2026-11-07 | (10) Texas Longhorns | (19) Missouri Tigers,(19) Missouri Tigers,+2.5,37.0,+120,19.0
-2026-11-07,7,2026-11-07 | Tulane Green Wave | Tulsa Golden Hurricane,Tulsa Golden Hurricane,-1.5,17.0,-122,3.0
-2026-11-07,8,2026-11-07 | (3) Utah Utes | (7) BYU Cougars,(3) Utah Utes,-5.5,22.0,-205,37.0
-2026-11-07,10,2026-11-07 | Maryland Terrapins | Purdue Boilermakers,Purdue Boilermakers,-6.5,32.0,-245,25.0
+2026-11-07,7,2026-11-07 | Tulane Green Wave | Tulsa Golden Hurricane,Tulsa Golden Hurricane,-1.5,17.0,-122,4.0
+2026-11-07,10,2026-11-07 | Maryland Terrapins | Purdue Boilermakers,Purdue Boilermakers,-6,32.0,-245,25.0
 2026-11-07,11,2026-11-07 | Arkansas Razorbacks | Auburn Tigers,Arkansas Razorbacks,+10.5,34.0,+320,13.0
-2026-11-07,12,2026-11-07 | Kansas ST Wildcats | Oklahoma ST Cowboys,Kansas ST Wildcats,+4.5,0.0,+180,18.0
 2026-11-07,14,2026-11-07 | Appalachian ST Mountaineers | Georgia ST Panthers,Georgia ST Panthers,+5.5,2.0,+170,5.0
-2026-11-07,15,2026-11-07 | Arkansas ST Red Wolves | LA Monroe Warhawks,LA Monroe Warhawks,+14.5,0.0,+500,20.0
+2026-11-07,15,2026-11-07 | Arkansas ST Red Wolves | LA Monroe Warhawks,LA Monroe Warhawks,+14.5,0.0,+500,19.0
 2026-11-07,20,2026-11-07 | Middle Tenn ST Blue Raiders | W Kentucky Hilltoppers,Middle Tenn ST Blue Raiders,-1.5,3.0,-112,12.0
 2026-11-07,23,2026-11-07 | Charlotte 49ers | UAB Blazers,Charlotte 49ers,+8.5,0.0,+285,30.0
 2026-11-07,24,2026-11-07 | Penn ST Nittany Lions | Washington Huskies,Penn ST Nittany Lions,+2.5,36.0,+102,38.0
 2026-11-07,25,2026-11-07 | Georgia Southern Eagles | Marshall Thundering Herd,Marshall Thundering Herd,+10.5,28.0,+310,1.0
 2026-11-07,26,2026-11-07 | Kansas Jayhawks | UCF Knights,UCF Knights,+2.5,12.0,+120,19.0
-2026-11-07,28,2026-11-07 | North Texas Mean Green | Rice Owls,Rice Owls,+16.5,18.0,+600,10.0
-2026-11-07,29,2026-11-07 | N Illinois Huskies | San Jose ST Spartans,San Jose ST Spartans,-10,2.0,-395,6.0
-2026-11-07,30,2026-11-07 | Louisiana Tech Bulldogs | Troy Trojans,Louisiana Tech Bulldogs,-4.5,25.0,-198,15.0
+2026-11-07,28,2026-11-07 | North Texas Mean Green | Rice Owls,Rice Owls,+16.5,18.0,+600,9.0
+2026-11-07,29,2026-11-07 | N Illinois Huskies | San Jose ST Spartans,San Jose ST Spartans,-10,36.0,-395,6.0
+2026-11-07,30,2026-11-07 | Louisiana Tech Bulldogs | Troy Trojans,Louisiana Tech Bulldogs,-4.5,26.0,-198,16.0
 2026-11-07,31,2026-11-07 | Mississippi ST Bulldogs | Vanderbilt Commodores,Vanderbilt Commodores,+3,26.0,+130,10.0
 2026-11-07,33,2026-11-07 | Louisiana Ragin Cajuns | S Alabama Jaguars,S Alabama Jaguars,+8.5,0.0,+260,1.0
-2026-11-07,34,2026-11-07 | (20) Boise ST Broncos | Colorado ST Rams,(20) Boise ST Broncos,-17.5,18.0,-950,34.0
+2026-11-07,34,2026-11-07 | (20) Boise ST Broncos | Colorado ST Rams,(20) Boise ST Broncos,-17.5,18.0,-950,36.0
+2026-11-07,35,2026-11-07 | (16) Tennessee Volunteers | (8) Kentucky Wildcats,(8) Kentucky Wildcats,+6.5,31.0,+195,19.0
 2026-11-07,36,2026-11-07 | Jacksonville ST | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+16.5,0.0,+575,1.0
 2026-11-07,37,2026-11-07 | Arizona ST Sun Devils | Colorado Buffaloes,Colorado Buffaloes,+3,18.0,+136,4.0
+2026-11-07,39,2026-11-07 | Georgia Tech Yellow Jackets | Louisville Cardinals,Georgia Tech Yellow Jackets,+14.5,6.0,+490,33.0
 2026-11-07,41,2026-11-07 | (12) Ole Miss Rebels | (2) Georgia Bulldogs,(12) Ole Miss Rebels,+3.5,32.0,+145,38.0
-2026-11-07,45,2026-11-07 | Liberty Flames | New Mexico ST Aggies,New Mexico ST Aggies,+16.5,0.0,+575,36.0
+2026-11-07,45,2026-11-07 | Liberty Flames | New Mexico ST Aggies,New Mexico ST Aggies,+16.5,0.0,+575,34.0
 2026-11-14,1,2026-11-14 | Indiana Hoosiers | USC Trojans,Indiana Hoosiers,-10,0.0,-455,0.0
 2026-11-14,2,2026-11-14 | LSU Tigers | Texas Longhorns,Texas Longhorns,-2.5,0.0,-,0.0
 2026-11-14,3,2026-11-14 | Duke Blue Devils | Miami FL Hurricanes,Miami FL Hurricanes,-21,0.0,-,0.0
