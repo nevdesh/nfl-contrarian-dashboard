@@ -22,7 +22,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-07,36,2026-11-07 | (16) Tennessee Volunteers | (8) Kentucky Wildcats,(8) Kentucky Wildcats,+6.5,32.0,+195,24.0
 2026-11-07,37,2026-11-07 | Jacksonville ST | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+17.5,0.0,+575,1.0
 2026-11-07,38,2026-11-07 | Arizona ST Sun Devils | Colorado Buffaloes,Colorado Buffaloes,+3,15.0,+136,4.0
-2026-11-07,40,2026-11-07 | Georgia Tech Yellow Jackets | Louisville Cardinals,Georgia Tech Yellow Jackets,+14.5,5.0,+490,28.0
+2026-11-07,40,2026-11-07 | Georgia Tech Yellow Jackets | Louisville Cardinals,Georgia Tech Yellow Jackets,+14.5,5.0,+490,26.0
 2026-11-07,46,2026-11-07 | Liberty Flames | New Mexico ST Aggies,New Mexico ST Aggies,+16.5,6.0,+575,31.0
 2026-11-07,48,2026-11-07 | Hawaii Rainbow Warriors | UTEP Miners,UTEP Miners,+9.5,39.0,+275,0.0
 2026-11-13,1,2026-11-13 | (5) UCLA Bruins | Illinois Fighting Illini,Illinois Fighting Illini,-,0.0,+380,0.0
@@ -37,5 +37,4 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-14,9,2026-11-14 | (11) Ohio ST Buckeyes | Northwestern Wildcats,Northwestern Wildcats,-,0.0,+295,0.0
 2026-11-14,10,2026-11-14 | Oklahoma Sooners | Ole Miss Rebels,Ole Miss Rebels,-,0.0,+164,0.0
 2026-11-14,12,2026-11-14 | Michigan Wolverines | Oregon Ducks,Michigan Wolverines,+5.5,0.0,+170,0.0
-2026-11-14,13,2026-11-14 | (14) Wake Forest Demon Deacons | SMU Mustangs,(14) Wake Forest Demon Deacons,-3.5,0.0,-,0.0
 2026-11-14,14,2026-11-14 | Tennessee Volunteers | Texas A&M Aggies,Texas A&M Aggies,-8.5,0.0,-,0.0
