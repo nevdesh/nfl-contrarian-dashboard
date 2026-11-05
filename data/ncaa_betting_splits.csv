@@ -1,20 +1,20 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-11-05,1,2026-11-05 | FL Atlantic Owls | Texas-San Antonio Roadrunners,Texas-San Antonio Roadrunners,-6.5,28.0,-265,37.0
-2026-11-05,2,2026-11-05 | James Madison | Southern Miss Golden Eagles,Southern Miss Golden Eagles,+13.5,29.0,+425,7.0
+2026-11-05,1,2026-11-05 | FL Atlantic Owls | Texas-San Antonio Roadrunners,Texas-San Antonio Roadrunners,-6.5,31.0,-265,33.0
+2026-11-05,2,2026-11-05 | James Madison | Southern Miss Golden Eagles,Southern Miss Golden Eagles,+13.5,25.0,+425,27.0
 2026-11-05,3,2026-11-05 | Howard | S Carolina ST,Howard,+19.5,5.0,+820,0.0
-2026-11-06,2,2026-11-06 | East Carolina Pirates | South Florida Bulls,South Florida Bulls,+2.5,27.0,+114,14.0
+2026-11-06,2,2026-11-06 | East Carolina Pirates | South Florida Bulls,South Florida Bulls,+2.5,24.0,+114,14.0
 2026-11-06,3,2026-11-06 | Illinois Fighting Illini | Nebraska Cornhuskers,Nebraska Cornhuskers,-4.5,30.0,-198,33.0
-2026-11-07,2,2026-11-07 | Boston College Eagles | Florida ST Seminoles,Boston College Eagles,+6.5,15.0,+200,16.0
+2026-11-07,2,2026-11-07 | Boston College Eagles | Florida ST Seminoles,Boston College Eagles,+6.5,15.0,+200,23.0
 2026-11-07,5,2026-11-07 | (10) Texas Longhorns | (19) Missouri Tigers,(19) Missouri Tigers,+2.5,37.0,+120,26.0
 2026-11-07,9,2026-11-07 | Duke Blue Devils | NC State Wolfpack,NC State Wolfpack,+4,38.0,+160,31.0
-2026-11-07,11,2026-11-07 | Arkansas Razorbacks | Auburn Tigers,Arkansas Razorbacks,+10,23.0,+320,26.0
+2026-11-07,11,2026-11-07 | Arkansas Razorbacks | Auburn Tigers,Arkansas Razorbacks,+10,23.0,+320,25.0
 2026-11-07,13,2026-11-07 | Coastal Carolina Chanticleers | Old Dominion Monarchs,Old Dominion Monarchs,+6.5,16.0,+205,2.0
 2026-11-07,14,2026-11-07 | Appalachian ST Mountaineers | Georgia ST Panthers,Georgia ST Panthers,+6,13.0,+190,6.0
 2026-11-07,15,2026-11-07 | Arkansas ST Red Wolves | LA Monroe Warhawks,LA Monroe Warhawks,+14.5,31.0,+500,4.0
-2026-11-07,17,2026-11-07 | Delaware | Kennesaw ST,Kennesaw ST,+1.5,2.0,+102,24.0
-2026-11-07,23,2026-11-07 | Charlotte 49ers | UAB Blazers,Charlotte 49ers,+8.5,11.0,+275,16.0
+2026-11-07,17,2026-11-07 | Delaware | Kennesaw ST,Kennesaw ST,+1.5,2.0,+102,23.0
+2026-11-07,23,2026-11-07 | Charlotte 49ers | UAB Blazers,Charlotte 49ers,+8.5,10.0,+275,16.0
 2026-11-07,24,2026-11-07 | (14) Wake Forest Demon Deacons | Merrimack,Merrimack,+47.5,2.0,-,0.0
-2026-11-07,27,2026-11-07 | Kansas Jayhawks | UCF Knights,UCF Knights,+2.5,4.0,+120,19.0
+2026-11-07,27,2026-11-07 | Kansas Jayhawks | UCF Knights,UCF Knights,+3,4.0,+120,19.0
 2026-11-07,29,2026-11-07 | North Texas Mean Green | Rice Owls,Rice Owls,+17.5,20.0,+600,4.0
 2026-11-07,34,2026-11-07 | Louisiana Ragin Cajuns | S Alabama Jaguars,S Alabama Jaguars,+7.5,9.0,+250,1.0
 2026-11-07,36,2026-11-07 | (16) Tennessee Volunteers | (8) Kentucky Wildcats,(8) Kentucky Wildcats,+6.5,32.0,+195,25.0
@@ -26,7 +26,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-14,1,2026-11-14 | (24) Arizona Wildcats | (3) Utah Utes,(24) Arizona Wildcats,-,0.0,-102,0.0
 2026-11-14,2,2026-11-14 | (7) BYU Cougars | Baylor Bears,Baylor Bears,+7,0.0,+230,0.0
 2026-11-14,4,2026-11-14 | (18) USC Trojans | (6) Indiana Hoosiers,(6) Indiana Hoosiers,-7,0.0,-285,2.0
-2026-11-14,5,2026-11-14 | (25) Florida Gators | (8) Kentucky Wildcats,(25) Florida Gators,-,0.0,+100,0.0
+2026-11-14,5,2026-11-14 | (25) Florida Gators | (8) Kentucky Wildcats,(25) Florida Gators,+1.5,0.0,+100,0.0
 2026-11-14,6,2026-11-14 | (10) Texas Longhorns | (15) LSU Tigers,(10) Texas Longhorns,+5.5,0.0,-,0.0
 2026-11-14,7,2026-11-14 | Duke Blue Devils | Miami FL Hurricanes,Miami FL Hurricanes,-21,0.0,-,0.0
 2026-11-14,8,2026-11-14 | Louisville Cardinals | North Carolina Tar Heels,North Carolina Tar Heels,-,0.0,+114,0.0
