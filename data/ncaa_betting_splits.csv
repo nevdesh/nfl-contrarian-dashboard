@@ -1,42 +1,58 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-11-06,4,2026-11-06 | (22) New Mexico Lobos | Nevada Wolf Pack,Nevada Wolf Pack,+10,33.0,+320,17.0
-2026-11-06,5,2026-11-06 | (24) Arizona Wildcats | TCU horned Frogs,TCU horned Frogs,+7,37.0,+230,12.0
+2026-11-06,2,2026-11-06 | East Carolina Pirates | South Florida Bulls,South Florida Bulls,-1.5,29.0,-108,39.0
+2026-11-06,4,2026-11-06 | (22) New Mexico Lobos | Nevada Wolf Pack,Nevada Wolf Pack,+10,35.0,+320,17.0
 2026-11-07,3,2026-11-07 | Connecticut Huskies | North Carolina Tar Heels,North Carolina Tar Heels,-7.5,30.0,-305,32.0
-2026-11-07,11,2026-11-07 | Arkansas Razorbacks | Auburn Tigers,Arkansas Razorbacks,+10.5,20.0,+310,16.0
-2026-11-07,13,2026-11-07 | Coastal Carolina Chanticleers | Old Dominion Monarchs,Old Dominion Monarchs,+6.5,21.0,+205,35.0
-2026-11-07,14,2026-11-07 | Appalachian ST Mountaineers | Georgia ST Panthers,Georgia ST Panthers,+6.5,13.0,+190,5.0
+2026-11-07,11,2026-11-07 | Arkansas Razorbacks | Auburn Tigers,Arkansas Razorbacks,+10.5,28.0,+310,15.0
+2026-11-07,13,2026-11-07 | Coastal Carolina Chanticleers | Old Dominion Monarchs,Old Dominion Monarchs,+6.5,21.0,+205,34.0
+2026-11-07,14,2026-11-07 | Appalachian ST Mountaineers | Georgia ST Panthers,Georgia ST Panthers,+6.5,12.0,+190,5.0
 2026-11-07,15,2026-11-07 | Arkansas ST Red Wolves | LA Monroe Warhawks,LA Monroe Warhawks,+14.5,20.0,+500,13.0
 2026-11-07,17,2026-11-07 | Delaware | Kennesaw ST,Kennesaw ST,+1.5,2.0,+102,12.0
-2026-11-07,24,2026-11-07 | (14) Wake Forest Demon Deacons | Merrimack,Merrimack,+47.5,12.0,-,0.0
+2026-11-07,24,2026-11-07 | (14) Wake Forest Demon Deacons | Merrimack,Merrimack,+47.5,16.0,-,0.0
 2026-11-07,27,2026-11-07 | Kansas Jayhawks | UCF Knights,UCF Knights,+3,4.0,+136,19.0
 2026-11-07,29,2026-11-07 | North Texas Mean Green | Rice Owls,Rice Owls,+16.5,32.0,+550,31.0
 2026-11-07,35,2026-11-07 | (20) Boise ST Broncos | Colorado ST Rams,(20) Boise ST Broncos,-17.5,11.0,-950,30.0
-2026-11-07,36,2026-11-07 | (16) Tennessee Volunteers | (8) Kentucky Wildcats,(8) Kentucky Wildcats,+5.5,30.0,+170,28.0
+2026-11-07,36,2026-11-07 | (16) Tennessee Volunteers | (8) Kentucky Wildcats,(8) Kentucky Wildcats,+5.5,29.0,+170,29.0
 2026-11-07,37,2026-11-07 | Jacksonville ST | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+16.5,0.0,+550,37.0
 2026-11-07,38,2026-11-07 | Arizona ST Sun Devils | Colorado Buffaloes,Colorado Buffaloes,+3.5,5.0,+136,6.0
-2026-11-07,41,2026-11-07 | Michigan ST Spartans | Michigan Wolverines,Michigan Wolverines,-14.5,38.0,-625,30.0
-2026-11-07,48,2026-11-07 | Hawaii Rainbow Warriors | UTEP Miners,Hawaii Rainbow Warriors,-8.5,35.0,-345,32.0
-2026-11-07,49,2026-11-07 | Fresno ST Bulldogs | Utah ST Aggies,Fresno ST Bulldogs,-1.5,28.0,-130,11.0
-2026-11-07,51,2026-11-07 | UNLV Rebels | Wyoming Cowboys,UNLV Rebels,-4.5,24.0,-198,29.0
+2026-11-07,41,2026-11-07 | Michigan ST Spartans | Michigan Wolverines,Michigan Wolverines,-14.5,37.0,-625,29.0
+2026-11-07,48,2026-11-07 | Hawaii Rainbow Warriors | UTEP Miners,Hawaii Rainbow Warriors,-8.5,35.0,-345,33.0
+2026-11-07,49,2026-11-07 | Fresno ST Bulldogs | Utah ST Aggies,Fresno ST Bulldogs,-1.5,28.0,-118,8.0
+2026-11-07,51,2026-11-07 | UNLV Rebels | Wyoming Cowboys,UNLV Rebels,-4.5,24.0,-198,23.0
 2026-11-07,52,2026-11-07 | Colgate | Lehigh,Lehigh,-4,0.0,-181,0.0
-2026-11-07,53,2026-11-07 | Duquesne | Robert Morris,Robert Morris,+10,0.0,-,0.0
-2026-11-07,54,2026-11-07 | Marist | Morehead ST,Marist,-16.5,0.0,-,0.0
-2026-11-07,55,2026-11-07 | Dartmouth | Princeton,Dartmouth,-,0.0,-114,0.0
-2026-11-07,56,2026-11-07 | Sacred Heart | Towson,Sacred Heart,-1.5,0.0,-,0.0
-2026-11-07,57,2026-11-07 | Brown | Yale,Brown,-,0.0,+244,0.0
-2026-11-07,58,2026-11-07 | Georgetown | Holy Cross,Georgetown,+7,0.0,+195,0.0
-2026-11-07,59,2026-11-07 | Richmond | Villanova,Richmond,-,0.0,+274,0.0
-2026-11-07,60,2026-11-07 | Bucknell | Fordham,Bucknell,-,0.0,+109,0.0
-2026-11-07,61,2026-11-07 | Albany | Bryant,Bryant,+7.5,0.0,-,0.0
-2026-11-07,62,2026-11-07 | Cornell | Pennsylvania,Pennsylvania,+6.5,0.0,+195,0.0
-2026-11-07,63,2026-11-07 | Columbia | Harvard,Columbia,-,0.0,+900,0.0
-2026-11-07,64,2026-11-07 | Citadel | Furman,Furman,-3,0.0,-,0.0
-2026-11-07,65,2026-11-07 | Ark-Pine Bluff | Grambling ST,Grambling ST,-,0.0,+101,0.0
-2026-11-07,66,2026-11-07 | Alabama ST | Texas Southern,Texas Southern,-,0.0,+250,0.0
-2026-11-07,67,2026-11-07 | Alabama A&M | Prairie View A&M,Prairie View A&M,+3,0.0,-,0.0
-2026-11-07,68,2026-11-07 | Austin Peay | E Kentucky,Austin Peay,-17.5,0.0,-,0.0
-2026-11-07,69,2026-11-07 | Lamar | Stephen F Austin,Stephen F Austin,-7,0.0,-,0.0
-2026-11-07,71,2026-11-07 | UC-Davis | Utah Tech,UC-Davis,-17.5,0.0,-,0.0
+2026-11-07,53,2026-11-07 | Dayton | Valparaiso,Valparaiso,-,0.0,+326,0.0
+2026-11-07,54,2026-11-07 | Duquesne | Robert Morris,Robert Morris,+10,0.0,-,0.0
+2026-11-07,55,2026-11-07 | Marist | Morehead ST,Marist,-16.5,0.0,-,0.0
+2026-11-07,56,2026-11-07 | Monmouth | N Carolina A&T,N Carolina A&T,-,0.0,+700,0.0
+2026-11-07,58,2026-11-07 | Sacred Heart | Towson,Sacred Heart,-1.5,0.0,-,0.0
+2026-11-07,59,2026-11-07 | Brown | Yale,Brown,-,0.0,+244,0.0
+2026-11-07,60,2026-11-07 | LIU-Post | New Haven,New Haven,+4.5,0.0,+155,0.0
+2026-11-07,61,2026-11-07 | Mercyhurst | Wagner,Wagner,-,0.0,+260,0.0
+2026-11-07,62,2026-11-07 | Georgetown | Holy Cross,Georgetown,+7,0.0,+195,0.0
+2026-11-07,63,2026-11-07 | Richmond | Villanova,Richmond,-,0.0,+274,0.0
+2026-11-07,64,2026-11-07 | W Carolina | Wofford,Wofford,-,0.0,+145,0.0
+2026-11-07,65,2026-11-07 | Delaware ST | Morgan ST,Morgan ST,-,0.0,+155,0.0
+2026-11-07,67,2026-11-07 | Albany | Bryant,Bryant,+9.5,0.0,-,0.0
+2026-11-07,68,2026-11-07 | Campbell | Stony Brook,Stony Brook,-,0.0,+230,0.0
+2026-11-07,69,2026-11-07 | Cornell | Pennsylvania,Pennsylvania,+6.5,0.0,+195,0.0
+2026-11-07,70,2026-11-07 | Columbia | Harvard,Columbia,+21.5,0.0,+900,0.0
+2026-11-07,71,2026-11-07 | Gardner Webb | Lindenwood,Lindenwood,-,0.0,+190,0.0
+2026-11-07,72,2026-11-07 | Elon | Hampton,Hampton,-,0.0,+930,0.0
+2026-11-07,73,2026-11-07 | N Iowa | S Dakota ST,N Iowa,-,0.0,+420,0.0
+2026-11-07,74,2026-11-07 | Citadel | Furman,Furman,-3,0.0,-,0.0
+2026-11-07,75,2026-11-07 | Illinois ST | N Dakota,Illinois ST,-,0.0,+174,0.0
+2026-11-07,76,2026-11-07 | Tennessee Tech | VMI,VMI,-,0.0,-,0.0
+2026-11-07,76,2026-11-07 | Tennessee Tech | VMI,Tennessee Tech,-,0.0,-,0.0
+2026-11-07,77,2026-11-07 | Ark-Pine Bluff | Grambling ST,Grambling ST,-,0.0,+101,0.0
+2026-11-07,78,2026-11-07 | Alabama ST | Texas Southern,Texas Southern,-,0.0,+250,0.0
+2026-11-07,79,2026-11-07 | Montana | Portland ST,Portland ST,-,0.0,"+1,400",0.0
+2026-11-07,80,2026-11-07 | Jackson ST | Miss Valley ST,Miss Valley ST,-,0.0,"+1,280",0.0
+2026-11-07,81,2026-11-07 | Alabama A&M | Prairie View A&M,Prairie View A&M,+3,0.0,-,0.0
+2026-11-07,83,2026-11-07 | Lamar | Stephen F Austin,Stephen F Austin,-7,0.0,-,0.0
+2026-11-07,84,2026-11-07 | E Washington | Idaho,E Washington,-,0.0,-,0.0
+2026-11-07,84,2026-11-07 | E Washington | Idaho,Idaho,-,0.0,-,0.0
+2026-11-07,85,2026-11-07 | Idaho ST | Montana ST,Idaho ST,+14,0.0,-,0.0
+2026-11-07,86,2026-11-07 | Incarnate Word | SE Louisiana,SE Louisiana,+4,12.0,+135,0.0
+2026-11-07,87,2026-11-07 | UC-Davis | Utah Tech,UC-Davis,-17.5,0.0,-,0.0
 2026-11-14,1,2026-11-14 | (24) Arizona Wildcats | (3) Utah Utes,(24) Arizona Wildcats,-,0.0,-102,0.0
 2026-11-14,2,2026-11-14 | (7) BYU Cougars | Baylor Bears,Baylor Bears,+7,0.0,+230,0.0
 2026-11-14,3,2026-11-14 | (19) Missouri Tigers | (2) Georgia Bulldogs,(19) Missouri Tigers,+12.5,3.0,+360,0.0
