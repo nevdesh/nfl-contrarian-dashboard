@@ -1,24 +1,31 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-11-06,4,2026-11-06 | (22) New Mexico Lobos | Nevada Wolf Pack,Nevada Wolf Pack,+10,30.0,+320,18.0
-2026-11-06,5,2026-11-06 | (24) Arizona Wildcats | TCU horned Frogs,TCU horned Frogs,+6.5,39.0,+220,13.0
-2026-11-07,3,2026-11-07 | Connecticut Huskies | North Carolina Tar Heels,North Carolina Tar Heels,-7.5,30.0,-305,29.0
+2026-11-06,4,2026-11-06 | (22) New Mexico Lobos | Nevada Wolf Pack,Nevada Wolf Pack,+10,31.0,+320,18.0
+2026-11-06,5,2026-11-06 | (24) Arizona Wildcats | TCU horned Frogs,TCU horned Frogs,+7,36.0,+230,12.0
+2026-11-07,3,2026-11-07 | Connecticut Huskies | North Carolina Tar Heels,North Carolina Tar Heels,-7.5,30.0,-305,30.0
 2026-11-07,11,2026-11-07 | Arkansas Razorbacks | Auburn Tigers,Arkansas Razorbacks,+10.5,20.0,+310,17.0
-2026-11-07,13,2026-11-07 | Coastal Carolina Chanticleers | Old Dominion Monarchs,Old Dominion Monarchs,+6.5,22.0,+205,38.0
-2026-11-07,14,2026-11-07 | Appalachian ST Mountaineers | Georgia ST Panthers,Georgia ST Panthers,+6.5,13.0,+190,6.0
+2026-11-07,13,2026-11-07 | Coastal Carolina Chanticleers | Old Dominion Monarchs,Old Dominion Monarchs,+6.5,21.0,+205,35.0
+2026-11-07,14,2026-11-07 | Appalachian ST Mountaineers | Georgia ST Panthers,Georgia ST Panthers,+6.5,13.0,+190,5.0
 2026-11-07,15,2026-11-07 | Arkansas ST Red Wolves | LA Monroe Warhawks,LA Monroe Warhawks,+14.5,20.0,+500,13.0
 2026-11-07,17,2026-11-07 | Delaware | Kennesaw ST,Kennesaw ST,+1.5,2.0,+102,12.0
 2026-11-07,24,2026-11-07 | (14) Wake Forest Demon Deacons | Merrimack,Merrimack,+47.5,15.0,-,0.0
 2026-11-07,27,2026-11-07 | Kansas Jayhawks | UCF Knights,UCF Knights,+3,4.0,+136,18.0
-2026-11-07,29,2026-11-07 | North Texas Mean Green | Rice Owls,Rice Owls,+16.5,32.0,+550,32.0
-2026-11-07,34,2026-11-07 | Louisiana Ragin Cajuns | S Alabama Jaguars,S Alabama Jaguars,+7.5,38.0,+250,12.0
+2026-11-07,29,2026-11-07 | North Texas Mean Green | Rice Owls,Rice Owls,+16.5,32.0,+550,31.0
 2026-11-07,35,2026-11-07 | (20) Boise ST Broncos | Colorado ST Rams,(20) Boise ST Broncos,-17.5,12.0,-950,28.0
-2026-11-07,36,2026-11-07 | (16) Tennessee Volunteers | (8) Kentucky Wildcats,(8) Kentucky Wildcats,+5.5,31.0,+170,29.0
+2026-11-07,36,2026-11-07 | (16) Tennessee Volunteers | (8) Kentucky Wildcats,(8) Kentucky Wildcats,+5.5,32.0,+170,28.0
 2026-11-07,38,2026-11-07 | Arizona ST Sun Devils | Colorado Buffaloes,Colorado Buffaloes,+3.5,5.0,+136,6.0
-2026-11-07,48,2026-11-07 | Hawaii Rainbow Warriors | UTEP Miners,Hawaii Rainbow Warriors,-8.5,27.0,-345,32.0
-2026-11-07,49,2026-11-07 | Fresno ST Bulldogs | Utah ST Aggies,Fresno ST Bulldogs,-1.5,28.0,-130,12.0
-2026-11-07,51,2026-11-07 | UNLV Rebels | Wyoming Cowboys,UNLV Rebels,-4.5,25.0,-198,30.0
+2026-11-07,48,2026-11-07 | Hawaii Rainbow Warriors | UTEP Miners,Hawaii Rainbow Warriors,-8.5,35.0,-345,32.0
+2026-11-07,49,2026-11-07 | Fresno ST Bulldogs | Utah ST Aggies,Fresno ST Bulldogs,-1.5,28.0,-130,11.0
+2026-11-07,51,2026-11-07 | UNLV Rebels | Wyoming Cowboys,UNLV Rebels,-4.5,24.0,-198,30.0
+2026-11-07,52,2026-11-07 | Marist | Morehead ST,Marist,-16.5,0.0,-,0.0
+2026-11-07,53,2026-11-07 | Sacred Heart | Towson,Sacred Heart,-1.5,0.0,-,0.0
+2026-11-07,54,2026-11-07 | Albany | Bryant,Bryant,+7.5,0.0,-,0.0
+2026-11-07,55,2026-11-07 | Cornell | Pennsylvania,Pennsylvania,+6.5,0.0,-,0.0
+2026-11-07,56,2026-11-07 | Citadel | Furman,Furman,-4,0.0,-,0.0
+2026-11-07,57,2026-11-07 | Lamar | Stephen F Austin,Stephen F Austin,-7,0.0,-,0.0
+2026-11-07,58,2026-11-07 | Incarnate Word | SE Louisiana,Incarnate Word,-4,0.0,-,0.0
 2026-11-14,1,2026-11-14 | (24) Arizona Wildcats | (3) Utah Utes,(24) Arizona Wildcats,-,0.0,-102,0.0
 2026-11-14,2,2026-11-14 | (7) BYU Cougars | Baylor Bears,Baylor Bears,+7,0.0,+230,0.0
+2026-11-14,3,2026-11-14 | (19) Missouri Tigers | (2) Georgia Bulldogs,(19) Missouri Tigers,+12.5,30.0,+360,0.0
 2026-11-14,5,2026-11-14 | (25) Florida Gators | (8) Kentucky Wildcats,(25) Florida Gators,+1.5,0.0,+100,0.0
 2026-11-14,7,2026-11-14 | Duke Blue Devils | Miami FL Hurricanes,Miami FL Hurricanes,-21,0.0,-,0.0
 2026-11-14,8,2026-11-14 | Louisville Cardinals | North Carolina Tar Heels,North Carolina Tar Heels,-,0.0,+114,0.0
