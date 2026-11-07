@@ -2,25 +2,25 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-07,6,2026-11-07 | Tulane Green Wave | Tulsa Golden Hurricane,Tulane Green Wave,+3,27.0,+124,39.0
 2026-11-07,9,2026-11-07 | Duke Blue Devils | NC State Wolfpack,NC State Wolfpack,+4.5,36.0,+160,39.0
 2026-11-07,11,2026-11-07 | Arkansas Razorbacks | Auburn Tigers,Arkansas Razorbacks,+10.5,37.0,+310,4.0
-2026-11-07,12,2026-11-07 | Kansas ST Wildcats | Oklahoma ST Cowboys,Kansas ST Wildcats,+7,20.0,+200,22.0
-2026-11-07,13,2026-11-07 | Coastal Carolina Chanticleers | Old Dominion Monarchs,Old Dominion Monarchs,+6.5,18.0,+205,12.0
-2026-11-07,15,2026-11-07 | Arkansas ST Red Wolves | LA Monroe Warhawks,LA Monroe Warhawks,+14.5,5.0,+500,8.0
+2026-11-07,12,2026-11-07 | Kansas ST Wildcats | Oklahoma ST Cowboys,Kansas ST Wildcats,+7,21.0,+200,22.0
+2026-11-07,13,2026-11-07 | Coastal Carolina Chanticleers | Old Dominion Monarchs,Old Dominion Monarchs,+6.5,16.0,+205,11.0
+2026-11-07,15,2026-11-07 | Arkansas ST Red Wolves | LA Monroe Warhawks,LA Monroe Warhawks,+14.5,5.0,+500,9.0
 2026-11-07,17,2026-11-07 | Delaware | Kennesaw ST,Kennesaw ST,+1.5,24.0,-108,26.0
-2026-11-07,18,2026-11-07 | (17) Houston Cougars | Cincinnati Bearcats,Cincinnati Bearcats,+10.5,28.0,+320,7.0
-2026-11-07,21,2026-11-07 | Navy Midshipmen | Temple Owls,Navy Midshipmen,-7,36.0,-270,28.0
-2026-11-07,22,2026-11-07 | (11) Ohio ST Buckeyes | Oregon Ducks,Oregon Ducks,+7.5,27.0,+245,32.0
+2026-11-07,18,2026-11-07 | (17) Houston Cougars | Cincinnati Bearcats,Cincinnati Bearcats,+10.5,27.0,+320,7.0
+2026-11-07,21,2026-11-07 | Navy Midshipmen | Temple Owls,Navy Midshipmen,-7,35.0,-270,27.0
+2026-11-07,22,2026-11-07 | (11) Ohio ST Buckeyes | Oregon Ducks,Oregon Ducks,+7.5,28.0,+245,34.0
 2026-11-07,24,2026-11-07 | (14) Wake Forest Demon Deacons | Merrimack,Merrimack,+46.5,33.0,-,0.0
-2026-11-07,27,2026-11-07 | Kansas Jayhawks | UCF Knights,UCF Knights,+5.5,20.0,+180,31.0
+2026-11-07,27,2026-11-07 | Kansas Jayhawks | UCF Knights,UCF Knights,+6,20.0,+180,32.0
 2026-11-07,29,2026-11-07 | North Texas Mean Green | Rice Owls,Rice Owls,+15.5,12.0,+550,8.0
 2026-11-07,30,2026-11-07 | N Illinois Huskies | San Jose ST Spartans,N Illinois Huskies,+12.5,35.0,+340,22.0
 2026-11-07,31,2026-11-07 | Louisiana Tech Bulldogs | Troy Trojans,Troy Trojans,+7,8.0,+210,4.0
-2026-11-07,36,2026-11-07 | (16) Tennessee Volunteers | (8) Kentucky Wildcats,(8) Kentucky Wildcats,+6,33.0,+170,33.0
-2026-11-07,37,2026-11-07 | Jacksonville ST | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+16.5,34.0,+550,13.0
-2026-11-07,38,2026-11-07 | Arizona ST Sun Devils | Colorado Buffaloes,Colorado Buffaloes,+3,17.0,+136,19.0
-2026-11-07,41,2026-11-07 | Michigan ST Spartans | Michigan Wolverines,Michigan Wolverines,-14,22.0,-600,37.0
+2026-11-07,36,2026-11-07 | (16) Tennessee Volunteers | (8) Kentucky Wildcats,(8) Kentucky Wildcats,+6,33.0,+170,34.0
+2026-11-07,37,2026-11-07 | Jacksonville ST | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+16.5,37.0,+550,13.0
+2026-11-07,38,2026-11-07 | Arizona ST Sun Devils | Colorado Buffaloes,Colorado Buffaloes,+3,18.0,+136,19.0
 2026-11-07,46,2026-11-07 | Liberty Flames | New Mexico ST Aggies,New Mexico ST Aggies,+15.5,4.0,+525,25.0
+2026-11-07,49,2026-11-07 | Fresno ST Bulldogs | Utah ST Aggies,Fresno ST Bulldogs,-1.5,29.0,-118,37.0
 2026-11-07,50,2026-11-07 | Oregon ST Beavers | Texas ST Bobcats,Texas ST Bobcats,+5.5,34.0,+180,37.0
-2026-11-07,51,2026-11-07 | UNLV Rebels | Wyoming Cowboys,UNLV Rebels,-3.5,28.0,-175,34.0
+2026-11-07,51,2026-11-07 | UNLV Rebels | Wyoming Cowboys,UNLV Rebels,-3.5,32.0,-175,34.0
 2026-11-07,52,2026-11-07 | NC Central | Norfolk ST,NC Central,-4,17.0,-195,33.0
 2026-11-07,53,2026-11-07 | Colgate | Lehigh,Lehigh,-4.5,10.0,-182,37.0
 2026-11-07,54,2026-11-07 | Dayton | Valparaiso,Valparaiso,+8.5,35.0,+308,0.0
@@ -29,7 +29,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-07,59,2026-11-07 | Sacred Heart | Towson,Sacred Heart,+1.5,8.0,-102,2.0
 2026-11-07,60,2026-11-07 | Brown | Yale,Yale,-7,3.0,-320,27.0
 2026-11-07,62,2026-11-07 | Mercyhurst | Wagner,Wagner,+8.5,4.0,+274,0.0
-2026-11-07,64,2026-11-07 | Richmond | Villanova,Richmond,+8.5,14.0,+274,31.0
+2026-11-07,64,2026-11-07 | Richmond | Villanova,Richmond,+8.5,18.0,+274,31.0
 2026-11-07,65,2026-11-07 | W Carolina | Wofford,Wofford,+4.5,0.0,+145,0.0
 2026-11-07,74,2026-11-07 | Campbell | Stony Brook,Stony Brook,+7,0.0,+230,0.0
 2026-11-07,75,2026-11-07 | Cornell | Pennsylvania,Pennsylvania,+6.5,14.0,+195,12.0
@@ -39,7 +39,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-07,82,2026-11-07 | Elon | Hampton,Hampton,-,0.0,+930,0.0
 2026-11-07,83,2026-11-07 | N Iowa | S Dakota ST,N Iowa,+15.5,0.0,+452,8.0
 2026-11-07,84,2026-11-07 | Citadel | Furman,Furman,-3,12.0,-162,4.0
-2026-11-07,87,2026-11-07 | Illinois ST | N Dakota,N Dakota,-6.5,2.0,-221,17.0
+2026-11-07,87,2026-11-07 | Illinois ST | N Dakota,N Dakota,-6.5,2.0,-221,22.0
 2026-11-07,88,2026-11-07 | Tennessee Tech | VMI,VMI,+38.5,0.0,-,0.0
 2026-11-07,89,2026-11-07 | Ark-Pine Bluff | Grambling ST,Grambling ST,+1.5,0.0,+101,20.0
 2026-11-07,90,2026-11-07 | E Illinois | W Illinois,E Illinois,+4,0.0,+139,30.0
@@ -47,11 +47,10 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-07,93,2026-11-07 | N Colorado | S Utah,N Colorado,-,0.0,+274,0.0
 2026-11-07,94,2026-11-07 | Bethune-Cookman | Southern U,Bethune-Cookman,+3,0.0,+135,0.0
 2026-11-07,96,2026-11-07 | Jackson ST | Miss Valley ST,Miss Valley ST,+24.5,0.0,"+1,280",0.0
-2026-11-07,99,2026-11-07 | East Texas A&M | Nicholls ST,Nicholls ST,+3,8.0,+129,11.0
+2026-11-07,99,2026-11-07 | East Texas A&M | Nicholls ST,Nicholls ST,+3,8.0,+129,10.0
 2026-11-07,100,2026-11-07 | Austin Peay | E Kentucky,E Kentucky,+17.5,0.0,+599,0.0
 2026-11-07,102,2026-11-07 | E Washington | Idaho,E Washington,+9.5,6.0,+286,0.0
 2026-11-07,104,2026-11-07 | Cal Poly | N Arizona,Cal Poly,+14,0.0,+401,0.0
-2026-11-07,105,2026-11-07 | Houston Christian | Mcneese ST,Houston Christian,-3,0.0,-148,11.0
 2026-11-07,107,2026-11-07 | Idaho ST | Montana ST,Idaho ST,+15.5,0.0,+489,0.0
 2026-11-14,1,2026-11-14 | (24) Arizona Wildcats | (3) Utah Utes,(24) Arizona Wildcats,-,0.0,-102,0.0
 2026-11-14,2,2026-11-14 | (7) BYU Cougars | Baylor Bears,Baylor Bears,+7,0.0,+230,0.0
