@@ -109443,3 +109443,109 @@ captured_at,game_date,game_number,matchup_id,team,spread,moneyline,spread_handle
 2026-11-08T15:43:22+00:00,"CFB - SATURDAY, NOV 21",3,2026-11-21 | LSU Tigers | Tennessee Volunteers,Tennessee Volunteers,+1.5,+100,0.0,0.0,vsin-20261108T154322Z-tables.json
 2026-11-08T15:43:22+00:00,"CFB - SATURDAY, NOV 21",4,2026-11-21 | Notre Dame Fighting Irish | SMU Mustangs,SMU Mustangs,+17.5,+750,78.0,0.0,vsin-20261108T154322Z-tables.json
 2026-11-08T15:43:22+00:00,"CFB - SATURDAY, NOV 21",4,2026-11-21 | Notre Dame Fighting Irish | SMU Mustangs,Notre Dame Fighting Irish,-17.5,"-1,200",22.0,100.0,vsin-20261108T154322Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - TUESDAY, NOV 10",1,2026-11-10 | Akron Zips | W Michigan Broncos,W Michigan Broncos,-13.5,-600,57.0,53.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - TUESDAY, NOV 10",1,2026-11-10 | Akron Zips | W Michigan Broncos,Akron Zips,+13.5,+440,43.0,47.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - TUESDAY, NOV 10",2,2026-11-10 | Bowling Green Falcons | Kent ST Golden Flashes,Kent ST Golden Flashes,+5.5,+170,2.0,96.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - TUESDAY, NOV 10",2,2026-11-10 | Bowling Green Falcons | Kent ST Golden Flashes,Bowling Green Falcons,-5.5,-205,98.0,4.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - TUESDAY, NOV 10",3,2026-11-10 | Miami OH RedHawks | Ohio Bobcats,Ohio Bobcats,+1.5,-102,29.0,73.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - TUESDAY, NOV 10",3,2026-11-10 | Miami OH RedHawks | Ohio Bobcats,Miami OH RedHawks,-1.5,-118,71.0,27.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - WEDNESDAY, NOV 11",1,2026-11-11 | Ball ST Cardinals | Buffalo Bulls,Buffalo Bulls,-3,-142,71.0,35.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - WEDNESDAY, NOV 11",1,2026-11-11 | Ball ST Cardinals | Buffalo Bulls,Ball ST Cardinals,+3,+120,29.0,65.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - WEDNESDAY, NOV 11",2,2026-11-11 | C Michigan Chippewas | Sacramento ST Hornets,Sacramento ST Hornets,+15.5,+525,0.0,2.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - WEDNESDAY, NOV 11",2,2026-11-11 | C Michigan Chippewas | Sacramento ST Hornets,C Michigan Chippewas,-15.5,-750,100.0,98.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - WEDNESDAY, NOV 11",3,2026-11-11 | Massachusetts Minutemen | Toledo Rockets,Massachusetts Minutemen,+14,+425,2.0,82.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - WEDNESDAY, NOV 11",3,2026-11-11 | Massachusetts Minutemen | Toledo Rockets,Toledo Rockets,-14,-575,98.0,18.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - THURSDAY, NOV 12",1,2026-11-12 | Memphis Tigers | South Florida Bulls,Memphis Tigers,-5.5,-250,75.0,7.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - THURSDAY, NOV 12",1,2026-11-12 | Memphis Tigers | South Florida Bulls,South Florida Bulls,+5.5,+205,25.0,93.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - THURSDAY, NOV 12",2,2026-11-12 | LA Monroe Warhawks | Louisiana Ragin Cajuns,Louisiana Ragin Cajuns,-11.5,-455,100.0,7.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - THURSDAY, NOV 12",2,2026-11-12 | LA Monroe Warhawks | Louisiana Ragin Cajuns,LA Monroe Warhawks,+11.5,+350,0.0,93.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - FRIDAY, NOV 13",1,2026-11-13 | Florida ST Seminoles | Pittsburgh Panthers,Florida ST Seminoles,+3.5,+136,17.0,64.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - FRIDAY, NOV 13",1,2026-11-13 | Florida ST Seminoles | Pittsburgh Panthers,Pittsburgh Panthers,-3.5,-162,83.0,36.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - FRIDAY, NOV 13",2,2026-11-13 | (5) UCLA Bruins | Illinois Fighting Illini,Illinois Fighting Illini,+10,+300,2.0,16.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - FRIDAY, NOV 13",2,2026-11-13 | (5) UCLA Bruins | Illinois Fighting Illini,(5) UCLA Bruins,-10,-380,98.0,84.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - FRIDAY, NOV 13",3,2026-11-13 | (17) Houston Cougars | Colorado Buffaloes,(17) Houston Cougars,-10.5,-410,100.0,100.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - FRIDAY, NOV 13",3,2026-11-13 | (17) Houston Cougars | Colorado Buffaloes,Colorado Buffaloes,+10.5,+320,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",1,2026-11-14 | Connecticut Huskies | James Madison,James Madison,-3,-,100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",1,2026-11-14 | Connecticut Huskies | James Madison,Connecticut Huskies,+3,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",2,2026-11-14 | Cincinnati Bearcats | Iowa ST Cyclones,Cincinnati Bearcats,-,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",2,2026-11-14 | Cincinnati Bearcats | Iowa ST Cyclones,Iowa ST Cyclones,-,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",3,2026-11-14 | Maryland Terrapins | Wisconsin Badgers,Wisconsin Badgers,-,-270,0.0,100.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",3,2026-11-14 | Maryland Terrapins | Wisconsin Badgers,Maryland Terrapins,-,+220,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",4,2026-11-14 | (1) Miami FL Hurricanes | Duke Blue Devils,Duke Blue Devils,+14.5,+470,96.0,21.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",4,2026-11-14 | (1) Miami FL Hurricanes | Duke Blue Devils,(1) Miami FL Hurricanes,-14.5,-650,4.0,79.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",5,2026-11-14 | Auburn Tigers | Mississippi ST Bulldogs,Auburn Tigers,-,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",5,2026-11-14 | Auburn Tigers | Mississippi ST Bulldogs,Mississippi ST Bulldogs,-,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",6,2026-11-14 | NC State Wolfpack | Syracuse Orange,Syracuse Orange,-1.5,-118,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",6,2026-11-14 | NC State Wolfpack | Syracuse Orange,NC State Wolfpack,+1.5,-102,100.0,100.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",7,2026-11-14 | Louisville Cardinals | North Carolina Tar Heels,Louisville Cardinals,-2.5,-142,100.0,14.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",7,2026-11-14 | Louisville Cardinals | North Carolina Tar Heels,North Carolina Tar Heels,+2.5,+120,0.0,86.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",8,2026-11-14 | (11) Ohio ST Buckeyes | Northwestern Wildcats,Northwestern Wildcats,+10.5,+310,33.0,54.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",8,2026-11-14 | (11) Ohio ST Buckeyes | Northwestern Wildcats,(11) Ohio ST Buckeyes,-10.5,-395,67.0,46.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",9,2026-11-14 | (14) Wake Forest Demon Deacons | SMU Mustangs,(14) Wake Forest Demon Deacons,-2.5,-130,78.0,60.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",9,2026-11-14 | (14) Wake Forest Demon Deacons | SMU Mustangs,SMU Mustangs,+2.5,+110,22.0,40.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",10,2026-11-14 | Kansas Jayhawks | West Virginia Mountaineers,Kansas Jayhawks,+2.5,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",10,2026-11-14 | Kansas Jayhawks | West Virginia Mountaineers,West Virginia Mountaineers,-2.5,-,100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",11,2026-11-14 | Clemson Tigers | Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,+13.5,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",11,2026-11-14 | Clemson Tigers | Georgia Tech Yellow Jackets,Clemson Tigers,-13.5,-,100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",12,2026-11-14 | Nebraska Cornhuskers | Rutgers Scarlet Knights,Nebraska Cornhuskers,-12.5,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",12,2026-11-14 | Nebraska Cornhuskers | Rutgers Scarlet Knights,Rutgers Scarlet Knights,+12.5,-,100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",13,2026-11-14 | (9) Alabama Crimson Tide | Vanderbilt Commodores,(9) Alabama Crimson Tide,-19.5,"-1,350",100.0,100.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",13,2026-11-14 | (9) Alabama Crimson Tide | Vanderbilt Commodores,Vanderbilt Commodores,+19.5,+800,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",14,2026-11-14 | Temple Owls | UAB Blazers,UAB Blazers,+2.5,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",14,2026-11-14 | Temple Owls | UAB Blazers,Temple Owls,-2.5,-,100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",15,2026-11-14 | Charlotte 49ers | East Carolina Pirates,East Carolina Pirates,-11.5,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",15,2026-11-14 | Charlotte 49ers | East Carolina Pirates,Charlotte 49ers,+11.5,-,100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",16,2026-11-14 | (24) Arizona Wildcats | (3) Utah Utes,(3) Utah Utes,-3,-148,100.0,81.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",16,2026-11-14 | (24) Arizona Wildcats | (3) Utah Utes,(24) Arizona Wildcats,+3,+124,0.0,19.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",17,2026-11-14 | (7) BYU Cougars | Baylor Bears,Baylor Bears,+7,+220,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",17,2026-11-14 | (7) BYU Cougars | Baylor Bears,(7) BYU Cougars,-7,-270,100.0,100.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",18,2026-11-14 | Kennesaw ST | Sam Houston ST Bearkats,Kennesaw ST,-7.5,-,100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",18,2026-11-14 | Kennesaw ST | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+7.5,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",19,2026-11-14 | Michigan Wolverines | Oregon Ducks,Michigan Wolverines,+10.5,+360,23.0,9.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",19,2026-11-14 | Michigan Wolverines | Oregon Ducks,Oregon Ducks,-10.5,-470,77.0,91.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",20,2026-11-14 | Arizona ST Sun Devils | UCF Knights,Arizona ST Sun Devils,+2.5,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",20,2026-11-14 | Arizona ST Sun Devils | UCF Knights,UCF Knights,-2.5,-,100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",21,2026-11-14 | (19) Missouri Tigers | (2) Georgia Bulldogs,(19) Missouri Tigers,+14,+470,2.0,5.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",21,2026-11-14 | (19) Missouri Tigers | (2) Georgia Bulldogs,(2) Georgia Bulldogs,-14,-650,98.0,95.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",22,2026-11-14 | (18) USC Trojans | (6) Indiana Hoosiers,(18) USC Trojans,+7,+220,63.0,35.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",22,2026-11-14 | (18) USC Trojans | (6) Indiana Hoosiers,(6) Indiana Hoosiers,-7,-270,37.0,65.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",23,2026-11-14 | (10) Texas Longhorns | (15) LSU Tigers,(10) Texas Longhorns,+4,+145,3.0,48.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",23,2026-11-14 | (10) Texas Longhorns | (15) LSU Tigers,(15) LSU Tigers,-4,-175,97.0,52.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",24,2026-11-14 | (4) Notre Dame Fighting Irish | Boston College Eagles,Boston College Eagles,+31.5,"+3,000",100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",24,2026-11-14 | (4) Notre Dame Fighting Irish | Boston College Eagles,(4) Notre Dame Fighting Irish,-31.5,"-10,000",0.0,100.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",25,2026-11-14 | (12) Ole Miss Rebels | Oklahoma Sooners,(12) Ole Miss Rebels,-2.5,-130,100.0,1.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",25,2026-11-14 | (12) Ole Miss Rebels | Oklahoma Sooners,Oklahoma Sooners,+2.5,+110,0.0,99.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",26,2026-11-14 | (13) Texas Tech Red Raiders | Oklahoma ST Cowboys,(13) Texas Tech Red Raiders,+3,+124,7.0,12.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",26,2026-11-14 | (13) Texas Tech Red Raiders | Oklahoma ST Cowboys,Oklahoma ST Cowboys,-3,-148,93.0,88.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",27,2026-11-14 | (16) Tennessee Volunteers | Texas A&M Aggies,(16) Tennessee Volunteers,-3,-155,86.0,99.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",27,2026-11-14 | (16) Tennessee Volunteers | Texas A&M Aggies,Texas A&M Aggies,+3,+130,14.0,1.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",28,2026-11-14 | FL Atlantic Owls | Tulsa Golden Hurricane,FL Atlantic Owls,-,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",28,2026-11-14 | FL Atlantic Owls | Tulsa Golden Hurricane,Tulsa Golden Hurricane,-,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",29,2026-11-14 | California Golden Bears | Virginia Cavaliers,California Golden Bears,-,+380,0.0,100.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",29,2026-11-14 | California Golden Bears | Virginia Cavaliers,Virginia Cavaliers,-,-500,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",30,2026-11-14 | Stanford Cardinal | Virginia Tech Hokies,Stanford Cardinal,+16.5,-,95.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",30,2026-11-14 | Stanford Cardinal | Virginia Tech Hokies,Virginia Tech Hokies,-16.5,-,5.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",31,2026-11-14 | Liberty Flames | Middle Tenn ST Blue Raiders,Middle Tenn ST Blue Raiders,+20.5,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",31,2026-11-14 | Liberty Flames | Middle Tenn ST Blue Raiders,Liberty Flames,-20.5,-,100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",32,2026-11-14 | Georgia Southern Eagles | Georgia ST Panthers,Georgia Southern Eagles,-,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",32,2026-11-14 | Georgia Southern Eagles | Georgia ST Panthers,Georgia ST Panthers,-,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",33,2026-11-14 | Michigan ST Spartans | Washington Huskies,Washington Huskies,-3.5,-,100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",33,2026-11-14 | Michigan ST Spartans | Washington Huskies,Michigan ST Spartans,+3.5,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",34,2026-11-14 | (20) Boise ST Broncos | Oregon ST Beavers,Oregon ST Beavers,+8.5,+295,0.0,2.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",34,2026-11-14 | (20) Boise ST Broncos | Oregon ST Beavers,(20) Boise ST Broncos,-8.5,-375,100.0,98.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",35,2026-11-14 | (25) Florida Gators | (8) Kentucky Wildcats,(25) Florida Gators,+2.5,+110,1.0,3.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",35,2026-11-14 | (25) Florida Gators | (8) Kentucky Wildcats,(8) Kentucky Wildcats,-2.5,-130,99.0,97.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",36,2026-11-14 | Minnesota Golden Gophers | Penn ST Nittany Lions,Minnesota Golden Gophers,+7.5,+235,47.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",36,2026-11-14 | Minnesota Golden Gophers | Penn ST Nittany Lions,Penn ST Nittany Lions,-7.5,-290,53.0,100.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",37,2026-11-14 | (23) South Carolina Gamecocks | Arkansas Razorbacks,(23) South Carolina Gamecocks,-8.5,-325,0.0,27.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",37,2026-11-14 | (23) South Carolina Gamecocks | Arkansas Razorbacks,Arkansas Razorbacks,+8.5,+260,100.0,73.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",38,2026-11-14 | North Texas Mean Green | Texas-San Antonio Roadrunners,North Texas Mean Green,-,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 14",38,2026-11-14 | North Texas Mean Green | Texas-San Antonio Roadrunners,Texas-San Antonio Roadrunners,-,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 21",1,2026-11-21 | Miami FL Hurricanes | Virginia Tech Hokies,Virginia Tech Hokies,+16.5,-,80.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 21",1,2026-11-21 | Miami FL Hurricanes | Virginia Tech Hokies,Miami FL Hurricanes,-16.5,-,20.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 21",2,2026-11-21 | Oklahoma Sooners | Texas A&M Aggies,Texas A&M Aggies,+2.5,-,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 21",2,2026-11-21 | Oklahoma Sooners | Texas A&M Aggies,Oklahoma Sooners,-2.5,-,100.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 21",3,2026-11-21 | LSU Tigers | Tennessee Volunteers,LSU Tigers,-1.5,-120,100.0,100.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 21",3,2026-11-21 | LSU Tigers | Tennessee Volunteers,Tennessee Volunteers,+1.5,+100,0.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 21",4,2026-11-21 | Notre Dame Fighting Irish | SMU Mustangs,SMU Mustangs,+17.5,+750,78.0,0.0,vsin-20261108T164508Z-tables.json
+2026-11-08T16:45:08+00:00,"CFB - SATURDAY, NOV 21",4,2026-11-21 | Notre Dame Fighting Irish | SMU Mustangs,Notre Dame Fighting Irish,-17.5,"-1,200",22.0,100.0,vsin-20261108T164508Z-tables.json
