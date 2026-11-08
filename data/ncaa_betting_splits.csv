@@ -1,72 +1,13 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-11-07,6,2026-11-07 | Tulane Green Wave | Tulsa Golden Hurricane,Tulane Green Wave,+3,27.0,+124,39.0
-2026-11-07,9,2026-11-07 | Duke Blue Devils | NC State Wolfpack,NC State Wolfpack,+4.5,36.0,+160,39.0
-2026-11-07,11,2026-11-07 | Arkansas Razorbacks | Auburn Tigers,Arkansas Razorbacks,+10.5,37.0,+310,4.0
-2026-11-07,12,2026-11-07 | Kansas ST Wildcats | Oklahoma ST Cowboys,Kansas ST Wildcats,+7,21.0,+200,22.0
-2026-11-07,13,2026-11-07 | Coastal Carolina Chanticleers | Old Dominion Monarchs,Old Dominion Monarchs,+6.5,16.0,+205,11.0
-2026-11-07,14,2026-11-07 | Appalachian ST Mountaineers | Georgia ST Panthers,Georgia ST Panthers,+6.5,38.0,+190,14.0
-2026-11-07,15,2026-11-07 | Arkansas ST Red Wolves | LA Monroe Warhawks,LA Monroe Warhawks,+14.5,30.0,+490,8.0
-2026-11-07,17,2026-11-07 | Delaware | Kennesaw ST,Kennesaw ST,+1.5,20.0,-102,28.0
-2026-11-07,18,2026-11-07 | (17) Houston Cougars | Cincinnati Bearcats,Cincinnati Bearcats,+10,30.0,+300,5.0
-2026-11-07,20,2026-11-07 | Navy Midshipmen | Temple Owls,Navy Midshipmen,-7.5,29.0,-298,33.0
-2026-11-07,21,2026-11-07 | Charlotte 49ers | UAB Blazers,Charlotte 49ers,+7.5,20.0,+250,15.0
-2026-11-07,22,2026-11-07 | (14) Wake Forest Demon Deacons | Merrimack,Merrimack,+46.5,25.0,-,0.0
-2026-11-07,25,2026-11-07 | (11) Ohio ST Buckeyes | Oregon Ducks,Oregon Ducks,+7.5,32.0,+260,31.0
-2026-11-07,27,2026-11-07 | Kansas Jayhawks | UCF Knights,UCF Knights,+6,17.0,+185,33.0
-2026-11-07,29,2026-11-07 | North Texas Mean Green | Rice Owls,Rice Owls,+14.5,18.0,+500,22.0
-2026-11-07,30,2026-11-07 | N Illinois Huskies | San Jose ST Spartans,N Illinois Huskies,+11.5,12.0,+340,17.0
-2026-11-07,31,2026-11-07 | Louisiana Tech Bulldogs | Troy Trojans,Troy Trojans,+7,7.0,+215,4.0
-2026-11-07,37,2026-11-07 | Jacksonville ST | Sam Houston ST Bearkats,Sam Houston ST Bearkats,+17.5,28.0,+575,11.0
-2026-11-07,38,2026-11-07 | Arizona ST Sun Devils | Colorado Buffaloes,Colorado Buffaloes,+3,17.0,+130,20.0
-2026-11-07,40,2026-11-07 | Georgia Tech Yellow Jackets | Louisville Cardinals,Georgia Tech Yellow Jackets,+14.5,33.0,+470,36.0
-2026-11-07,41,2026-11-07 | (21) Iowa Hawkies | Northwestern Wildcats,Northwestern Wildcats,+3,35.0,+136,31.0
-2026-11-07,45,2026-11-07 | (25) Florida Gators | Oklahoma Sooners,Oklahoma Sooners,+4,32.0,+154,23.0
-2026-11-07,46,2026-11-07 | Liberty Flames | New Mexico ST Aggies,New Mexico ST Aggies,+14.5,4.0,+500,14.0
-2026-11-07,50,2026-11-07 | Oregon ST Beavers | Texas ST Bobcats,Texas ST Bobcats,+4,37.0,+154,36.0
-2026-11-07,52,2026-11-07 | NC Central | Norfolk ST,NC Central,-4,17.0,-195,33.0
-2026-11-07,53,2026-11-07 | Colgate | Lehigh,Lehigh,-4.5,10.0,-182,37.0
-2026-11-07,54,2026-11-07 | Dayton | Valparaiso,Valparaiso,+8.5,35.0,+308,0.0
-2026-11-07,55,2026-11-07 | Duquesne | Robert Morris,Robert Morris,+10,1.0,+295,15.0
-2026-11-07,58,2026-11-07 | Dartmouth | Princeton,Dartmouth,-1.5,36.0,-114,4.0
-2026-11-07,59,2026-11-07 | Sacred Heart | Towson,Sacred Heart,+1.5,8.0,-102,2.0
-2026-11-07,60,2026-11-07 | Brown | Yale,Yale,-7,3.0,-320,27.0
-2026-11-07,62,2026-11-07 | Mercyhurst | Wagner,Wagner,+8.5,4.0,+274,0.0
-2026-11-07,64,2026-11-07 | Richmond | Villanova,Richmond,+8.5,18.0,+274,31.0
-2026-11-07,65,2026-11-07 | W Carolina | Wofford,Wofford,+4.5,0.0,+145,0.0
-2026-11-07,74,2026-11-07 | Campbell | Stony Brook,Stony Brook,+7,0.0,+230,0.0
-2026-11-07,75,2026-11-07 | Cornell | Pennsylvania,Pennsylvania,+6.5,14.0,+195,12.0
-2026-11-07,77,2026-11-07 | Drake | San Diego,Drake,+1.5,0.0,+100,0.0
-2026-11-07,78,2026-11-07 | Columbia | Harvard,Harvard,-21.5,26.0,"-2,000",4.0
-2026-11-07,81,2026-11-07 | Murray ST | Youngstown ST,Murray ST,+31.5,27.0,-,0.0
-2026-11-07,82,2026-11-07 | Elon | Hampton,Hampton,-,0.0,+930,0.0
-2026-11-07,83,2026-11-07 | N Iowa | S Dakota ST,N Iowa,+15.5,1.0,+452,8.0
-2026-11-07,84,2026-11-07 | Citadel | Furman,Furman,-3,12.0,-162,4.0
-2026-11-07,87,2026-11-07 | Illinois ST | N Dakota,N Dakota,-6.5,2.0,-221,22.0
-2026-11-07,88,2026-11-07 | Tennessee Tech | VMI,VMI,+39.5,0.0,-,0.0
-2026-11-07,89,2026-11-07 | Ark-Pine Bluff | Grambling ST,Grambling ST,+1.5,0.0,-109,21.0
-2026-11-07,91,2026-11-07 | Alcorn ST | Florida A&M,Florida A&M,+10,0.0,+300,0.0
-2026-11-07,93,2026-11-07 | N Colorado | S Utah,N Colorado,+10,0.0,+274,0.0
-2026-11-07,94,2026-11-07 | Bethune-Cookman | Southern U,Bethune-Cookman,+3,0.0,+135,0.0
-2026-11-07,95,2026-11-07 | Montana | Portland ST,Portland ST,+24.5,0.0,"+1,480",23.0
-2026-11-07,96,2026-11-07 | Jackson ST | Miss Valley ST,Miss Valley ST,+24.5,0.0,"+1,280",0.0
-2026-11-07,99,2026-11-07 | East Texas A&M | Nicholls ST,Nicholls ST,+3,34.0,+129,11.0
-2026-11-07,100,2026-11-07 | Austin Peay | E Kentucky,E Kentucky,+19.5,4.0,+600,0.0
-2026-11-07,102,2026-11-07 | E Washington | Idaho,E Washington,+9.5,8.0,+286,33.0
-2026-11-07,104,2026-11-07 | Cal Poly | N Arizona,Cal Poly,+13.5,21.0,+401,21.0
-2026-11-07,106,2026-11-07 | Indiana ST | S Illinois,S Illinois,-5.5,29.0,-208,15.0
-2026-11-07,107,2026-11-07 | Idaho ST | Montana ST,Idaho ST,+15.5,1.0,+489,0.0
-2026-11-07,110,2026-11-07 | N Alabama | W Florida,W Florida,+5.5,22.0,+164,0.0
-2026-11-07,111,2026-11-07 | Abilene Christian | Tarleton ST,Abilene Christian,+10,16.0,+273,0.0
 2026-11-11,2,2026-11-11 | C Michigan Chippewas | Sacramento ST Hornets,Sacramento ST Hornets,+15.5,0.0,+525,0.0
-2026-11-12,2,2026-11-12 | LA Monroe Warhawks | Louisiana Ragin Cajuns,Louisiana Ragin Cajuns,-,0.0,-455,5.0
 2026-11-13,3,2026-11-13 | (17) Houston Cougars | Colorado Buffaloes,Colorado Buffaloes,+10.5,0.0,+320,0.0
-2026-11-14,1,2026-11-14 | (1) Miami FL Hurricanes | Duke Blue Devils,(1) Miami FL Hurricanes,-15.5,4.0,-700,15.0
+2026-11-14,1,2026-11-14 | (1) Miami FL Hurricanes | Duke Blue Devils,(1) Miami FL Hurricanes,-15.5,4.0,-700,27.0
 2026-11-14,5,2026-11-14 | (9) Alabama Crimson Tide | Vanderbilt Commodores,Vanderbilt Commodores,-,0.0,+800,0.0
 2026-11-14,7,2026-11-14 | (7) BYU Cougars | Baylor Bears,Baylor Bears,+6.5,0.0,+180,0.0
-2026-11-14,8,2026-11-14 | Michigan Wolverines | Oregon Ducks,Michigan Wolverines,+9.5,33.0,+310,10.0
-2026-11-14,9,2026-11-14 | (19) Missouri Tigers | (2) Georgia Bulldogs,(19) Missouri Tigers,+14,2.0,+470,11.0
+2026-11-14,8,2026-11-14 | Michigan Wolverines | Oregon Ducks,Michigan Wolverines,+10.5,24.0,+360,10.0
+2026-11-14,9,2026-11-14 | (19) Missouri Tigers | (2) Georgia Bulldogs,(19) Missouri Tigers,+14,2.0,+470,10.0
 2026-11-14,11,2026-11-14 | (10) Texas Longhorns | (15) LSU Tigers,(10) Texas Longhorns,+4.5,3.0,+145,32.0
-2026-11-14,14,2026-11-14 | (13) Texas Tech Red Raiders | Oklahoma ST Cowboys,(13) Texas Tech Red Raiders,+2.5,17.0,+110,5.0
+2026-11-14,14,2026-11-14 | (13) Texas Tech Red Raiders | Oklahoma ST Cowboys,(13) Texas Tech Red Raiders,+2.5,17.0,+110,3.0
 2026-11-14,15,2026-11-14 | (16) Tennessee Volunteers | Texas A&M Aggies,Texas A&M Aggies,+3,14.0,+130,0.0
 2026-11-14,16,2026-11-14 | (20) Boise ST Broncos | Oregon ST Beavers,Oregon ST Beavers,+4.5,0.0,+154,2.0
 2026-11-14,17,2026-11-14 | (25) Florida Gators | (8) Kentucky Wildcats,(25) Florida Gators,+2.5,1.0,+110,3.0
