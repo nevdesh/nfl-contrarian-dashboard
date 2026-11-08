@@ -1,17 +1,27 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
 2026-11-11,2,2026-11-11 | C Michigan Chippewas | Sacramento ST Hornets,Sacramento ST Hornets,+15.5,0.0,+525,0.0
+2026-11-13,1,2026-11-13 | Florida ST Seminoles | Pittsburgh Panthers,Florida ST Seminoles,+3.5,17.0,+136,13.0
 2026-11-13,3,2026-11-13 | (17) Houston Cougars | Colorado Buffaloes,Colorado Buffaloes,+10.5,0.0,+320,0.0
-2026-11-14,1,2026-11-14 | (1) Miami FL Hurricanes | Duke Blue Devils,(1) Miami FL Hurricanes,-15.5,4.0,-700,27.0
-2026-11-14,5,2026-11-14 | (9) Alabama Crimson Tide | Vanderbilt Commodores,Vanderbilt Commodores,-,0.0,+800,0.0
-2026-11-14,7,2026-11-14 | (7) BYU Cougars | Baylor Bears,Baylor Bears,+6.5,0.0,+180,0.0
-2026-11-14,8,2026-11-14 | Michigan Wolverines | Oregon Ducks,Michigan Wolverines,+10.5,24.0,+360,10.0
-2026-11-14,9,2026-11-14 | (19) Missouri Tigers | (2) Georgia Bulldogs,(19) Missouri Tigers,+14,2.0,+470,10.0
-2026-11-14,11,2026-11-14 | (10) Texas Longhorns | (15) LSU Tigers,(10) Texas Longhorns,+4.5,3.0,+145,32.0
-2026-11-14,14,2026-11-14 | (13) Texas Tech Red Raiders | Oklahoma ST Cowboys,(13) Texas Tech Red Raiders,+2.5,17.0,+110,3.0
-2026-11-14,15,2026-11-14 | (16) Tennessee Volunteers | Texas A&M Aggies,Texas A&M Aggies,+3,14.0,+130,0.0
-2026-11-14,16,2026-11-14 | (20) Boise ST Broncos | Oregon ST Beavers,Oregon ST Beavers,+4.5,0.0,+154,2.0
-2026-11-14,17,2026-11-14 | (25) Florida Gators | (8) Kentucky Wildcats,(25) Florida Gators,+2.5,1.0,+110,3.0
-2026-11-14,19,2026-11-14 | (23) South Carolina Gamecocks | Arkansas Razorbacks,(23) South Carolina Gamecocks,-8.5,0.0,-325,26.0
+2026-11-14,1,2026-11-14 | Connecticut Huskies | James Madison,Connecticut Huskies,+3.5,0.0,-,0.0
+2026-11-14,2,2026-11-14 | (1) Miami FL Hurricanes | Duke Blue Devils,(1) Miami FL Hurricanes,-14.5,4.0,-650,27.0
+2026-11-14,3,2026-11-14 | Auburn Tigers | Mississippi ST Bulldogs,Auburn Tigers,-,0.0,-,0.0
+2026-11-14,3,2026-11-14 | Auburn Tigers | Mississippi ST Bulldogs,Mississippi ST Bulldogs,-,0.0,-,0.0
+2026-11-14,7,2026-11-14 | Kansas Jayhawks | West Virginia Mountaineers,Kansas Jayhawks,-,0.0,-,0.0
+2026-11-14,7,2026-11-14 | Kansas Jayhawks | West Virginia Mountaineers,West Virginia Mountaineers,-,0.0,-,0.0
+2026-11-14,8,2026-11-14 | (9) Alabama Crimson Tide | Vanderbilt Commodores,Vanderbilt Commodores,-,0.0,+800,0.0
+2026-11-14,9,2026-11-14 | Charlotte 49ers | East Carolina Pirates,East Carolina Pirates,-13.5,0.0,-,0.0
+2026-11-14,10,2026-11-14 | (24) Arizona Wildcats | (3) Utah Utes,(24) Arizona Wildcats,+2.5,0.0,+110,19.0
+2026-11-14,11,2026-11-14 | (7) BYU Cougars | Baylor Bears,Baylor Bears,+7,0.0,+220,0.0
+2026-11-14,12,2026-11-14 | Michigan Wolverines | Oregon Ducks,Michigan Wolverines,+10.5,24.0,+360,9.0
+2026-11-14,13,2026-11-14 | (19) Missouri Tigers | (2) Georgia Bulldogs,(19) Missouri Tigers,+14,2.0,+470,10.0
+2026-11-14,18,2026-11-14 | (13) Texas Tech Red Raiders | Oklahoma ST Cowboys,(13) Texas Tech Red Raiders,+2.5,17.0,+110,12.0
+2026-11-14,19,2026-11-14 | (16) Tennessee Volunteers | Texas A&M Aggies,Texas A&M Aggies,+3,14.0,+130,0.0
+2026-11-14,20,2026-11-14 | Georgia Southern Eagles | Georgia ST Panthers,Georgia Southern Eagles,-,0.0,-,0.0
+2026-11-14,20,2026-11-14 | Georgia Southern Eagles | Georgia ST Panthers,Georgia ST Panthers,-,0.0,-,0.0
+2026-11-14,21,2026-11-14 | Michigan ST Spartans | Washington Huskies,Michigan ST Spartans,+3.5,0.0,-,0.0
+2026-11-14,22,2026-11-14 | (20) Boise ST Broncos | Oregon ST Beavers,Oregon ST Beavers,+4.5,0.0,+154,2.0
+2026-11-14,23,2026-11-14 | (25) Florida Gators | (8) Kentucky Wildcats,(25) Florida Gators,+2.5,1.0,+110,3.0
+2026-11-14,25,2026-11-14 | (23) South Carolina Gamecocks | Arkansas Razorbacks,(23) South Carolina Gamecocks,-8.5,0.0,-325,27.0
 2026-11-21,1,2026-11-21 | Miami FL Hurricanes | Virginia Tech Hokies,Miami FL Hurricanes,-16.5,20.0,-,0.0
 2026-11-21,2,2026-11-21 | Oklahoma Sooners | Texas A&M Aggies,Texas A&M Aggies,+2.5,0.0,-,0.0
 2026-11-21,3,2026-11-21 | LSU Tigers | Tennessee Volunteers,Tennessee Volunteers,+1.5,0.0,+100,0.0
