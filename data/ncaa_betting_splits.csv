@@ -61,7 +61,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-11,2,2026-11-11 | C Michigan Chippewas | Sacramento ST Hornets,Sacramento ST Hornets,+15.5,0.0,+525,0.0
 2026-11-12,2,2026-11-12 | LA Monroe Warhawks | Louisiana Ragin Cajuns,Louisiana Ragin Cajuns,-,0.0,-455,5.0
 2026-11-13,3,2026-11-13 | (17) Houston Cougars | Colorado Buffaloes,Colorado Buffaloes,+10.5,0.0,+320,0.0
-2026-11-14,1,2026-11-14 | (1) Miami FL Hurricanes | Duke Blue Devils,(1) Miami FL Hurricanes,-15.5,0.0,-700,5.0
+2026-11-14,1,2026-11-14 | (1) Miami FL Hurricanes | Duke Blue Devils,(1) Miami FL Hurricanes,-15.5,0.0,-700,14.0
 2026-11-14,5,2026-11-14 | (9) Alabama Crimson Tide | Vanderbilt Commodores,Vanderbilt Commodores,-,0.0,+800,0.0
 2026-11-14,7,2026-11-14 | (7) BYU Cougars | Baylor Bears,Baylor Bears,+6.5,0.0,+180,0.0
 2026-11-14,9,2026-11-14 | (19) Missouri Tigers | (2) Georgia Bulldogs,(19) Missouri Tigers,+14,3.0,+470,11.0
@@ -69,7 +69,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-14,13,2026-11-14 | (13) Texas Tech Red Raiders | Oklahoma ST Cowboys,(13) Texas Tech Red Raiders,+2.5,0.0,+110,2.0
 2026-11-14,14,2026-11-14 | (16) Tennessee Volunteers | Texas A&M Aggies,Texas A&M Aggies,+3,0.0,+130,0.0
 2026-11-14,15,2026-11-14 | (20) Boise ST Broncos | Oregon ST Beavers,Oregon ST Beavers,+4.5,0.0,+154,2.0
-2026-11-14,16,2026-11-14 | (25) Florida Gators | (8) Kentucky Wildcats,(25) Florida Gators,+2.5,2.0,+110,3.0
+2026-11-14,16,2026-11-14 | (25) Florida Gators | (8) Kentucky Wildcats,(25) Florida Gators,+2.5,1.0,+110,3.0
 2026-11-14,18,2026-11-14 | (23) South Carolina Gamecocks | Arkansas Razorbacks,(23) South Carolina Gamecocks,-8.5,0.0,-325,11.0
 2026-11-21,1,2026-11-21 | Miami FL Hurricanes | Virginia Tech Hokies,Miami FL Hurricanes,-16.5,20.0,-,0.0
 2026-11-21,2,2026-11-21 | Oklahoma Sooners | Texas A&M Aggies,Texas A&M Aggies,+2.5,0.0,-,0.0
