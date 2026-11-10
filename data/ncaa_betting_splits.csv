@@ -1,9 +1,9 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-11-11,1,2026-11-11 | Ball ST Cardinals | Buffalo Bulls,Ball ST Cardinals,+2.5,18.0,+114,20.0
-2026-11-12,2,2026-11-12 | LA Monroe Warhawks | Louisiana Ragin Cajuns,LA Monroe Warhawks,+10.5,18.0,+320,13.0
+2026-11-11,1,2026-11-11 | Ball ST Cardinals | Buffalo Bulls,Ball ST Cardinals,+2.5,18.0,+114,18.0
+2026-11-12,2,2026-11-12 | LA Monroe Warhawks | Louisiana Ragin Cajuns,LA Monroe Warhawks,+10.5,18.0,+320,12.0
 2026-11-13,2,2026-11-13 | (4) UCLA Bruins | Illinois Fighting Illini,Illinois Fighting Illini,+10,14.0,+300,4.0
-2026-11-13,3,2026-11-13 | (14) Houston Cougars | Colorado Buffaloes,Colorado Buffaloes,+10,18.0,+310,7.0
-2026-11-14,1,2026-11-14 | Connecticut Huskies | James Madison,Connecticut Huskies,+4,8.0,+160,4.0
+2026-11-13,3,2026-11-13 | (14) Houston Cougars | Colorado Buffaloes,Colorado Buffaloes,+10,30.0,+310,7.0
+2026-11-14,1,2026-11-14 | Connecticut Huskies | James Madison,Connecticut Huskies,+4,7.0,+160,4.0
 2026-11-14,6,2026-11-14 | NC State Wolfpack | Syracuse Orange,Syracuse Orange,-3,17.0,-135,4.0
 2026-11-14,9,2026-11-14 | Clemson Tigers | Georgia Tech Yellow Jackets,Georgia Tech Yellow Jackets,+13.5,0.0,+410,3.0
 2026-11-14,11,2026-11-14 | (7) Alabama Crimson Tide | Vanderbilt Commodores,Vanderbilt Commodores,+15.5,9.0,+575,2.0
@@ -20,13 +20,13 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-14,37,2026-11-14 | Kansas Jayhawks | West Virginia Mountaineers,Kansas Jayhawks,+3,17.0,+120,1.0
 2026-11-14,40,2026-11-14 | (13) Kentucky Wildcats | Florida Gators,Florida Gators,+3.5,8.0,+145,18.0
 2026-11-14,41,2026-11-14 | Air Force Falcons | San Jose ST Spartans,San Jose ST Spartans,+12.5,2.0,+360,0.0
-2026-11-14,43,2026-11-14 | Minnesota Golden Gophers | Penn ST Nittany Lions,Penn ST Nittany Lions,-9.5,14.0,-340,9.0
+2026-11-14,43,2026-11-14 | Minnesota Golden Gophers | Penn ST Nittany Lions,Penn ST Nittany Lions,-9.5,13.0,-340,9.0
 2026-11-14,44,2026-11-14 | S Alabama Jaguars | Troy Trojans,Troy Trojans,+3,0.0,+130,0.0
-2026-11-14,46,2026-11-14 | (16) Iowa Hawkies | Purdue Boilermakers,Purdue Boilermakers,+16.5,18.0,+625,1.0
+2026-11-14,46,2026-11-14 | (16) Iowa Hawkies | Purdue Boilermakers,Purdue Boilermakers,+16.5,5.0,+625,1.0
 2026-11-14,47,2026-11-14 | (24) LSU Tigers | (8) Texas Longhorns,(8) Texas Longhorns,+4,6.0,+150,33.0
 2026-11-14,48,2026-11-14 | (23) New Mexico Lobos | UNLV Rebels,UNLV Rebels,+14,5.0,+440,8.0
 2026-11-14,49,2026-11-14 | Stanford Cardinal | Virginia Tech Hokies,Stanford Cardinal,+15.5,29.0,+500,19.0
-2026-11-14,52,2026-11-14 | (10) Texas Tech Red Raiders | Oklahoma ST Cowboys,(10) Texas Tech Red Raiders,+3.5,13.0,+142,16.0
+2026-11-14,52,2026-11-14 | (10) Texas Tech Red Raiders | Oklahoma ST Cowboys,(10) Texas Tech Red Raiders,+3.5,13.0,+142,17.0
 2026-11-14,53,2026-11-14 | San Diego ST Aztecs | Utah ST Aggies,San Diego ST Aztecs,+2.5,32.0,+114,0.0
 2026-11-14,54,2026-11-14 | UTEP Miners | Wyoming Cowboys,UTEP Miners,+7.5,5.0,+245,0.0
 2026-11-21,1,2026-11-21 | Miami FL Hurricanes | Virginia Tech Hokies,Miami FL Hurricanes,-16.5,20.0,-,0.0
