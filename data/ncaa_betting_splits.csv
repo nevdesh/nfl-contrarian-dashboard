@@ -1,5 +1,5 @@
 game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyline_handle_pct
-2026-11-10,3,2026-11-10 | Miami OH RedHawks | Ohio Bobcats,Miami OH RedHawks,+1.5,18.0,-102,24.0
+2026-11-10,3,2026-11-10 | Miami OH RedHawks | Ohio Bobcats,Miami OH RedHawks,+1.5,18.0,-102,26.0
 2026-11-11,1,2026-11-11 | Ball ST Cardinals | Buffalo Bulls,Ball ST Cardinals,+2.5,22.0,+114,21.0
 2026-11-12,2,2026-11-12 | LA Monroe Warhawks | Louisiana Ragin Cajuns,LA Monroe Warhawks,+10.5,20.0,+320,30.0
 2026-11-13,1,2026-11-13 | Florida ST Seminoles | Pittsburgh Panthers,Florida ST Seminoles,+3.5,31.0,+142,20.0
@@ -23,7 +23,7 @@ game_date,game_number,matchup_id,team,spread,spread_handle_pct,moneyline,moneyli
 2026-11-14,34,2026-11-14 | Michigan ST Spartans | Washington Huskies,Michigan ST Spartans,+3,17.0,+142,19.0
 2026-11-14,37,2026-11-14 | Kansas Jayhawks | West Virginia Mountaineers,Kansas Jayhawks,+3,22.0,+120,1.0
 2026-11-14,39,2026-11-14 | Appalachian ST Mountaineers | Marshall Thundering Herd,Appalachian ST Mountaineers,-1.5,4.0,-120,11.0
-2026-11-14,40,2026-11-14 | (13) Kentucky Wildcats | Florida Gators,Florida Gators,+3.5,8.0,+140,16.0
+2026-11-14,40,2026-11-14 | (13) Kentucky Wildcats | Florida Gators,Florida Gators,+3.5,8.0,+145,16.0
 2026-11-14,41,2026-11-14 | Air Force Falcons | San Jose ST Spartans,San Jose ST Spartans,+12.5,2.0,+360,0.0
 2026-11-14,43,2026-11-14 | Minnesota Golden Gophers | Penn ST Nittany Lions,Penn ST Nittany Lions,-9.5,13.0,-340,9.0
 2026-11-14,44,2026-11-14 | S Alabama Jaguars | Troy Trojans,Troy Trojans,+3,0.0,-,0.0
